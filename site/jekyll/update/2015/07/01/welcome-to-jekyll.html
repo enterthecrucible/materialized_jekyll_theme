@@ -8,12 +8,12 @@
 
   <!-- CSS  -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link href="css/main.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="/css/main.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 </head>
 
   <body>
     <nav class="light-blue lighten-1" role="navigation">
-  <div class="nav-wrapper container"><a id="logo-container" href="index.html" class="brand-logo">J+M</a>
+  <div class="nav-wrapper container"><a id="logo-container" href="/index.html" class="brand-logo">J+M</a>
     <ul class="right hide-on-med-and-down">
       
       
@@ -23,7 +23,7 @@
       
       
       
-      <li><a class="page-link" href="./posts.html">Blog</a></li>
+      <li><a class="page-link" href="/posts.html">Blog</a></li>
       
       
     </ul>
@@ -55,12 +55,17 @@
   </header>
 
   <article class="post-content">
-    <h1 id="this-doesnt-look-right-does-it"><strong>This doesn’t look right, does it?</strong></h1>
+    <h1 id="isnt-this-awesome"><strong>Isn’t this awesome?</strong></h1>
 
-<h2 id="thats-because-materializecss-doesnt-load-properly-when-you-click-on-a-blog-post">That’s because materialize.css doesn’t load properly when you click on a blog post.</h2>
+<p>If this doesn’t look right, you’re probably trying to view this page without running <code>jekyll serve</code> first.</p>
 
-<p>To fix this, edit your site.url and site.baseurl properties and change the url to the css in the default.html layout to use these new properties.
-You’ll find this post in your <code>_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code>jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<p>Oh, btw, code highlighting:</p>
+
+<div class="highlight"><pre><code class="language-java" data-lang="java"><span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span><span class="o">(</span><span class="n">String</span><span class="o">[]</span> <span class="n">args</span><span class="o">)</span> <span class="o">{</span>
+  <span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="s">&quot;Materialize.css + Jekyll = &lt;3&quot;</span><span class="o">);</span>
+  <span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="s">&quot;Curcible is okay too I guess.&quot;</span><span class="o">);</span>
+<span class="o">}</span></code></pre></div>
+
 
   </article>
 

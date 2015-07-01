@@ -4,9 +4,15 @@ title:  "Welcome to Jekyll!"
 date:   2015-07-01 13:33:04
 categories: jekyll update
 ---
-# **This doesn't look right, does it?**
+# **Isn't this awesome?**
 
-## That's because materialize.css doesn't load properly when you click on a blog post.
+If this doesn't look right, you're probably trying to view this page without running `jekyll serve` first.
 
-To fix this, edit your site.url and site.baseurl properties and change the url to the css in the default.html layout to use these new properties.
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Oh, btw, code highlighting:
+
+{% highlight java %}
+public static void main(String[] args) {
+  System.out.println("Materialize.css + Jekyll = <3");
+  System.out.println("Curcible is okay too I guess.");
+}
+{% endhighlight %}
