@@ -1,6 +1,6 @@
 # Site settings
-title: Jekyll + Materialize = <3
-description: "Just when you didn't think Jekyll could get any better, it got materialized."
+title: Associazione Italiana Studenti di Fisica
+description: Sito in costruzione, un po' di pazienza
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 destination: ../site/
 
