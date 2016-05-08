@@ -4,7 +4,7 @@ title: Chi Siamo
 permalink: /about/
 ---
 
-<img class="materialboxed" data-caption="Foto di gruppo alla prima CISF, Torino 2015" width="100%" src="{{ site.url }}/img/photos/cisf2015/group02.jpg">
+<img class="materialboxed" data-caption="Foto di gruppo alla prima CISF, Torino 2015" width="100%" src="{{ site.url }}/img/photos/2015-CISF/group02.jpg">
 
 L'AISF è l'Associazione Italiana degli Studenti di Fisica. È un'associazione con finalità educative e senza fine di lucro. Suoi membri sono tutti gli studenti, iscritti ad un corso di laurea o un dottorato in fisica, che ne facciano richiesta e siano in regola con la quota associativa. Le finalità e gli scopi dell'AISF sono la promozione delle scienze e in particolare della fisica fra gli studenti e lo sviluppo di relazioni fra studenti delle diverse parti del paese.
 
