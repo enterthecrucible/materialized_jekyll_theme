@@ -1,7 +1,7 @@
 # Site settings
 title: Associazione Italiana Studenti di Fisica
 description: Sito in costruzione, un po' di pazienza
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+# url: "http://yourdomain.com" # the base hostname & protocol for your site
 destination: ../site/
 
 # Build settings
