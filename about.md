@@ -25,3 +25,4 @@ L'AISF si organizza in Comitati Locali, ciascuno con un Presidente. La lista dei
 ## Provenienza geografica
 
 La provenienza geografica dei membri AISF è si può trovare in questa pagina.
+
