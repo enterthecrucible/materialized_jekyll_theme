@@ -112,7 +112,19 @@ layout: default
     <div class="row">
       <div class="col s12 m12">
 	<h4>Le ultime dal Blog</h4>
-	<p>Qui ci mettiamo gli ultimi 2-3 articoli del blog</p>
+	<!-- <div class="blog-index">   -->
+	<!--   {% assign post = site.posts.first %} -->
+	<!--   {% assign content = post.excerpt %} -->
+	<!--   {% include post_detail.html %} -->
+	<!-- </div> -->
+	<div class="blog-index">
+	  {% for post in site.posts limit:2 %}
+	  {% assign post = site.posts.first %}
+	  {% assign content = post.excerpt %}
+	  {% include post_detail.html %}
+	  {% endfor %}
+	  <div class="divider"></div>
+	</div>
       </div>
     </div>
   </div>
