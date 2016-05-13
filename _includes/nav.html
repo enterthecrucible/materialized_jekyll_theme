@@ -1,0 +1,44 @@
+{% assign navurl = page.url | remove: 'index.html' %}
+<nav class="aisf" role="navigation">
+  <div class="nav-wrapper container"><a id="logo-container" href="/index.html" class="brand-logo">AISF</a>
+    {% for item in include.nav %}
+    {% if item.subitems %}
+    <ul id="dropdown-{{ item.slug }}" class="dropdown-content">
+      <li><a href="{{ item.url }}">{{ item.text }}</a></li>
+      {% for subitem in item.subitems %}
+      <li><a href="{{ subitem.url }}">{{ subitem.text }}</a></li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+    {% endfor %}
+<ul class="right hide-on-med-and-down">
+  {% for item in include.nav %}
+  {% if item.subitems %}
+  <li>
+    <a class="dropdown-button" href="{{ item.url }}" data-activates="dropdown-{{ item.slug }}">{{ item.text }}<i class="material-icons right">arrow_drop_down</i></a>
+  </li>
+  {% else %}
+    <li>
+        <a href="{{ item.url }}">
+            {% if item.url == navurl %}
+                <b>{{ item.text }}</b>
+            {% else %}
+                {{ item.text }}
+            {% endif %}
+        </a>
+    </li>
+    {% endif %}
+{% endfor %}
+</ul>
+
+<!-- finire di sistemare -->
+<ul id="nav-mobile" class="side-nav">
+      {% for page in site.pages %}
+      <li><a href="#">{{ page.title }}</a></li>
+      {% endfor %}
+    </ul>
+<a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
+
+
+  </div>
+</nav>
