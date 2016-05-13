@@ -75,4 +75,4 @@ L'AISF conta al momento 10 comitati locali in altrettante università:
 
 ## Provenienza geografica
 
-Qui è possibile trovare ulteriori informazioni sullo storico della provenienza geografica dei membri AISF.
+<a href="/geo/">Qui</a> è possibile trovare ulteriori informazioni sullo storico della provenienza geografica dei membri AISF.
