@@ -6,7 +6,7 @@ permalink: /esecutivo/
 
 <div class="row">
   <div class="col s12 m4">
-    <img class="materialboxed" data-caption="Comitati Esecutivi 2015-2016 e 2016-2017. Assente Francesco Sciortino" width="100%" src="{{ site.url }}/img/people/2015-16_esecutivo.jpg">
+    <img class="materialboxed" data-caption="Comitati Esecutivi 2015-2016 e 2016-2017. Assente Francesco Sciortino" width="100%" src="{{ site.url }}/img/esecutivo/2015-16_esecutivo.jpg">
   </div>
   <div class="col s12 m8">
 <p>Organo amministrativo ed esecutivo dell'Associazione è il Comitato Esecutivo, attualmente composto da 7 membri eletti durante le Assemblee Generali.</p>
@@ -26,7 +26,7 @@ permalink: /esecutivo/
   <div class="card-panel grey lighten-5 z-depth-1">
     <div class="row valign-wrapper">
       <div class="col s2">
-        <img src="/img/people/andrea.jpg" alt="" class="circle responsive-img"> <!-- notice the "circle" class -->
+        <img src="/img/esecutivo/andrea.jpg" alt="" class="circle responsive-img"> <!-- notice the "circle" class -->
       </div>
       <div class="col s10">
 	<h5>Andrea Celon - Presidente</h5>
@@ -44,7 +44,7 @@ permalink: /esecutivo/
   <div class="card-panel grey lighten-5 z-depth-1">
     <div class="row valign-wrapper">
       <div class="col s2">
-        <img src="/img/people/marta.jpg" alt="" class="circle responsive-img"> <!-- notice the "circle" class -->
+        <img src="/img/esecutivo/marta.jpg" alt="" class="circle responsive-img"> <!-- notice the "circle" class -->
       </div>
       <div class="col s10">
 	<h5>Marta Crisanti - Vicepresidente e resp. Relazioni</h5>
@@ -62,7 +62,7 @@ permalink: /esecutivo/
   <div class="card-panel grey lighten-5 z-depth-1">
     <div class="row valign-wrapper">
       <div class="col s2">
-        <img src="/img/people/vittorio.jpg" alt="" class="circle responsive-img"> <!-- notice the "circle" class -->
+        <img src="/img/esecutivo/vittorio.jpg" alt="" class="circle responsive-img"> <!-- notice the "circle" class -->
       </div>
       <div class="col s10">
 	<h5>Vittorio Erba - Segretario</h5>
@@ -80,7 +80,7 @@ permalink: /esecutivo/
   <div class="card-panel grey lighten-5 z-depth-1">
     <div class="row valign-wrapper">
       <div class="col s2">
-        <img src="/img/people/michele.jpg" alt="" class="circle responsive-img"> <!-- notice the "circle" class -->
+        <img src="/img/esecutivo/michele.jpg" alt="" class="circle responsive-img"> <!-- notice the "circle" class -->
       </div>
       <div class="col s10">
 	<h5>Michele Re Fiorentin - Tesoriere</h5>
@@ -98,7 +98,7 @@ permalink: /esecutivo/
   <div class="card-panel grey lighten-5 z-depth-1">
     <div class="row valign-wrapper">
       <div class="col s2">
-        <img src="/img/people/francesco.jpg" alt="" class="circle responsive-img"> <!-- notice the "circle" class -->
+        <img src="/img/esecutivo/francesco.jpg" alt="" class="circle responsive-img"> <!-- notice the "circle" class -->
       </div>
       <div class="col s10">
 	<h5>Francesco Sciortino - Coordinatore Eventi</h5>
@@ -116,7 +116,7 @@ permalink: /esecutivo/
   <div class="card-panel grey lighten-5 z-depth-1">
     <div class="row valign-wrapper">
       <div class="col s2">
-        <img src="/img/people/giulio.jpg" alt="" class="circle responsive-img"> <!-- notice the "circle" class -->
+        <img src="/img/esecutivo/giulio.jpg" alt="" class="circle responsive-img"> <!-- notice the "circle" class -->
       </div>
       <div class="col s10">
 	<h5>Giulio Pasqualetti - IT Manager e Affari Esteri</h5>
@@ -135,7 +135,7 @@ permalink: /esecutivo/
   <div class="card-panel grey lighten-5 z-depth-1">
     <div class="row valign-wrapper">
       <div class="col s2">
-        <img src="/img/people/lucio.jpg" alt="" class="circle responsive-img"> <!-- notice the "circle" class -->
+        <img src="/img/esecutivo/lucio.jpg" alt="" class="circle responsive-img"> <!-- notice the "circle" class -->
       </div>
       <div class="col s10">
 	<h5>Lucio Maria Milanese - Responsabile progetto FERMI</h5>
@@ -155,7 +155,7 @@ permalink: /esecutivo/
   <div class="card-panel grey lighten-5 z-depth-1">
     <div class="row valign-wrapper">
       <div class="col s2">
-        <img src="/img/people/lorenzo.jpg" alt="" class="circle responsive-img"> <!-- notice the "circle" class -->
+        <img src="/img/esecutivo/lorenzo.jpg" alt="" class="circle responsive-img"> <!-- notice the "circle" class -->
       </div>
       <div class="col s10">
 	<h5>Lorenzo Bianchi</h5>
@@ -173,7 +173,7 @@ permalink: /esecutivo/
   <div class="card-panel grey lighten-5 z-depth-1">
     <div class="row valign-wrapper">
       <div class="col s2">
-        <img src="/img/people/david.jpg" alt="" class="circle responsive-img"> <!-- notice the "circle" class -->
+        <img src="/img/esecutivo/david.jpg" alt="" class="circle responsive-img"> <!-- notice the "circle" class -->
       </div>
       <div class="col s10">
 	<h5>David Chiappini</h5>
