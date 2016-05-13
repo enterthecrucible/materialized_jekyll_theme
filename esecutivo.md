@@ -121,7 +121,7 @@ permalink: /esecutivo/
       <div class="col s10">
 	<h5>Giulio Pasqualetti - IT Manager e Affari Esteri</h5>
         <span class="black-text">
-	 Studente di fisica dell'Università di Pisa, attualmente frequenta il secondo anno della laurea triennale. Ama la fisica, l'informatica ed è un grande appassionato del software libero.
+	 Studente di fisica dell'Università di Pisa, sta finendo la laurea triennale. Si interessa di fisica e computazionabilità.
         </span>
         <br><br>
 	<div class="row"><a class="waves-effect waves-light btn" href="mailto:giulio.pasqualetti@ai-sf.it">mail</a></div>
