@@ -1,0 +1,101 @@
+$social-color-pallete: (
+     facebook: $secondary-color,
+     tumblr: $secondary-color,
+     linkedin: $secondary-color,
+     twitter: $secondary-color,
+     google-plus: $secondary-color,
+     reddit: $secondary-color,
+     youtube: $secondary-color,
+     pinterest: $secondary-color,
+     github: $secondary-color,
+     envelope: $secondary-color,
+     soundcloud: $secondary-color
+);
+
+$social-default-icon-color: #fff;
+$social-default-btn-color: #666;
+$social-icon-size: 20px;
+$social-icon-border: 1px;
+$social-icon-border-radius: 2px;
+
+$brand-color: #006FC2;
+
+.icon-link {
+    width: $social-icon-size;
+    height: $social-icon-size;
+    background-color: $social-default-btn-color;
+    line-height: $social-icon-size;
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+    cursor: pointer;
+    outline: none;
+    margin: 2px;
+   @include box-sizing(content-box);
+    
+    &.fill {
+      @each $social-alias, $social-color in $social-color-pallete {
+        &.#{$social-alias} {
+          background-color: $social-color;
+          &:hover {
+            background-color: #fff;
+            .fa-#{$social-alias} {
+              color: $social-color;
+              @include transition(color 150ms ease-in-out);
+            }
+          }
+        }
+      }
+    }
+  
+  &.brand {
+    background-color: #fff;
+    .fa {
+      color: $brand-color;
+    }
+  }
+    
+    &.round {
+      border-radius: 50%;
+    }
+    
+    &.round-corner {
+      border-radius: $social-icon-border-radius;
+    }
+  
+    &:hover {
+      @include transition(background-color 150ms ease-in-out);
+      height: $social-icon-size - $social-icon-border * 2;
+      line-height: $social-icon-size - $social-icon-border * 2;
+      width: $social-icon-size - $social-icon-border * 2;
+      background-color: #fff;
+      
+      @each $social-alias, $social-color in $social-color-pallete {
+        &.#{$social-alias} {
+          border: $social-icon-border solid $social-color;
+        }
+      }
+      
+      .fa {
+        line-height: $social-icon-size - $social-icon-border * 2;
+      }
+      
+      @each $social-alias, $social-color in $social-color-pallete {
+        .fa-#{$social-alias} {
+            color: $social-color;
+            @include transition(color 150ms ease-in-out);
+        }
+      }
+  }
+  
+  .fa{ 
+    color: $social-default-icon-color;
+    line-height: $social-icon-size;
+    font-size: $social-icon-size - $social-icon-size * 0.40;
+  }
+}
+
+.brand-icons {
+  background-color: #ddd;
+  padding: 10px 0;
+}
