@@ -170,7 +170,7 @@ permalink: /esecutivo/
       <div class="col s10">
 	<h5>David Chiappini</h5>
         <span class="black-text">
-	 Boh
+	 Scrivi tu
         </span>
 	<div class="row"><a class="waves-effect waves-light btn" href="mailto:david.chiappini@edu.unito.it">mail</a></div>
       </div>
