@@ -6,3 +6,6 @@ destination: ../site/
 
 # Build settings
 markdown: kramdown
+
+#additional gems wanted by the css icons, goddammit
+gems: [bourbon, neat]
