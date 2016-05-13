@@ -178,7 +178,7 @@ permalink: /esecutivo/
       <div class="col s10">
 	<h5>David Chiappini</h5>
         <span class="black-text">
-	 Attualmente al terzo anno di Fisica presso l'Università degli Studi di Torino, 
+	 Attualmente al terzo anno di Fisica presso l'Università degli Studi di Torino, ancora speranzoso di ottenere la laurea entro settembre. Accanìto lettore di fantascianza e di saggistica.
         </span>
         <br><br>
 	<div class="row"><a class="waves-effect waves-light btn" href="mailto:david.chiappini@edu.unito.it">mail</a></div>
