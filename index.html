@@ -1,19 +1,19 @@
 ---
 layout: default
 ---
-<div id="index-banner" style="background-image: url('img/banner.png');background-size: cover;background-position: center;position: relative;min-height: 450px;">
+<div id="index-banner" style="background-image: url('img/banner.png');background-size: cover;background-position: center;position: relative;min-height: 450px;" class="no-pad">
     <br><br>
 <div class="container">
-    <div class="card z-depth-1 aisf" style="background-color: rgba(255, 255,255, 0.90);">
-      <h1 class="header center blue-text">{{ site.title }}</h1>
+    <div class="card z-depth-1" style="background-color: rgba(255, 255,255, 0.90);">
+      <h1 class="header center aisf-text">{{ site.title }}</h1>
       <div class="row center">
-        <h5 class="header col s12 light">{{ site.description }}</h5>
+        <h5 class="header col s12 light aisf-text text-accent-2">{{ site.description }}</h5>
       </div>
     </div>
 </div>
 </div>
 
-<div class="z-depth-1">
+<div class="no-pad">
     <div class="container">
       <div class="section">
         <!--   Icon Section   -->
@@ -167,5 +167,5 @@ layout: default
       $(".button-collapse").sideNav();
       // Initialize collapsible (uncomment the line below if you use the dropdown variation)
       //$('.collapsible').collapsible();</script>
-    </div>
+</div>
 </div>
