@@ -14,156 +14,158 @@ layout: default
 </div>
 
 <div class="z-depth-1">
-  <div class="section">
-    <!--   Icon Section   -->
-    <div class="row">
-      <div class="col s12 m6">
-        <div class="icon-block">
-          <h5 class="center">Chi siamo</h5>
+    <div class="container">
+      <div class="section">
+        <!--   Icon Section   -->
+        <div class="row">
+          <div class="col s12 m6">
+            <div class="icon-block">
+              <h5 class="center">Chi siamo</h5>
 
-          <p class="light">Devo capire megli ocosa mettere in queste due aree all'inizio.</p>
+              <p class="light">Devo capire megli ocosa mettere in queste due aree all'inizio.</p>
+            </div>
+          </div>
+
+          <div class="col s12 m6">
+            <div class="icon-block">
+              <h5 class="center">Iscriviti</h5>
+              <p class="light">Possono iscriversi all'AISF tutti gli studenti di Fisica italiani iscritti a un corso di laurea triennale, magistrale o dottorato.</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col s12 m6">
+            <div class="row center">
+              <a href="{{ site.url }}/about/" id="download-button" class="btn-large waves-effect waves-light orange">Chi siamo</a>
+            </div>
+          </div>
+          <div class="col s12 m6">
+            <div class="row center">
+              <a href="{{ site.url }}/iscrizione/" id="download-button" class="btn-large waves-effect waves-light orange">Iscriviti</a>
+            </div>
+          </div>
+        </div>
+        <br><br>
+      </div>
+
+      <div class="section"> <!-- eventi -->
+        <h4>Gli eventi</h4>
+        <p>L'AISF è bella perché organizza tanti eventi in cui bla bla bla</p>
+        <div class="row">
+          <div class="col s12 m8">
+            <!-- <img class="materialboxed" width="650" src="{{ site.url }}/img/photos/cisf2015/group02.jpg"> -->
+
+      <div class="slider">
+        <ul class="slides">
+          <li>
+            <img src="{{ site.url }}/img/photos/2016-CISF/group01.jpg"> <!-- random image -->
+            <div class="caption left-align">
+              <h3>CISF 2016</h3>
+              <h5 class="light grey-text text-lighten-3">Torino, aprile 2016</h5>
+            </div>
+          </li>
+          <li>
+            <img src="{{ site.url }}/img/photos/2015-LoT/group01.jpg"> <!-- random image -->
+            <div class="caption right-align">
+              <h3>Lights of Tuscany</h3>
+              <h5 class="light grey-text text-lighten-3">Pisa, dicembre 2015</h5>
+            </div>
+          </li>
+          <li>
+            <img src="{{ site.url }}/img/photos/2015-iaps4fusion/group02.jpg"> <!-- random image -->
+            <div class="caption left-align">
+              <h3>iaps4fusion</h3>
+              <h5 class="light grey-text text-lighten-3">Londra, settembre 2015</h5>
+            </div>
+          </li>
+          <li>
+            <img src="{{ site.url }}/img/photos/2015-ICPS/group01.jpg"> <!-- random image -->
+            <div class="caption right-align">
+              <h3>ICPS2015</h3>
+              <h5 class="light grey-text text-lighten-3">Zagabria, agosto 2015</h5>
+            </div>
+          </li>
+        </ul>
+      </div>	    
+          </div>
+          <div class="col s12 m4">
+        <h5>Prossimi eventi</h5>
+        <ul class="collapsible" data-collapsible="accordion">
+          <li>
+            <div class="collapsible-header"><i class="material-icons">filter_drama</i>PLANCKS2016</div>
+            <div class="collapsible-body"><p>Lorem ipsum dolor sit amet.</p></div>
+          </li>
+          <li>
+            <div class="collapsible-header"><i class="material-icons">place</i>ICPS2017</div>
+            <div class="collapsible-body"><p>Lorem ipsum dolor sit amet.</p></div>
+          </li>
+          <li>
+            <div class="collapsible-header"><i class="material-icons">whatshot</i>iaps@GranSasso</div>
+            <div class="collapsible-body"><p>Lorem ipsum dolor sit amet.</p></div>
+          <li>
+            <div class="collapsible-header"><i class="material-icons">whatshot</i>iaps4fusion</div>
+            <div class="collapsible-body"><p>Lorem ipsum dolor sit amet.</p></div>
+          </li>
+          <li>
+            <div class="collapsible-header"><i class="material-icons">whatshot</i>Lights of Tuscany</div>
+            <div class="collapsible-body"><p>Lorem ipsum dolor sit amet.</p></div>
+          </li>
+          </li>
+        </ul>
+          </div>
         </div>
       </div>
 
-      <div class="col s12 m6">
-        <div class="icon-block">
-          <h5 class="center">Iscriviti</h5>
-          <p class="light">Possono iscriversi all'AISF tutti gli studenti di Fisica italiani iscritti a un corso di laurea triennale, magistrale o dottorato.</p>
+      <div class="section"> <!-- blog -->
+        <div class="row">
+          <div class="col s12 m12">
+        <h4>Le ultime dal Blog</h4>
+        <!-- <div class="blog-index">   -->
+        <!--   {% assign post = site.posts.first %} -->
+        <!--   {% assign content = post.excerpt %} -->
+        <!--   {% include post_detail.html %} -->
+        <!-- </div> -->
+        <div class="blog-index">
+          {% for post in site.posts limit:2 %}
+          {% assign post = site.posts.first %}
+          {% assign content = post.excerpt %}
+          {% include post_detail.html %}
+          {% endfor %}
+          <div class="divider"></div>
+        </div>
+          </div>
         </div>
       </div>
+
+      <div class="section"> <!-- social -->
+        <div class="row">
+          <div class="col s12 m6">
+        <div class="fb-page" data-href="https://www.facebook.com/ass.it.stud.fis" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/ass.it.stud.fis"><a href="https://www.facebook.com/ass.it.stud.fis">Associazione Italiana Studenti di Fisica</a></blockquote></div></div>
+          </div>
+          <div class="col s12 m6">Qui a sinistra ci mettiamo Facebook e a destra Twitter</div>
+        </div>
+      </div>
+
+
+
+      <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+      <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+      <script src="./theme/js/materialize.js"></script>
+      <script src="./theme/js/init.js"></script>
+      <script>  $(document).ready(function(){
+          $('.slider').slider({full_width: false});
+        });</script>
+      <script> // Initialize collapse button
+      $(".button-collapse").sideNav();
+      // Initialize collapsible (uncomment the line below if you use the dropdown variation)
+      //$('.collapsible').collapsible();</script>
     </div>
-    <div class="row">
-      <div class="col s12 m6">
-        <div class="row center">
-          <a href="{{ site.url }}/about/" id="download-button" class="btn-large waves-effect waves-light orange">Chi siamo</a>
-        </div>
-      </div>
-      <div class="col s12 m6">
-        <div class="row center">
-          <a href="{{ site.url }}/iscrizione/" id="download-button" class="btn-large waves-effect waves-light orange">Iscriviti</a>
-        </div>
-      </div>
-    </div>
-    <br><br>
-  </div>
-
-  <div class="section"> <!-- eventi -->
-    <h4>Gli eventi</h4>
-    <p>L'AISF è bella perché organizza tanti eventi in cui bla bla bla</p>
-    <div class="row">
-      <div class="col s12 m8">
-	    <!-- <img class="materialboxed" width="650" src="{{ site.url }}/img/photos/cisf2015/group02.jpg"> -->
-
-  <div class="slider">
-    <ul class="slides">
-      <li>
-        <img src="{{ site.url }}/img/photos/2016-CISF/group01.jpg"> <!-- random image -->
-        <div class="caption left-align">
-          <h3>CISF 2016</h3>
-          <h5 class="light grey-text text-lighten-3">Torino, aprile 2016</h5>
-        </div>
-      </li>
-      <li>
-        <img src="{{ site.url }}/img/photos/2015-LoT/group01.jpg"> <!-- random image -->
-        <div class="caption right-align">
-          <h3>Lights of Tuscany</h3>
-          <h5 class="light grey-text text-lighten-3">Pisa, dicembre 2015</h5>
-        </div>
-      </li>
-      <li>
-        <img src="{{ site.url }}/img/photos/2015-iaps4fusion/group02.jpg"> <!-- random image -->
-        <div class="caption left-align">
-          <h3>iaps4fusion</h3>
-          <h5 class="light grey-text text-lighten-3">Londra, settembre 2015</h5>
-        </div>
-      </li>
-      <li>
-        <img src="{{ site.url }}/img/photos/2015-ICPS/group01.jpg"> <!-- random image -->
-        <div class="caption right-align">
-          <h3>ICPS2015</h3>
-          <h5 class="light grey-text text-lighten-3">Zagabria, agosto 2015</h5>
-        </div>
-      </li>
-    </ul>
-  </div>	    
-      </div>
-      <div class="col s12 m4">
-	<h5>Prossimi eventi</h5>
-	<ul class="collapsible" data-collapsible="accordion">
-	  <li>
-	    <div class="collapsible-header"><i class="material-icons">filter_drama</i>PLANCKS2016</div>
-	    <div class="collapsible-body"><p>Lorem ipsum dolor sit amet.</p></div>
-	  </li>
-	  <li>
-	    <div class="collapsible-header"><i class="material-icons">place</i>ICPS2017</div>
-	    <div class="collapsible-body"><p>Lorem ipsum dolor sit amet.</p></div>
-	  </li>
-	  <li>
-	    <div class="collapsible-header"><i class="material-icons">whatshot</i>iaps@GranSasso</div>
-	    <div class="collapsible-body"><p>Lorem ipsum dolor sit amet.</p></div>
-	  <li>
-	    <div class="collapsible-header"><i class="material-icons">whatshot</i>iaps4fusion</div>
-	    <div class="collapsible-body"><p>Lorem ipsum dolor sit amet.</p></div>
-	  </li>
-	  <li>
-	    <div class="collapsible-header"><i class="material-icons">whatshot</i>Lights of Tuscany</div>
-	    <div class="collapsible-body"><p>Lorem ipsum dolor sit amet.</p></div>
-	  </li>
-	  </li>
-	</ul>
-      </div>
-    </div>
-  </div>
-  
-  <div class="section"> <!-- blog -->
-    <div class="row">
-      <div class="col s12 m12">
-	<h4>Le ultime dal Blog</h4>
-	<!-- <div class="blog-index">   -->
-	<!--   {% assign post = site.posts.first %} -->
-	<!--   {% assign content = post.excerpt %} -->
-	<!--   {% include post_detail.html %} -->
-	<!-- </div> -->
-	<div class="blog-index">
-	  {% for post in site.posts limit:2 %}
-	  {% assign post = site.posts.first %}
-	  {% assign content = post.excerpt %}
-	  {% include post_detail.html %}
-	  {% endfor %}
-	  <div class="divider"></div>
-	</div>
-      </div>
-    </div>
-  </div>
-  
-  <div class="section"> <!-- social -->
-    <div class="row">
-      <div class="col s12 m6">
-	<div class="fb-page" data-href="https://www.facebook.com/ass.it.stud.fis" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/ass.it.stud.fis"><a href="https://www.facebook.com/ass.it.stud.fis">Associazione Italiana Studenti di Fisica</a></blockquote></div></div>
-      </div>
-      <div class="col s12 m6">Qui a sinistra ci mettiamo Facebook e a destra Twitter</div>
-    </div>
-  </div>
-
-
-
-  <div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-  <script src="./theme/js/materialize.js"></script>
-  <script src="./theme/js/init.js"></script>
-  <script>  $(document).ready(function(){
-      $('.slider').slider({full_width: false});
-    });</script>
-  <script> // Initialize collapse button
-  $(".button-collapse").sideNav();
-  // Initialize collapsible (uncomment the line below if you use the dropdown variation)
-  //$('.collapsible').collapsible();</script>
 </div>
