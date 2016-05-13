@@ -13,3 +13,7 @@ img .fullwidth { /* non funziona, perché? */
   border-radius: 16px;
   background-color: #e4e4e4;
 }
+
+span {
+    text-align: justify;
+}

@@ -33,7 +33,8 @@ permalink: /esecutivo/
         <span class="black-text">
 	  Andrea Celon studia fisica presso l'Univesità di Torino e ha conseguito la laurea triennale nel 2012. Attualmente sta portando a termine la laurea magistrale in Fisica Teorica. Prende parte all'ICPS dal 2012.
         </span>
-	<div class="row"><a class="waves-effect waves-light btn" href="mailto:andrea.celon@ai-sf.it">mail</a></div>
+        <br><br>
+        <div class="row"><a class="waves-effect waves-light btn" href="mailto:andrea.celon@ai-sf.it">mail</a></div>
       </div>
     </div>
   </div>
@@ -50,6 +51,7 @@ permalink: /esecutivo/
         <span class="black-text">
 	  Studentessa di fisica all'Università degli studi di Perugia, attualmente iscritta al corso di laurea magistrale in fisica. Ha lavorato nel campo dell'Energy Harvesting studiando il comportamento di sistemi non lineari. Ora si occupa di studio e sviluppo di tecnologie per rivelatori di particelle.
         </span>
+        <br><br>
 	<div class="row"><a class="waves-effect waves-light btn" href="mailto:marta.crisanti@ai-sf.it">mail</a></div>
       </div>
     </div>
@@ -67,6 +69,7 @@ permalink: /esecutivo/
         <span class="black-text">
 	 Studente di Fisica presso l'Università degli Studi di Milano, attualmente frequenta il secondo anno della laurea triennale. Appassionato di Fisica e di Matematica, "quella un po' inutile, fine a se stessa".
         </span>
+        <br><br>
 	<div class="row"><a class="waves-effect waves-light btn" href="mailto:vittorio.erba@ai-sf.it">mail</a></div>
       </div>
     </div>
@@ -84,6 +87,7 @@ permalink: /esecutivo/
         <span class="black-text">
 	 Laureato in Fisica presso l'Università degli Studi di Torino, attualmente e' studente di dottorato all'Università di Southampton, dove si occupa di cosmologia e fisica astroparticellare da un punto di vista teorico.
         </span>
+        <br><br>
 	<div class="row"><a class="waves-effect waves-light btn" href="mailto:michele.refiorentin@ai-sf.it">mail</a></div>
       </div>
     </div>
@@ -101,6 +105,7 @@ permalink: /esecutivo/
         <span class="black-text">
 	 Francesco studia fisica all'Imperial College di Londra. Attualmente si trova all'EPFL (Svizzera), dove sta lavorando ad un progetto master nel campo della fusione nucleare al Centro di Ricerca per la Fisica dei Plasmi (CRPP). Francesco e' anche un membro del Comitato Esecutivo dell'International Association of Physics Students (IAPS) e si occupa in particolare delle visite scientifiche del gruppo.
         </span>
+        <br><br>
 	<div class="row"><a class="waves-effect waves-light btn" href="mailto:francesco.sciortino@ai-sf.it">mail</a></div>
       </div>
     </div>
@@ -118,6 +123,7 @@ permalink: /esecutivo/
         <span class="black-text">
 	 Studente di fisica dell'Università di Pisa, sta finendo la laurea triennale. Si interessa di fisica e computazionabilità.
         </span>
+        <br><br>
 	<div class="row"><a class="waves-effect waves-light btn" href="mailto:giulio.pasqualetti@ai-sf.it">mail</a></div>
       </div>
     </div>
@@ -136,6 +142,7 @@ permalink: /esecutivo/
         <span class="black-text">
 	 Studente di fisica all'Imperial College di Londra, sta completando il lavoro di tesi su validazione di codici che simulano la dinamica del plasma presso l'École Polytechnique Fédérale de Lausanne. Oltre che di fisica, è appassionato di storia, politica ed economia.
         </span>
+        <br><br>
 	<div class="row"><a class="waves-effect waves-light btn" href="mailto:lucio.milanese@ai-sf.it">mail</a></div>
       </div>
     </div>
@@ -155,6 +162,7 @@ permalink: /esecutivo/
         <span class="black-text">
 	 Laureato in Fisica presso l'Universita' degli Studi di Torino, attualmente è studente di dottorato all'Università Humboldt di Berlino, dove si occupa di modelli integrabili nel contesto di teorie di stringhe e teorie di gauge.
         </span>
+        <br><br>
 	<div class="row"><a class="waves-effect waves-light btn" href="mailto:lorenzo.bianchi@ai-sf.it">mail</a></div>
       </div>
     </div>
@@ -170,8 +178,9 @@ permalink: /esecutivo/
       <div class="col s10">
 	<h5>David Chiappini</h5>
         <span class="black-text">
-	 Scrivi tu
+	 Attualmente al terzo anno di Fisica presso l'Università degli Studi di Torino, ancora speranzoso di ottenere la laurea entro settembre. Accanìto lettore di fantascianza e di saggistica.
         </span>
+        <br><br>
 	<div class="row"><a class="waves-effect waves-light btn" href="mailto:david.chiappini@edu.unito.it">mail</a></div>
       </div>
     </div>
