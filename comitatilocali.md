@@ -52,7 +52,7 @@ L'AISF conta al momento 10 comitati locali in altrettante università:
       Fondazione 07/2015
     </p>
     <a href="mailto:pisa@ai-sf.it"><i class="fa fa-envelope"></i></a>
-    <a href="https://www.facebook.com/ComitatoLocalePisa/?fref=ts"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+    <a href="https://www.facebook.com/ComitatoLocalePisa/"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
 
   </li>
   <li class="collection-item avatar">
