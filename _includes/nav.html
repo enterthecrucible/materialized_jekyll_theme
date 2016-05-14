@@ -34,7 +34,7 @@
 <!-- finire di sistemare -->
 <ul id="nav-mobile" class="side-nav">
       {% for page in site.pages %}
-      <li><a href="#">{{ page.title }}</a></li>
+      <li><a href="{{ page.url }}">{{ page.title }}</a></li>
       {% endfor %}
     </ul>
 <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>

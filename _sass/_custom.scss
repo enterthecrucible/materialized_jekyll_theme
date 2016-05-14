@@ -17,3 +17,8 @@ img .fullwidth { /* non funziona, perché? */
 span {
     text-align: justify;
 }
+
+//sets color for font-awesome icons
+.fa {
+    color: $secondary-color
+}
