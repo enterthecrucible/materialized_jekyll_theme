@@ -2,7 +2,8 @@
 layout: post
 title:  "ParticleBeers Torino"
 date:   2016-01-25 09:46
-categories: 
+categories: Torino
+Author: Mattia Ivaldi, Raquel Gomez Ambrosio
 ---
 
 Mercoledì 20 gennaio si è svolto il primo ParticleBeers, organizzato dal Comitato Locale di Torino.
@@ -43,6 +44,3 @@ I quattro speakers sono stati, infatti, magistrali. Il ben noto Riccardo Longo, 
   
 Il ParticleBeers è stata una vetrina di grande importanza per l’Associazione poiché ne ha mostrato - nuovamente - la capacità di organizzare eventi eccellenti e, soprattutto, di respiro generale, in grado di interessare non solo gli studenti universitari. Sono, infine, molto felice di segnalare la partecipazione di Enrico Catalano, studente milanese, che ci ha raggiunti per l’occasione. Questo è un ottimo segnale che indica l’interesse verso eventi locali organizzati da altri Comitati, interesse che, crescendo, può portare a una più intensa e produttiva collaborazione tra le varie parti del Paese. Speriamo, quindi, di vedere crescere il nostro pubblico nelle prossime edizioni!
 
-Testo: Mattia Ivaldi
-
-Foto: Raquel Gomez Ambrosio
