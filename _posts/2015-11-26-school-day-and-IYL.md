@@ -2,7 +2,7 @@
 layout: post
 title:  "School Day and IYL"
 date:   2015-11-26 18:37
-categories: Bari, IYL
+categories: Bari IYL
 author: Simona Rossini
 ---
 
