@@ -6,7 +6,7 @@ permalink: /esecutivo/
 
 <div class="row">
   <div class="col s12 m4">
-    <img class="materialboxed" data-caption="Comitati Esecutivi 2015-2016 e 2016-2017. Assente Francesco Sciortino" width="100%" src="{{ site.url }}/img/esecutivo/2015-16_esecutivo.jpg">
+    <img class="materialboxed" data-caption="Comitati Esecutivi 2015-2016 e 2016-2017 durante la CISF2016. Unico assente: Francesco Sciortino." width="100%" src="{{ site.url }}/img/esecutivo/2015-16_esecutivo.jpg">
   </div>
   <div class="col s12 m8">
 <p>Organo amministrativo ed esecutivo dell'Associazione è il Comitato Esecutivo, attualmente composto da 7 membri eletti durante le Assemblee Generali.</p>
