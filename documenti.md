@@ -29,13 +29,4 @@ Lo Statuto è il documento fondamentale dell'AISF. Ad esso fanno riferimento tut
 
 ## Verbali
 
-L'atto fondativo, i verbali delle Assemblee Generali e dei meeting del comitato esecutivo sono di pubblico dominio e liberamente consultabili.
-
-### Anno 2016
-
-<div class="collection">
-  <a href="http://www.ai-sf.it/owncloud/index.php/s/Kszm1CIRJ56JZUv" class="collection-item">AGA 2016: convocazione<span class="badge">22/03/2016</span></a>
-  <a href="http://www.ai-sf.it/owncloud/index.php/s/PJNpr8gYYRusUPC" class="collection-item">AGA 2016: modifiche statuto<span class="badge">22/03/2016</span></a>
-  <a href="http://www.ai-sf.it/owncloud/index.php/s/1OcbRa3Mc98jkPv" class="collection-item">AGA 2016: modifiche regolamento interno<span class="badge">22/03/2016</span></a>
-  <a href="http://www.ai-sf.it/owncloud/index.php/s/E26Blap5updykPt" class="collection-item">Avviso CISF 2016<span class="badge">11/02/2016</span></a>
-</div>
+{% include verbali.html verbali=site.data.verbali %}
