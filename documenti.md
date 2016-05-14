@@ -9,9 +9,10 @@ permalink: /documenti/
 Qui potete trovare materiale informativo relativo all'AISF. I documenti sono scaricabili liberamente e possono essere utilizzati per pubblicizzare l'Associazione presso Università, Istituti di ricerca, ecc.
 
 <div class="collection">
-  <a href="http://www.ai-sf.it/joomla/images/documents/volantino.pdf" class="collection-item">Volantino</a>
-  <a href="http://www.ai-sf.it/joomla/images/documents/banner.pdf" class="collection-item">Banner</a>
-  <a href="http://www.ai-sf.it/owncloud/index.php/s/EdeCkalCLLGpZgp" class="collection-item">Prospetto generale</a>
+  <a href="http://www.ai-sf.it/owncloud/index.php/s/jWKZQjbFHPjrL1y" class="collection-item">Volantino</a>
+  <a href="http://www.ai-sf.it/owncloud/index.php/s/AfKmRn2lDfNuLQm" class="collection-item">Banner</a>
+  <a href="http://www.ai-sf.it/owncloud/index.php/s/ZIjLM9yaKEdoIP9" class="collection-item">Prospetto generale</a>
+  <a href="http://www.ai-sf.it/owncloud/index.php/s/oUIqAsWgLegkibV" class="collection-item">Eventi 2016</a>
 </div>
 
 Se per scopi pubblicitari produci del materiale ulteriore, invialo all'<a href="mailto:esecutivo@ai-sf.it">esecutivo</a>, così lo aggiungeremo all'elenco delle risorse disponibili. Grazie!
