@@ -1,0 +1,6 @@
+ <ul class="collection with-header">
+   <li class="collection-header"><h5>Prossimi eventi</h5></li>
+   {% for item in site.data.eventi_homepage %}
+   <li class="collection-item"><div><a class="modal-trigger" href="#{{ item.slug }}">{{ item.evento }}</a><div class="secondary-content">{{ item.data }}</div></div></li>
+   {% endfor %}
+ </ul>

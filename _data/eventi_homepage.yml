@@ -1,0 +1,26 @@
+- evento: PLANCKS 2016
+  slug: plancks2016
+  url: http://2016.plancks.org
+  data: 20-23 Mag
+  luogo: Bucharest, Romania
+  descrizione: PLANCKS è una competizione di fisica teorica organizzata da studenti che bla bla bla
+- evento: ICPS 2016
+  slug: icps2016
+  url: http://icps2016.com/
+  data: 11-17 Ago
+  luogo: Malta
+  descrizione: ICPS è l'acronimo di International Conference of Physics Students ed è il principale evento organizzato da IAPS. Viene tenuta annualmente da quasi trent'anni e vi prendono parte in genere più di quattrocento studenti di ogni ciclo di studi, dalla triennale al dottorato. Ogni anno la località cambia&#58; due anni fa era ad Heidelberg, l'anno scorso a Zagabria, quest'anno si terrà a Malta.
+- evento: iaps@GranSasso
+  slug: iapsatGranSasso
+  luogo: Gran Sasso, Frascati
+  descrizione: iaps@GranSasso 2015 è stata un successo e verrà replicata. Presto maggiori informazioni su date, programma e iscrizioni. Stay Tuned!
+- evento: iaps4fusion
+  slug: iaps4fusion
+  luogo: Londra e Oxford, UK
+  descrizione: iaps4fusion si terrà anche nel 2016. A breve maggiori informazioni.
+- evento: Lights of Tuscany
+  slug: LoT
+  luogo: Pisa e Firenze
+  url: http://www.ai-sf.it/lot
+  descrizione: Nonostante fosse stato inizialmente pensato come evento speciale per l'International Year of Light, il grande successo di questa iniziativa ha spinto gli organizzatori a decidere di replicarla anche nel 2016! L'evento è ancora in fase di organizzazione.
+

@@ -88,31 +88,32 @@ layout: default
       </div>	    
           </div>
           <div class="col s12 m4">
-        <h5>Prossimi eventi</h5>
-        <ul class="collapsible" data-collapsible="accordion">
-          <li>
-            <div class="collapsible-header">PLANCKS2016<div class="secondary-content">20-23 Mag</div></div>
-            <div class="collapsible-body"><p>PLANCKS è una competizione di fisica teorica organizzata da IAPS.</p>
-	     <a class="waves-effect waves-teal btn-flat" href="http://2016.plancks.org/">Sito ufficiale</a>
-	    </div>
-          </li>
-          <li>
-            <div class="collapsible-header"><i class="material-icons">place</i>ICPS2017</div>
-            <div class="collapsible-body"><p>Lorem ipsum dolor sit amet.</p></div>
-          </li>
-          <li>
-            <div class="collapsible-header"><i class="material-icons">whatshot</i>iaps@GranSasso</div>
-            <div class="collapsible-body"><p>Lorem ipsum dolor sit amet.</p></div>
-          <li>
-            <div class="collapsible-header"><i class="material-icons">whatshot</i>iaps4fusion</div>
-            <div class="collapsible-body"><p>Lorem ipsum dolor sit amet.</p></div>
-          </li>
-          <li>
-            <div class="collapsible-header"><i class="material-icons">whatshot</i>Lights of Tuscany</div>
-            <div class="collapsible-body"><p>Lorem ipsum dolor sit amet.</p></div>
-          </li>
-          </li>
-        </ul>
+	   {% include eventi_homepage.html %}
+        <!-- <h5>Prossimi eventi</h5> -->
+        <!-- <ul class="collapsible" data-collapsible="accordion"> -->
+        <!--   <li> -->
+        <!--     <div class="collapsible-header">PLANCKS2016<div class="secondary-content">20-23 Mag</div></div> -->
+        <!--     <div class="collapsible-body"><p>PLANCKS è una competizione di fisica teorica organizzata da IAPS.</p> -->
+	<!--      <a class="waves-effect waves-teal btn-flat" href="http://2016.plancks.org/">Sito ufficiale</a> -->
+	<!--     </div> -->
+        <!--   </li> -->
+        <!--   <li> -->
+        <!--     <div class="collapsible-header"><i class="material-icons">place</i>ICPS2017</div> -->
+        <!--     <div class="collapsible-body"><p>Lorem ipsum dolor sit amet.</p></div> -->
+        <!--   </li> -->
+        <!--   <li> -->
+        <!--     <div class="collapsible-header"><i class="material-icons">whatshot</i>iaps@GranSasso</div> -->
+        <!--     <div class="collapsible-body"><p>Lorem ipsum dolor sit amet.</p></div> -->
+        <!--   <li> -->
+        <!--     <div class="collapsible-header"><i class="material-icons">whatshot</i>iaps4fusion</div> -->
+        <!--     <div class="collapsible-body"><p>Lorem ipsum dolor sit amet.</p></div> -->
+        <!--   </li> -->
+        <!--   <li> -->
+        <!--     <div class="collapsible-header"><i class="material-icons">whatshot</i>Lights of Tuscany</div> -->
+        <!--     <div class="collapsible-body"><p>Lorem ipsum dolor sit amet.</p></div> -->
+        <!--   </li> -->
+        <!--   </li> -->
+        <!-- </ul> -->
           </div>
         </div>
       </div>
@@ -151,3 +152,18 @@ layout: default
 </div>
 
 
+  <!-- Modal Structure -->
+  <div id="modal1" class="modal">
+    <div class="modal-content">
+      <h4>PLANCKS 2016</h4>
+      <div class="chip">Bucharest, Romania</div><div class="chip">20-23 Maggio 2016</div>
+      <p>PLANCKS è una competizione di fisica teorica organizzata da IAPS, che bla bla bla</p>
+    </div>
+    
+    <div class="modal-footer">
+      <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Chiudi</a>
+      <a href="http://2016.plancks.org" class=" modal-action modal-close waves-effect waves-green btn-flat">Sito ufficiale</a>
+    </div>
+  </div>
+
+{% include modalieventi.html %}

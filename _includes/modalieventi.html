@@ -1,0 +1,15 @@
+{% for item in site.data.eventi_homepage %}
+<!-- Modal Structure -->
+<div id="{{ item.slug }}" class="modal">
+  <div class="modal-content">
+    <h4>{{ item.evento }}</h4>
+    {% if item.luogo %}<div class="chip">{{ item.luogo }}</div>{% endif %}{% if item.data %}<div class="chip">{{ item.data }}</div>{% endif %}
+    <p>{{ item.descrizione }}</p>
+  </div>
+  
+  <div class="modal-footer">
+    <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Chiudi</a>
+    {% if item.url %}<a href="{{ item.url }}" class=" modal-action modal-close waves-effect waves-green btn-flat">Sito ufficiale</a>{% endif %}
+  </div>
+</div>
+{% endfor %}
