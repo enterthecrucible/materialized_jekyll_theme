@@ -19,8 +19,77 @@ permalink: /esecutivo/
 
 ## Comitato Esecutivo (2016-2017)
 
+Parte di questo CE è stato eletto in data 16 maggio 2015 e parte in data 24 aprile 2016. Entrerà nel pieno delle sue funzioni allo scadere dell'anno finanziario in data 31 dicembre 2016.
+
+<ul class="collection">
+  <li class="collection-item avatar">
+    <img src="/img/esecutivo/valerio.jpg" alt="" class="circle">
+    <span class="title">Valerio Peri</span>
+    <p>Presidente<br>
+      Studente di Fisica presso l’Università degli Studi di Milano, in procinto di conseguire la laurea triennale. Appassionato di Fisica, si interessa in particolare di Informazione Quantistica.
+    </p>
+    <div class="secondary-content"><a href="mailto:valerio.peri@ai-sf.it"><i class="fa fa-lg fa-envelope"></i></a></div>
+  </li>
+
+  <li class="collection-item avatar">
+    <img src="/img/pokedex.png" alt="" class="circle">
+    <span class="title">Marianna D'Amato</span>
+    <p>UNKNOWN EC MEMBéR<br>
+      This is a newly discovered EC MEMBéR. It is currently under investigation. No detailed information is available at this time.
+    </p>
+    <div class="secondary-content"><a href="mailto:marianna.damato@ai-sf.it"><i class="fa fa-lg fa-envelope"></i></a></div>
+  </li>
+  
+  <li class="collection-item avatar">
+    <img src="/img/esecutivo/vittorio.jpg" alt="" class="circle">
+    <span class="title">Vittorio Erba</span>
+    <p>Segretario<br>
+      Studente di Fisica presso l'Università degli Studi di Milano, attualmente frequenta il secondo anno della laurea triennale. Appassionato di Fisica e di Matematica, "quella un po' inutile, fine a se stessa".
+    </p>
+    <div class="secondary-content"><a href="mailto:vittorio.erba@ai-sf.it"><i class="fa fa-lg fa-envelope"></i></a></div>
+  </li>
+  
+  <li class="collection-item avatar">
+    <img src="/img/esecutivo/michele.jpg" alt="" class="circle">
+    <span class="title">Michele Re Fiorentin</span>
+    <p>Tesoriere<br>
+      Laureato in Fisica presso l'Università degli Studi di Torino, attualmente e' studente di dottorato all'Università di Southampton, dove si occupa di cosmologia e fisica astroparticellare da un punto di vista teorico.
+    </p>
+    <div class="secondary-content"><a href="mailto:michele.refiorentin@ai-sf.it"><i class="fa fa-lg fa-envelope"></i></a></div>
+  </li>
+
+  <li class="collection-item avatar">
+    <img src="/img/pokedex.png" alt="" class="circle">
+    <span class="title">Marco Morrone</span>
+    <p>UNKNOWN EC MEMBéR<br>
+      This is a newly discovered EC MEMBéR. It is currently under investigation. No detailed information is available at this time.
+    </p>
+    <div class="secondary-content"><a href="mailto:marco.morrone@ai-sf.it"><i class="fa fa-lg fa-envelope"></i></a></div>
+  </li>
+  
+  <li class="collection-item avatar">
+    <img src="/img/pokedex.png" alt="" class="circle">
+    <span class="title">Gabriele Di Ubaldo</span>
+    <p>UNKNOWN EC MEMBéR<br>
+      This is a newly discovered EC MEMBéR. It is currently under investigation. No detailed information is available at this time.
+    </p>
+    <div class="secondary-content"><a href="mailto:gabriele.diubaldo@ai-sf.it"><i class="fa fa-lg fa-envelope"></i></a></div>
+  </li>
+
+  <li class="collection-item avatar">
+    <img src="/img/esecutivo/lucio.jpg" alt="" class="circle">
+    <span class="title">Lucio Maria Milanese</span>
+    <p>Responsabile progetto FERMI<br>
+       Studente di fisica all'Imperial College di Londra, sta completando il lavoro di tesi su validazione di codici che simulano la dinamica del plasma presso l'École Polytechnique Fédérale de Lausanne. Oltre che di fisica, è appassionato di storia, politica ed economia.
+    </p>
+    <div class="secondary-content"><a href="mailto:lucio.milanese@ai-sf.it"><i class="fa fa-lg fa-envelope"></i></a></div>
+  </li>
+</ul>
+
 
 ## Comitato Esecutivo (2015-2016)
+
+Parte di questo CE è stato eletto in data 15 agosto 2014 e parte in data 16 maggio 2015. I suoi membri sono attualmente in carica e lo resteranno fino allo scadere dell'anno finanziario in data 31 dicembre 2016.
 
 <ul class="collection">
   <li class="collection-item avatar">
@@ -63,7 +132,7 @@ permalink: /esecutivo/
     <img src="/img/esecutivo/francesco.jpg" alt="" class="circle">
     <span class="title">Francesco Sciortino</span>
     <p>Coordinatore Eventi<br>
-      Francesco studia fisica all'Imperial College di Londra. Attualmente si trova all'EPFL (Svizzera), dove sta lavorando ad un progetto master nel campo della fusione nucleare al Centro di Ricerca per la Fisica dei Plasmi (CRPP). Francesco e' anche un membro del Comitato Esecutivo dell'International Association of Physics Students (IAPS) e si occupa in particolare delle visite scientifiche del gruppo.
+     Francesco si è laureato in fisica all'Imperial College di Londra, passando un anno in scambio all'EPFL di Losanna; inizierà a breve un dottorato al MIT di Boston. I suoi principali interessi sono turbolenze dei plasmi da fusione nucleare e riconnessione magnetica, ma è anche un appassionato di cosmologia, politica e musicals. Francesco è stato parte del Comitato Esecutivo IAPS e di quello AISF, organizzando eventi scientifici in una decina di città europee.
     </p>
     <div class="secondary-content"><a href="mailto:francesco.sciortino@ai-sf.it"><i class="fa fa-lg fa-envelope"></i></a></div>
   </li>
