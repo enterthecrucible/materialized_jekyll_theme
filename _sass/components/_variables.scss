@@ -26,7 +26,7 @@ $button-line-height: 36px !default;
 /*** Cards ***/
 $card-padding: 20px !default;
 $card-bg-color: #fff !default;
-$card-link-color: color("orange", "accent-2") !default;
+$card-link-color: color("aisf", "accent-2") !default;
 $card-link-color-light: lighten($card-link-color, 20%) !default;
 
 /*** Collapsible ***/
@@ -107,7 +107,7 @@ $sidenav-padding-right: 15px !default;
 /*** Photo Slider ***/
 $slider-bg-color: color('grey', 'base') !default;
 $slider-bg-color-light: color('grey', 'lighten-2') !default;
-$slider-indicator-color: color('green', 'base') !default;
+$slider-indicator-color: color('aisf', 'base') !default;
 
 /*** Tabs ***/
 $tabs-underline-color: $primary-color-light !default;
