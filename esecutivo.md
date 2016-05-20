@@ -44,7 +44,7 @@ Parte di questo CE è stato eletto in data 16 maggio 2015 e parte in data 24 apr
     <img src="/img/esecutivo/vittorio.jpg" alt="" class="circle">
     <span class="title">Vittorio Erba</span>
     <p>Segretario<br>
-      Studente di Fisica presso l'Università degli Studi di Milano, attualmente frequenta il secondo anno della laurea triennale. Appassionato di Fisica e di Matematica, "quella un po' inutile, fine a se stessa".
+     Studente di Fisica presso l'Università degli Studi di Milano, attualmente sta lavorando alla tesi triennale. Si occupa di Fisica Matematica, approfondendo tecniche utili alla comprensione dell'effetto Hall quantistico.
     </p>
     <div class="secondary-content"><a href="mailto:vittorio.erba@ai-sf.it"><i class="fa fa-lg fa-envelope"></i></a></div>
   </li>
@@ -114,7 +114,7 @@ Parte di questo CE è stato eletto in data 15 agosto 2014 e parte in data 16 mag
     <img src="/img/esecutivo/vittorio.jpg" alt="" class="circle">
     <span class="title">Vittorio Erba</span>
     <p>Segretario<br>
-      Studente di Fisica presso l'Università degli Studi di Milano, attualmente frequenta il secondo anno della laurea triennale. Appassionato di Fisica e di Matematica, "quella un po' inutile, fine a se stessa".
+         Studente di Fisica presso l'Università degli Studi di Milano, attualmente sta lavorando alla tesi triennale. Si occupa di Fisica Matematica, approfondendo tecniche utili alla comprensione dell'effetto Hall quantistico.
     </p>
     <div class="secondary-content"><a href="mailto:vittorio.erba@ai-sf.it"><i class="fa fa-lg fa-envelope"></i></a></div>
   </li>
