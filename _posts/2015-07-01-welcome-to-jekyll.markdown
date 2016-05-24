@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2015-07-01 13:33:04
 categories: jekyll update
+thumbnail: welcometojekyll.png
 ---
 # **Isn't this awesome?**
 
