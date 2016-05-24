@@ -70,8 +70,8 @@ Parte di questo CE è stato eletto in data 16 maggio 2015 e parte in data 24 apr
   <li class="collection-item avatar">
     <img src="/img/pokedex.png" alt="" class="circle">
     <span class="title">Gabriele Di Ubaldo</span>
-    <p>UNKNOWN EC MEMBéR<br>
-      This is a newly discovered EC MEMBéR. It is currently under investigation. No detailed information is available at this time.
+    <p>IT Manager<br>
+     Studente di laurea triennale all'Università di Pisa. I suoi interessi sono principalmente l'astrofisica e la filosofia della scienza. 
     </p>
     <div class="secondary-content"><a href="mailto:gabriele.diubaldo@ai-sf.it"><i class="fa fa-lg fa-envelope"></i></a></div>
   </li>
