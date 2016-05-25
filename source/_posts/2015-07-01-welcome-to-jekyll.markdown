@@ -13,6 +13,6 @@ Oh, btw, code highlighting:
 {% highlight java %}
 public static void main(String[] args) {
   System.out.println("Materialize.css + Jekyll = <3");
-  System.out.println("Curcible is okay too I guess.");
+  System.out.println("Crucible is okay too I guess.");
 }
 {% endhighlight %}
