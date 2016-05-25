@@ -9,6 +9,14 @@
 <meta property="fb:admins" content="{{ site.fb_admins }}"> <!-- editable in config.yml -->
 <meta property="fb:app_id" content="{{ site.fb_appid }}">
 
+<!-- Twitter metadata. twitter:image should not be necessary, as twitter recognizes og:-->
+<meta name="twitter:card"           content="summary" />
+<meta name="twitter:site"           content="@aisf_fisica" />
+<meta name="twitter:title"          content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+<meta name="twitter:description"    content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% endif %}"/>
+<meta name="twitter:image:alt"      content=""> <!-- Name of imae for visually impaired. Will need to add this to all images -->
+
+
 {% if page.date %}
   <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
   <meta property="article:author" content="{{ site.fb_admins }}">

@@ -1,22 +1,17 @@
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
-  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"> 
-  <title>{{ site.title }}</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"> 
+    <title>{{ site.title }}</title>
     
-<!-- Faceboog og -->
-{% include opengraph.html %}
+<!-- Standard html meta tags -->
+    <meta http-equiv="content-type"        content="text/html; charset=utf-8" />
+    <meta name="description"               content="ICPS2017 - International Conference of Physics Students 2017" />
+    <meta name="keywords"                  content="international association physics students associazione italiana studenti fisica iaps aisf {% if page.tags %}{{ page.tags }}" />
 
-{% if page.date %}
-  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
-  <meta property="article:author" content="{{ site.fb_admins }}">
-  {% for post in site.related_posts limit:3 %}
-    <meta property="og:see_also" content="{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  {% endfor %}
-{% endif %}
-
-<meta property="fb:admins" content="{{ site.fb_admins }}">
-<meta property="fb:app_id" content="{{ site.fb_appid }}">
+    
+<!-- og -->
+    {% include opengraph.html %}
     
   <!-- CSS  -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
