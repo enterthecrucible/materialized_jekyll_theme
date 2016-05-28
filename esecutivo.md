@@ -68,7 +68,7 @@ Parte di questo CE è stato eletto in data 16 maggio 2015 e parte in data 24 apr
   </li>
   
   <li class="collection-item avatar">
-    <img src="/img/esecutivo/gabriele.jpg" alt="" class="circle">
+    <img src="/img/esecutivo/gabriele.JPG" alt="" class="circle">
     <span class="title">Gabriele Di Ubaldo</span>
     <p>IT Manager<br>
      Studente di laurea triennale all'Università di Pisa. I suoi interessi sono principalmente l'astrofisica e la filosofia della scienza.
