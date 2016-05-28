@@ -59,7 +59,7 @@ Parte di questo CE è stato eletto in data 16 maggio 2015 e parte in data 24 apr
   </li>
 
   <li class="collection-item avatar">
-    <img src="/img/esecutivo/pisa_marco_morrone.jpg" alt="" class="circle">
+    <img src="/img/esecutivo/pisa_marco-morrone.jpg" alt="" class="circle">
     <span class="title">Marco Morrone</span>
     <p>Event Coordinator<br>
       Frequenta il Corso di Laurea Triennale all'università di Pisa. È interessato al mondo nano, in particolare a questioni energetiche come l'energy harvesting, oltre che alla divulgazione scientifica.
