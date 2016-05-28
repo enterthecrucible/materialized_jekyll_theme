@@ -32,10 +32,11 @@ Parte di questo CE è stato eletto in data 16 maggio 2015 e parte in data 24 apr
   </li>
 
   <li class="collection-item avatar">
-    <img src="/img/pokedex.png" alt="" class="circle">
+    <img src="/img/marianna.jpg alt="" class="circle">
     <span class="title">Marianna D'Amato</span>
-    <p>UNKNOWN EC MEMBéR<br>
-      This is a newly discovered EC MEMBéR. It is currently under investigation. No detailed information is available at this time.
+    <p>Responsabile relazioni<br>
+    Studentessa di fisica all'Università degli Studi di Firenze, attualmente iscritta al corso di laurea magistrale in Fisica della Materia. 
+ È appassionata di fisica atomica e ama la fotografia.
     </p>
     <div class="secondary-content"><a href="mailto:marianna.damato@ai-sf.it"><i class="fa fa-lg fa-envelope"></i></a></div>
   </li>
@@ -59,16 +60,16 @@ Parte di questo CE è stato eletto in data 16 maggio 2015 e parte in data 24 apr
   </li>
 
   <li class="collection-item avatar">
-    <img src="/img/pokedex.png" alt="" class="circle">
+    <img src="/img/pisa_marco_morrone.jpg" alt="" class="circle">
     <span class="title">Marco Morrone</span>
     <p>Event Coordinator<br>
-      Frequenta il Corso di Laurea Triennale all'università di Pisa. È interessato al mondo nano, in particolare a questioni energetiche come l'energy harvesting, oltre che alla divulgazione scientifica per "portare la fisica anche a chi non sa far due conti"
+      Frequenta il Corso di Laurea Triennale all'università di Pisa. È interessato al mondo nano, in particolare a questioni energetiche come l'energy harvesting, oltre che alla divulgazione scientifica.
     </p>
     <div class="secondary-content"><a href="mailto:marco.morrone@ai-sf.it"><i class="fa fa-lg fa-envelope"></i></a></div>
   </li>
   
   <li class="collection-item avatar">
-    <img src="/img/pokedex.png" alt="" class="circle">
+    <img src="/img/gabriele.jpg" alt="" class="circle">
     <span class="title">Gabriele Di Ubaldo</span>
     <p>IT Manager<br>
      Studente di laurea triennale all'Università di Pisa. I suoi interessi sono principalmente l'astrofisica e la filosofia della scienza. 
