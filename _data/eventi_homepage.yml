@@ -14,13 +14,13 @@
   slug: iapsatGranSasso
   luogo: Gran Sasso, Frascati
   descrizione: iaps@GranSasso 2015 è stata un successo e verrà replicata. Presto maggiori informazioni su date, programma e iscrizioni. Stay Tuned!
-- evento: iaps4fusion
-  slug: iaps4fusion
-  luogo: Londra e Oxford, UK
-  descrizione: iaps4fusion si terrà anche nel 2016. A breve maggiori informazioni.
-- evento: Lights of Tuscany
-  slug: LoT
-  luogo: Pisa e Firenze
-  url: http://www.ai-sf.it/lot
-  descrizione: Nonostante fosse stato inizialmente pensato come evento speciale per l'International Year of Light, il grande successo di questa iniziativa ha spinto gli organizzatori a decidere di replicarla anche nel 2016! L'evento è ancora in fase di organizzazione.
+#- evento: iaps4fusion
+#  slug: iaps4fusion
+#  luogo: Londra e Oxford, UK
+#  descrizione: iaps4fusion si terrà anche nel 2016. A breve maggiori informazioni.
+#- evento: Lights of Tuscany
+#  slug: LoT
+#  luogo: Pisa e Firenze
+#  url: http://www.ai-sf.it/lot
+#  descrizione: Nonostante fosse stato inizialmente pensato come evento speciale per l'International Year of Light, il grande successo di questa iniziativa ha spinto gli organizzatori a decidere di replicarla anche nel 2016! L'evento è ancora in fase di organizzazione.
 
