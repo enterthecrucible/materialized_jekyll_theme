@@ -33,6 +33,5 @@ permalink: /eventi/
 
 ## Grandi eventi passati
 
-
-
 {% include eventi_passati.html %}
+

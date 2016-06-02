@@ -32,3 +32,13 @@ span {
 .fa {
     color: $secondary-color
 }
+
+.carousel {
+    height: 500px;
+    .carousel-item {
+	width: 500px;
+	img {
+	    width:100%;
+	}
+    }
+}
