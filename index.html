@@ -118,11 +118,9 @@ layout: default
         <!--   {% include post_detail.html %} -->
         <!-- </div> -->
         <div class="blog-index">
-          {% for post in site.posts limit:2 %}
-          {% assign post = site.posts.first %}
-          {% assign content = post.excerpt %}
-          {% include post_detail.html %}
-          {% endfor %}
+          {% for post in site.posts limit:3 %}{% if post.categories contains 'blog' %}	  
+          {% assign post = site.posts.first %}{% assign content = post.excerpt %}{% include post_detail.html %}
+	  {% endif %}{% endfor %}
           <div class="divider"></div>
         </div>
           </div>

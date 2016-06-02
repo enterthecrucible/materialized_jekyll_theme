@@ -1,8 +1,8 @@
 ---
 layout: post
+categories: blog Torino
 title:  "ParticleBeers Torino"
 date:   2016-01-25 09:46
-categories: Torino
 Author: Mattia Ivaldi, Raquel Gomez Ambrosio
 ---
 
