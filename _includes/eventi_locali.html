@@ -1,0 +1,34 @@
+
+
+<!-- <ul class="collection"> -->
+<!--   {% for event in site.posts %} -->
+<!--   {% if event.categories contains 'eventolocale' %} -->
+<!--   <li class="collection-item">{{ event.title }} -->
+<!--     <div class="chip">{{ event.CL }}</div><div class="chip">{{ event.date | date: '%d %b %Y' }}</div> -->
+<!--     {% if event.locandina %}<a href="{{ event.locandina }}" class="secondary-content"><i class="material-icons">perm_media</i></a>{% endif %} -->
+<!--     {% if event.gallery %}{% endif %} -->
+<!--     {% if event.report %}<a href="{{ event.report }}" class="secondary-content"><i class="material-icons">file-text</i></a>{% endif %} -->
+<!--     {% if event.facebook %}<a href="{{ event.facebook }}" class="secondary-content"><i class="fa fa-lg facebook-official"></i></a>{% endif %} -->
+<!--     {% if event.link %} <a href="{{ event.link }}" class="secondary-content"><i class="fa fa-lg external-link"></i></a>{% endif %} -->
+<!--   </li> -->
+<!--   {% endif %} -->
+<!--   {% endfor %} -->
+<!-- </ul> -->
+
+
+<ul class="collection">
+  {% for event in site.posts %}
+  {% if event.categories contains 'eventolocale' %}
+  <li class="collection-item">{{ event.title }}
+    <div class="chip">{{ event.CL }}</div><div class="chip">{{ event.date | date: '%d %b %Y' }}</div>
+    <div class="secondary-content">
+      {% if event.facebook %}<a href="{{ event.facebook }}"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>{% endif %}
+      {% if event.locandina %}<a href="{{ event.locandina }}"><i class="fa fa-lg fa-picture-o"></i></a>{% endif %}
+      {% if event.articolo %}{% for post in site.posts %}{% if post.url contains event.articolo %}<a href="{{ post.url }}"><i class="fa fa-lg fa-pencil"></i></a>{% endif %}{% endfor %}{% endif %}
+      {% if event.link %}<a href="{{ event.link }}"><i class="fa fa-lg fa-link"></i></a>{% endif %}
+      {% if event.report %}<a href="{{ event.report}}"><i class="fa fa-lg fa-file-text"></i></a>{% endif %}
+    </div>
+  </li>
+  {% endif %}
+  {% endfor %}
+</ul>
