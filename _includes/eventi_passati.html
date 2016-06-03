@@ -10,10 +10,11 @@
       </div>
       <div class="card-content">
 	<span class="card-title activator grey-text text-darken-4">{{ event.title }}</span>
+	<p><small>{{ event.place }}: {{ event.startingdate | date: '%d %b %Y' }} - {{ event.endingdate | date: '%d %b %Y' }}</small></p>
       </div>
 	<div class="card-action">
-	  <a href="{{ event.site }}">Sito dell'evento</a>
-	  <a href="{{ event.url }}">Gallery</a>
+	  <a href="{{ event.site }}">Sito</a>
+	  <a href="{{ event.url }}">Report & Gallery</a>
 	</div>
     </div>
   </div>
