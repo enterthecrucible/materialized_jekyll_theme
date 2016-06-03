@@ -26,12 +26,16 @@
 
             var currentElement = document.querySelector(selector);
             if ( currentElement !== null) {
-              var elementOffset = currentElement.getBoundingClientRect().top + document.body.scrollTop;
+              var elementOffset = currentElement.getBoundingClientRect().top + window.pageYOffset;
 
               if (windowScroll > (elementOffset + offset)) {
                 if (value.done !== true) {
-                  var callbackFunc = new Function(callback);
-                  callbackFunc();
+                  if (typeof(callback) === 'function') {
+                    callback.call(this);
+                  } else if (typeof(callback) === 'string') {
+                    var callbackFunc = new Function(callback);
+                    callbackFunc();
+                  }
                   value.done = true;
                 }
               }

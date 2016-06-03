@@ -1,8 +1,8 @@
 ---
 layout: post
+categories: blog Milano
 title:  "Visita al LASA"
 date:   2016-03-18 12:43
-categories: Milano
 author: Emilio Villa, Cesare Paulin
 ---
 

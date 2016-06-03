@@ -38,5 +38,19 @@ span {
 
 //sets color for font-awesome icons
 .fa {
+<<<<<<< HEAD
     color: $primary-color;
+=======
+    color: $secondary-color
+}
+
+.carousel {
+    height: 500px;
+    .carousel-item {
+	width: 500px;
+	img {
+	    width:100%;
+	}
+    }
+>>>>>>> 0fd3eaec02150b2f75e37f79335d72d3252d48c4
 }

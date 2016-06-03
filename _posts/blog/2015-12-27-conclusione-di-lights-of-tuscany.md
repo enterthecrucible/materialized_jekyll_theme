@@ -1,8 +1,8 @@
 ---
 layout: post
+categories: blog Pisa LoT
 title:  "Conclusione di Lights of Tuscany: un riepilogo, alcune impressioni"
 date:   2015-12-27 22:32
-categories: Pisa LoT
 author: Stefano Polla
 ---
 
