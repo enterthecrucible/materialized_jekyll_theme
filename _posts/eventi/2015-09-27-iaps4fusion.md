@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event
 categories: eventonazionale
 title:  "iaps4fusion"
 startingdate: 2015-09-27

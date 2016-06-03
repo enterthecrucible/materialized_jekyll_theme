@@ -5,40 +5,19 @@
 {% if rowfinder == 0 %} <div class="row"> {% endif %}
   <div class="col s12 m6">
     <div class="card">
-      <div class="card-image waves-effect waves-block waves-light">
-	<img class="activator" src="{{ event.cover }}">
+      <div class="card-image">
+	<img src="{{ event.cover }}">
       </div>
       <div class="card-content">
-	<span class="card-title activator grey-text text-darken-4">{{ event.title }}<i class="material-icons right">more_vert</i></span>
+	<span class="card-title activator grey-text text-darken-4">{{ event.title }}</span>
       </div>
 	<div class="card-action">
 	  <a href="{{ event.site }}">Sito dell'evento</a>
-	  <a class="modal-trigger" href="#modal{{ event.gallery }}">Gallery</a>
+	  <a href="{{ event.url }}">Gallery</a>
 	</div>
-      <div class="card-reveal">
-	<span class="card-title grey-text text-darken-4">{{ event.title }}<i class="material-icons right">close</i></span>
-	{{ event.content }}
-      </div>
     </div>
   </div>
   {% if rowfinder == 1 %} </div> {% endif %}
-
-<!-- Modal Structure -->
-<div id="modal{{ event.gallery }}" class="modal">
-  <div class="modal-content">
-    <h4>Carousel per {{ event.title }}</h4>
-    <div class="carousel">
-      {% for image in site.static_files %}{% if image.path contains event.gallery %}
-      <a class="carousel-item" href="#{{ site.baseurl }}{{ image.path }}!"><img src="{{ site.baseurl }}{{ image.path }}"></a>
-      {% endif %}{% endfor %}
-    </div>
-  </div>
-  <div class="modal-footer">
-    <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Chiudi</a>
-  </div>
-</div>
-<!-- Fine Modal Structure -->
-
 {% assign loopindex = loopindex | plus: 1 %}
 {% endif %}
 {% endfor %}
