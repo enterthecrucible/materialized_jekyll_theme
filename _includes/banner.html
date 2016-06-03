@@ -20,7 +20,7 @@
     <!-- </div> -->
       <div class="col l3 s3 eventshome">
             <ul class="" style="margin-top: 0">
-   <li class="aisf-text"><h5 style="margin: 0">Prossimi eventi</h5></li>
+   <li class="eventstitle">Prossimi eventi</li>
    {% for item in site.data.eventi_homepage %}
                 <a class="" href="#{{ item.slug }}"><div class="eventsitem"><span class="aisf-text" style="font-weight: bold">{{ item.data }}</span><br>{{ item.evento }}</div></a>
    {% endfor %}

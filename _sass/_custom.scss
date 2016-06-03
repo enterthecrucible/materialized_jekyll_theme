@@ -20,8 +20,16 @@ img .fullwidth { /* non funziona, perché? */
     font-size: 11px;
 }
 
+.eventstitle {
+    margin: 0;
+    color: $primary-color;
+    font-size: 1.64rem;
+}
+
 .eventsitem {
     margin: 5px 0 0 0;
+    color: black;
+    font-weight: 500;
 }
 
 span {
@@ -30,5 +38,5 @@ span {
 
 //sets color for font-awesome icons
 .fa {
-    color: $secondary-color
+    color: $primary-color;
 }
