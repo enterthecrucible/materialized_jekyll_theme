@@ -7,7 +7,7 @@
 // Google Color Palette defined: http://www.google.com/design/spec/style/color.html
 
 $aisf: (
-  "lighten-5": #8c6ae4,
+  "lighten-5": #cbc2e4,
   "lighten-4": #8c6ae4,
   "lighten-3": #6a37eb,
   "lighten-2": #4d12e4,
@@ -17,10 +17,27 @@ $aisf: (
   "darken-2": #220078,
   "darken-3": #1c0064,
   "darken-4": #170050,
-  "accent-1": #dd1c45,
-  "accent-2": #9c0021,
-  "accent-3": #e199a8,
-  "accent-4": #d60430
+  "accent-1": #ca7fff,
+  "accent-2": #ba58ff,
+  "accent-3": #aa31ff,
+  "accent-4": #a019ff
+);
+
+$crimson: (
+    "lighten-5": #e1bfc6,
+  "lighten-4": #e199a8,
+  "lighten-3": #e1798f,
+  "lighten-2": #de5c78,
+  "lighten-1": #e1375b,
+  "base":      #dd1c45,
+  "darken-1": #d60430,
+  "darken-2": #bc0028,
+  "darken-3": #9c0021,
+  "darken-4": #7c001a,
+  "accent-1": #ff809a,
+  "accent-2": #ff335f,
+  "accent-3": #ff0035,
+  "accent-4": #df002f
 );
 
 $materialize-red: (
@@ -355,6 +372,7 @@ $shades: (
 
 $colors: (
     "aisf": $aisf,
+    "crimson": $crimson,
   "materialize-red": $materialize-red,
   "red": $red,
   "pink": $pink,
