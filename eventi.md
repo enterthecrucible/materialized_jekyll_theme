@@ -9,7 +9,7 @@ permalink: /eventi/
     {% for item in site.events %}
         {% if item.date > site.time %}
             <li class="collection-item">{{ item.title }}
-                <div class="chip">{{ item.place }}</div><div class="chip">{{ item.date }}</div>
+                <div class="chip">{{ item.place }}</div><div class="chip">{{ event.date | date: '%d %b %Y' }}</div>
                 <a href="{ item.cover }" class="secondary-content"><i class="material-icons">perm_media</i></a>
             </li>
         {% endif %}
