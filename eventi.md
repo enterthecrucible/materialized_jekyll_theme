@@ -5,12 +5,15 @@ permalink: /eventi/
 ---
 
 ## Prossimamente
-
 <ul class="collection">
-  <li class="collection-item">AstroWine
-    <div class="chip">Torino</div><div class="chip">9 Giu 16</div>
-    <a href="/img/locandine/2016_astrowine.jpg" class="secondary-content"><i class="material-icons">perm_media</i></a>
-    </li>
+    {% for item in site.events %}
+        {% if item.date > site.time %}
+            <li class="collection-item">{{ item.title }}
+                <div class="chip">{{ item.place }}</div><div class="chip">{{ item.date }}</div>
+                <a href="{ item.cover }" class="secondary-content"><i class="material-icons">perm_media</i></a>
+            </li>
+        {% endif %}
+    {% endfor %}
 </ul>
     
 ## Eventi organizzati dai Comitati Locali

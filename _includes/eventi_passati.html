@@ -1,6 +1,6 @@
 {% assign loopindex = 0 %}
-{% for event in site.posts %}
-{% if event.categories contains 'eventonazionale' %}
+{% for event in site.events %}
+{% if event.date < site.time %}
 {% assign rowfinder = loopindex | modulo:2 %}
 {% if rowfinder == 0 %} <div class="row"> {% endif %}
   <div class="col s12 m6">
@@ -10,7 +10,7 @@
       </div>
       <div class="card-content">
 	<span class="card-title activator grey-text text-darken-4">{{ event.title }}</span>
-	<p><small>{{ event.place }}: {{ event.startingdate | date: '%d %b %Y' }} - {{ event.endingdate | date: '%d %b %Y' }}</small></p>
+	<p><small><b>{{ event.place }}</b> {{ event.startingdate | date: '%d %b %Y' }} - {{ event.endingdate | date: '%d %b %Y' }}</small></p>
       </div>
 	<div class="card-action">
 	  <a href="{{ event.site }}">Sito</a>

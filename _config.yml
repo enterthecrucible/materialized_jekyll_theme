@@ -4,6 +4,7 @@ description: Sito in costruzione, un po' di pazienza
 banner: img/banner.png
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 destination: ../site/
+timezone: Europe/Rome
 locale: "it"
 
 # Build settings
@@ -12,3 +13,8 @@ markdown: kramdown
 #facebook
 fb_admins: 
 fb_appid:
+
+#Collections
+collections:
+- events
+- events_local
