@@ -1,10 +1,10 @@
-{% for item in site.data.eventi_homepage %}
+{% for item in site.events %}
 <!-- Modal Structure -->
-<div id="{{ item.slug }}" class="modal">
+<div id="{{ item.title }}-modal" class="modal">
   <div class="modal-content">
-    <h4>{{ item.evento }}</h4>
-    {% if item.luogo %}<div class="chip">{{ item.luogo }}</div>{% endif %}{% if item.data %}<div class="chip">{{ item.data }}</div>{% endif %}
-    <p>{{ item.descrizione }}</p>
+    <h4>{{ item.title }}</h4>
+    {% if item.place %}<div class="chip">{{ item.place }}</div>{% endif %}{% if item.date %}<div class="chip">{{ item.date | date: '%d %b %Y' }}</div>{% endif %}
+    <p>{{ item.excerpt }}</p>
   </div>
   
   <div class="modal-footer">
