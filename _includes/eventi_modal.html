@@ -1,5 +1,6 @@
-{% for item in site.events %}
 <!-- Modal Structure -->
+{% for item in site.events %}
+{% if item.date > site.time %}
 <div id="{{ item.title }}-modal" class="modal">
   <div class="modal-content">
     <h4>{{ item.title }}</h4>
@@ -12,4 +13,5 @@
     {% if item.url %}<a href="{{ item.url }}" class=" modal-action modal-close waves-effect waves-green btn-flat">Sito ufficiale</a>{% endif %}
   </div>
 </div>
+{% endif %}
 {% endfor %}
