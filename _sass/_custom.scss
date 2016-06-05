@@ -18,6 +18,13 @@ img .fullwidth { /* non funziona, perché? */
   margin: 23px 0;
   border-left: 5px solid $primary-color;
     font-size: 11px;
+    height: inherit;
+}
+
+.events-banner {
+    margin: 0;
+    height: 100%;
+    
 }
 
 .eventstitle {

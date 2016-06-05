@@ -19,12 +19,14 @@
       <!-- <div class="col s4"></div> -->
     <!-- </div> -->
       <div class="col l3 s3 eventshome">
-            <ul class="" style="margin-top: 0">
-   <li class="eventstitle">Prossimi eventi</li>
-   {% for item in site.data.eventi_homepage %}
-                <a class="" href="#{{ item.slug }}"><div class="eventsitem"><span class="aisf-text" style="font-weight: bold">{{ item.data }}</span><br>{{ item.evento }}</div></a>
-   {% endfor %}
- </ul>
+        <ul class="events-banner">
+           <li class="eventstitle">Prossimi eventi</li>
+           {% for item in site.events %}
+                {% if item.date > site.time %}
+                    <a class="" href="#{{ item.title }}-modal"><div class="eventsitem"><span class="aisf-text" style="font-weight: bold">{{ item.date | date: '%d %b %Y' }}</span><br>{{ item.title }}</div></a>
+                {% endif %}
+           {% endfor %}
+        </ul>
       </div>
   </div>
 </div>
