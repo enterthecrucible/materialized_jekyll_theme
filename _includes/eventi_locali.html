@@ -17,15 +17,16 @@
       <div class="right">
       {% if event.facebook %}<a href="{{ event.facebook }}"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>{% endif %}
       {% if event.locandina %}<a href="{{ event.locandina }}"><i class="fa fa-lg fa-picture-o"></i></a>{% endif %}
-      {% if event.articolo %}{% for post in site.posts %}{% if post.url contains event.articolo %}<a href="{{ post.url }}"><i class="fa fa-lg fa-pencil"></i></a>{% endif %}{% endfor %}{% endif %}
       {% if event.link %}<a href="{{ event.link }}"><i class="fa fa-lg fa-link"></i></a>{% endif %}
       {% if event.report %}<a href="{{ event.report}}"><i class="fa fa-lg fa-file-text"></i></a>{% endif %}
     </div></div>
-    <p>{{ event.content }}</p>
+    {% if event.articolo %}{% for post in site.posts %}{% if post.url contains event.articolo %}{{ post.excerpt }}{% endif %}{% endfor %}
+    {% else %}{{ event.content }}{% endif %}
   </div>
   
   <div class="modal-footer">
-    <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Chiudi</a>
+    <a href="#!" class=" modal-action modal-close waves-effect btn-flat">Chiudi</a>
+    {% if event.articolo %}{% for post in site.posts %}{% if post.url contains event.articolo %}<a href="{{ post.url }}" class="waves-effect btn-flat">Vai all'articolo</a>{% endif %}{% endfor %}{% endif %}
   </div>
 </div>
 {% endfor %}
