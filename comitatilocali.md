@@ -47,6 +47,16 @@ L'AISF conta al momento 10 comitati locali in altrettante università:
 
   </li>
   <li class="collection-item avatar">
+    <img src="/img/presidenti/padova_leonardo-pacciani.jpg" alt="" class="circle">
+    <span class="title">Comitato Locale di Padova</span>
+    <p>Presidente Leonardo Pacciani <br>
+      Fondazione 05/2016
+    </p>
+    <div class="secondary-content"><a href="https://www.facebook.com/AISFPadova"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>
+    <a href="mailto:padova@ai-sf.it"><i class="fa fa-lg fa-envelope"></i></a></div>
+
+  </li>
+  <li class="collection-item avatar">
     <img src="/img/presidenti/pisa_marco-morrone.jpg" alt="" class="circle">
     <span class="title">Comitato Locale di Pisa</span>
     <p>Presidente Marco Morrone <br>
