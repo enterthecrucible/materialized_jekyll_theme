@@ -16,5 +16,7 @@ fb_appid:
 
 #Collections
 collections:
-- events
-- events_local
+  events:
+    output: true
+    permalink: /eventi/:path/
+  events_local:
