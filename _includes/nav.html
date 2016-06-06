@@ -42,7 +42,7 @@
                 <li class="no-padding">
                 <ul class="collapsible collapsible-accordion">
                   <li>
-                    <a class="collapsible-header">{{ item.text }}<i class="mdi-navigation-arrow-drop-down"></i></a>
+                      <a class="collapsible-header">{{ item.text }}</a>
                     <div class="collapsible-body">
                       <ul>
                         <li><a href="{{ item.url }}">{{ item.text }}</a></li>
@@ -57,7 +57,7 @@
                 {% else %}
                 <li><a href="{{ item.url }}">
                   {% if item.url == navurl %}
-                  <b>{{ item.text }}</b>
+                  {{ item.text }}
                   {% else %}
                   {{ item.text }}
                   {% endif %}
