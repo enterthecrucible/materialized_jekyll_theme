@@ -11,4 +11,4 @@ facebook:
 link:
 ---
 
-bla bla bla
+Il giorno 14 Ottobre il Comitato Locale di Milano ha allestito presso la propria Università un semplice banchetto per promuovere AISF. L’intento era quello di far conoscere l’Associazione al più grande numero possibile di persone, promuovere l’evento Lights of Tuscany e ovviamente cercare di iscrivere nuovi studenti.

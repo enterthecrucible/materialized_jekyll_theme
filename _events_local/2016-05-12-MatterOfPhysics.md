@@ -10,4 +10,4 @@ facebook:
 link:
 ---
 
-bla bla bla
+Presso l'INFN di Pisa, una serata dedicata alla fisica della materia, con talk di illustri professori dell'Università di Pisa e ricercatori dell'INO-CNR su simulatori quantistici, _many-body physics_, ibernazione e vetrificazione e nanottica.
