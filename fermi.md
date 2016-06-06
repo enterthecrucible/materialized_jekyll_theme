@@ -16,7 +16,7 @@ Questa pagina del sito raccoglierà un numero crescente di opportunità, che ver
 
 Fare un’esperienza di lavoro estivo, in Italia o all’estero, può essere davvero produttivo e soddisfacente, oltre che molto divertente! Vi invitiamo dunque a dare uno sguardo alle opportunità raccolte in questa pagina e non esitare a fare domanda per partecipare!
 
-<div class="row"><div class="col s12 aisf white-text"><p>Stiamo migrando il database dalla vecchia piattaforma a quella attuale e quindi non è attualmente possibile consultarlo online. Abbiamo però raccolto tutte le opportunità in un PDF comodamente consultabile offline: scaricalo <a href="http://www.ai-sf.it/owncloud/index.php/s/i1BwR0nMXbbom2g" class="aisf-accent-text">qui</a>.</p></div></div>
+<div class="row"><div class="col s12 aisf darken-2 white-text" style="border-radius: 4px;"><p>Stiamo migrando il database dalla vecchia piattaforma a quella attuale e quindi non è attualmente possibile consultarlo online. Abbiamo però raccolto tutte le opportunità in un PDF comodamente consultabile offline: scaricalo <a href="http://www.ai-sf.it/owncloud/index.php/s/i1BwR0nMXbbom2g" class="aisf-accent-text">qui</a>.</p></div></div>
 
 Buona consultazione a tutti!
 
