@@ -35,7 +35,7 @@ Parte di questo CE è stato eletto in data 16 maggio 2015 e parte in data 24 apr
     <img src="/img/esecutivo/marianna.jpg" alt="" class="circle">
     <span class="title">Marianna D'Amato</span>
     <p>Responsabile relazioni<br>
-    Studentessa di fisica all'Università degli Studi di Firenze, attualmente iscritta al corso di laurea magistrale in Fisica della Materia. È appassionata di fisica atomica e ama la fotografia.
+    Studentessa di fisica all'Università degli Studi di Firenze, attualmente iscritta al corso di laurea magistrale in Fisica della Materia. È appassionata di Fisica Atomica, in particolare di Atomi Ultrafreddi e Gas Quantistici.
     </p>
     <div class="secondary-content"><a href="mailto:marianna.damato@ai-sf.it"><i class="fa fa-lg fa-envelope"></i></a></div>
   </li>
