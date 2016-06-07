@@ -18,5 +18,5 @@ fb_appid:
 collections:
   events:
     output: true
-    permalink: /eventi/:path/
+    permalink: pretty
   events_local:

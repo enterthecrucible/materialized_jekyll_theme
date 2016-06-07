@@ -5,7 +5,6 @@ title: "Blog"
 
 <ul class="post-list">
   {% for post in site.posts %}
-  {% if post.categories contains 'blog' %}
   <li>
     <h2>
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -16,6 +15,5 @@ title: "Blog"
     <div class="entry-content">{{ post.excerpt }}</div>
   </li>
   <div class="divider"></div>
-  {% endif %}
   {% endfor %}
   </ul>
