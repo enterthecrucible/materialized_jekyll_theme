@@ -14,30 +14,6 @@ img .fullwidth { /* non funziona, perché? */
   background-color: #e4e4e4;
 }
 
-.eventshome {
-  margin: 23px 0;
-  border-left: 5px solid $primary-color;
-    font-size: 11px;
-    height: inherit;
-}
-
-.events-banner {
-    margin: 0;
-    height: 100%;
-    
-}
-
-.eventstitle {
-    margin: 0;
-    color: $primary-color;
-    font-size: 1.64rem;
-}
-
-.eventsitem {
-    margin: 5px 0 0 0;
-    color: black;
-    font-weight: 500;
-}
 
 span {
     text-align: justify;
@@ -57,3 +33,6 @@ span {
 	}
     }
 }
+
+@import "custom_c/events";
+@import "custom_c/article";

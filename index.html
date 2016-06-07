@@ -79,32 +79,7 @@ layout: default
           </div>
           <div class="col s12 m4">
 	   {% include eventi_homepage.html %}
-        <!-- <h5>Prossimi eventi</h5> -->
-        <!-- <ul class="collapsible" data-collapsible="accordion"> -->
-        <!--   <li> -->
-        <!--     <div class="collapsible-header">PLANCKS2016<div class="secondary-content">20-23 Mag</div></div> -->
-        <!--     <div class="collapsible-body"><p>PLANCKS è una competizione di fisica teorica organizzata da IAPS.</p> -->
-	<!--      <a class="waves-effect waves-teal btn-flat" href="http://2016.plancks.org/">Sito ufficiale</a> -->
-	<!--     </div> -->
-        <!--   </li> -->
-        <!--   <li> -->
-        <!--     <div class="collapsible-header"><i class="material-icons">place</i>ICPS2017</div> -->
-        <!--     <div class="collapsible-body"><p>Lorem ipsum dolor sit amet.</p></div> -->
-        <!--   </li> -->
-        <!--   <li> -->
-        <!--     <div class="collapsible-header"><i class="material-icons">whatshot</i>iaps@GranSasso</div> -->
-        <!--     <div class="collapsible-body"><p>Lorem ipsum dolor sit amet.</p></div> -->
-        <!--   <li> -->
-        <!--     <div class="collapsible-header"><i class="material-icons">whatshot</i>iaps4fusion</div> -->
-        <!--     <div class="collapsible-body"><p>Lorem ipsum dolor sit amet.</p></div> -->
-        <!--   </li> -->
-        <!--   <li> -->
-        <!--     <div class="collapsible-header"><i class="material-icons">whatshot</i>Lights of Tuscany</div> -->
-        <!--     <div class="collapsible-body"><p>Lorem ipsum dolor sit amet.</p></div> -->
-        <!--   </li> -->
-        <!--   </li> -->
-        <!-- </ul> -->
-          </div>
+            </div>
         </div>
       </div>
 
@@ -112,11 +87,6 @@ layout: default
         <div class="row">
           <div class="col s12 m12">
         <h4>Le ultime dal Blog</h4>
-        <!-- <div class="blog-index">   -->
-        <!--   {% assign post = site.posts.first %} -->
-        <!--   {% assign content = post.excerpt %} -->
-        <!--   {% include post_detail.html %} -->
-        <!-- </div> -->
         <div class="blog-index">
           {% for post in site.posts limit:3 %}	  
           {% assign post = site.posts.first %}{% assign content = post.excerpt %}{% include post_detail.html %}

@@ -1,10 +1,12 @@
 
 <ul class="collection">
   {% for event in site.events_local reversed %}
-  <li class="collection-item">
-    <a class=" modal-trigger aisf-text text-darken-2" href="#{{ event.id | remove: "/" }}-modal">{{ event.title }}</a>
-    <span class="badge">{{ event.CL }}, {{ event.date | date: '%d %b %Y' }}</span>
-</li>
+  <a class="collection-item modal-trigger aisf-text text-darken-2" href="#{{ event.id | remove: "/" }}-modal">
+    <div class="row" style="margin:0">
+      <div class="col s12 m8">{{ event.title }}</div>
+      <div class="col s12 m4">	  <div class="right grey-text darken-3">{{ event.CL }}, {{ event.date | date: '%d %b %Y' }}</div></div>
+    </div>
+  </a>
   {% endfor %}
 </ul>
 

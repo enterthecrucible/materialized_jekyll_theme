@@ -6,7 +6,7 @@ CL: Trento
 locandina:
 gallery:
 report:
-facebook: 
+facebook: https://www.facebook.com/events/978305652247480/
 link:
 ---
 
