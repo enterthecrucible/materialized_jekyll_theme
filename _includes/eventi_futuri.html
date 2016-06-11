@@ -1,3 +1,12 @@
+{% assign cisonoeventi = 0 %}
+{% for item in site.events %}
+    {% if item.date > site.time %}
+        {% assign cisonoeventi = 1 %}
+    {% endif %}        
+{% endfor %}
+
+{% if cisonoeventi == 1 %}
+
 <ul class="collection">
     {% for item in site.events %}
         {% if item.date > site.time %}
@@ -8,3 +17,7 @@
         {% endif %}
     {% endfor %}
 </ul>
+
+{% else %}
+<blockquote>Non ci sono eventi in programma!</blockquote>
+{% endif %}

@@ -19,4 +19,3 @@ collections:
   events:
     output: true
     permalink: pretty
-  events_local:

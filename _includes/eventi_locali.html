@@ -1,12 +1,14 @@
 
 <ul class="collection">
-  {% for event in site.events_local reversed %}
-  <a class="collection-item modal-trigger aisf-text text-darken-2" href="#{{ event.id | remove: "/" }}-modal">
-    <div class="row" style="margin:0">
-      <div class="col s12 m8">{{ event.title }}</div>
-      <div class="col s12 m4">	  <div class="right grey-text darken-3">{{ event.CL }}, {{ event.date | date: '%d %b %Y' }}</div></div>
-    </div>
-  </a>
+  {% for event in site.events reversed %}
+    {% if event.categories contains "eventolocale" %}
+      <a class="collection-item modal-trigger aisf-text text-darken-2" href="#{{ event.id | remove: "/" }}-modal">
+        <div class="row" style="margin:0">
+          <div class="col s12 m8">{{ event.title }}</div>
+          <div class="col s12 m4">	  <div class="right grey-text darken-3">{{ event.CL }}, {{ event.date | date: '%d %b %Y' }}</div></div>
+        </div>
+      </a>
+    {% endif %}
   {% endfor %}
 </ul>
 
