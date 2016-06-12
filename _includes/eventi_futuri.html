@@ -10,10 +10,12 @@
 <ul class="collection">
     {% for item in site.events %}
         {% if item.date > site.time %}
-            <li class="collection-item">{{ item.title }}
-                <div class="chip">{{ item.place }}</div><div class="chip">{{ event.date | date: '%d %b %Y' }}</div>
-                <a href="{ item.cover }" class="secondary-content"><i class="material-icons">perm_media</i></a>
-            </li>
+          <a class="collection-item modal-trigger aisf-text text-darken-2" href="#{{ event.id | remove: "/" }}-modal">
+            <div class="row" style="margin:0">
+              <div class="col s12 m8">{{ event.title }}</div>
+              <div class="col s12 m4">	  <div class="right grey-text darken-3">{{ event.place }}, {{ event.date | date: '%d %b %Y' }}</div></div>
+            </div>
+          </a>
         {% endif %}
     {% endfor %}
 </ul>

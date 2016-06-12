@@ -16,3 +16,5 @@ permalink: /eventi/
 
 {% include eventi_passati.html %}
 
+{% include eventi_modal.html %}
+
