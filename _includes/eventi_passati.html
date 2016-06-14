@@ -1,7 +1,6 @@
 {% assign loopindex = 0 %}
-{% for event in site.events reversed %}
+{% for event in site.events reversed limit:npassati%}
 {% if event.categories contains "eventonazionale" %}
-{% if event.date < site.time %}
 {% assign rowfinder = loopindex | modulo:2 %}
 {% if rowfinder == 0 %} <div class="row"> {% endif %}
   <div class="col s12 m6">
@@ -21,6 +20,5 @@
   </div>
   {% if rowfinder == 1 %} </div> {% endif %}
 {% assign loopindex = loopindex | plus: 1 %}
-{% endif %}
 {% endif %}
 {% endfor %}
