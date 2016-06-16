@@ -4,7 +4,7 @@ title: Comitati Locali
 permalink: /comitatilocali/
 ---
 
-L'AISF conta al momento 10 comitati locali in altrettante università:
+L'AISF conta al momento 9 comitati locali in altrettante università:
 
 <ul class="collection">
   <li class="collection-item avatar">
@@ -100,3 +100,7 @@ L'AISF conta al momento 10 comitati locali in altrettante università:
 ## Provenienza geografica
 
 <a href="/geo/">Qui</a> è possibile trovare ulteriori informazioni sullo storico della provenienza geografica dei membri AISF.
+
+## Formare un nuovo comitato locale
+
+Si faccia riferimento a [questa](/nuovocomitatolocale/) pagina.
