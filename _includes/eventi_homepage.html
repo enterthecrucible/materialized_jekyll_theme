@@ -4,7 +4,7 @@
     {% for item in site.events %}
         {% if neventi < 6 %}
             {% if item.date > site.time %}
-                <a class="collection-item modal-trigger aisf-text text-darken-2" href="#{{ item.title }}-modal"><div>{{ item.title }}<div class="secondary-content">{{ item.date | date: '%d %b %Y' }}</div></div></a>
+                <a class="collection-item modal-trigger aisf-text text-darken-2" href="#{{ event.id | remove: "/" }}-modal"><div>{{ item.title }}<div class="secondary-content">{{ item.date | date: '%d %b %Y' }}</div></div></a>
                 {% assign neventi = neventi | plus: 1 %}
             {% endif %}
         {% endif %}
