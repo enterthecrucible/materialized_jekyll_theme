@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 categories: blog Pisa LoT
 title:  "Conclusione di Lights of Tuscany: un riepilogo, alcune impressioni"
