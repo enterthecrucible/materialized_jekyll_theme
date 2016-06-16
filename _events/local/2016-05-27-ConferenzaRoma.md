@@ -10,4 +10,5 @@ facebook:
 link:
 ---
 
-bla bla bla
+Per maggiori informazioni si prega di contattare il [presidente](/comitatilocali/) del comitato locale che ha organizzato l'evento.
+
