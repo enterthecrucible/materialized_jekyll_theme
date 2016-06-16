@@ -6,7 +6,7 @@ permalink: /nuovocomitatolocale/
 
 _Comitati Locali: associazioni la cui affiliazione è aperta a tutti gli studenti di fisica che provengono da un’area circoscritta e delimitata (come una particolare Università, ente o istituzione di una città)._
 
-[**Articolo 5.1 del Regolamento interno**]
+[**Articolo 5.1 del Regolamento Interno**]
 
  
 ## Motivazioni e benefici
@@ -24,6 +24,7 @@ L'articolo 5.2 regolamenta le modalità di costituzione di un Comitato Locale:
 
 Un Comitato Locale deve essere formato da almeno 10 membri. È necessario essere accettati dal Comitato Esecutivo. Ai nuovi Comitati Locali che vengono approvati dal Comitato Esecutivo viene concessa un’affiliazione di prova. I Comitati Locali in prova ottengono lo stato di affiliazione completa se deciso nella seguente Assemblea Generale Annuale (AGA) o Assemblea Generale (AG).
 
+Ogni università ha diritto a creare un suo Comitato Locale; se in una stessa città sono presenti più atenei, i rispettivi Comitati Locali possono coordinarsi e collaborare, mantenendo la propria identità.
 Se più di un’associazione desidera ottenere la posizione di Comitato Locale per la stessa Università, ci si aspetta che queste associazioni risolvano i propri conflitti di interessi da sole. Nel frattempo, da procedura standard, non si accetta la candidatura di alcuna.
 
 È necessario nominare anche un presidente, che sarà il punto di riferimento per l'AISF sul territorio.
