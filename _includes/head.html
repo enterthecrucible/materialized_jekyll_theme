@@ -6,15 +6,14 @@
     
 <!-- Standard html meta tags -->
     <meta http-equiv="content-type"        content="text/html; charset=utf-8" />
-    <meta name="description"               content="ICPS2017 - International Conference of Physics Students 2017" />
-    <meta name="keywords"                  content="international association physics students associazione italiana studenti fisica iaps aisf {% if page.tags %}{{ page.tags }}{% endif %}" />
+    <meta name="description"               content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ page.content | strip_html | strip_newlines | truncate:160 }}{% endif %}" />
+    <meta name="keywords"                  content="aisf associazione italiana studenti di fisica iaps {% if page.tags %}{{ page.tags }}{% endif %}" />
 
-    
 <!-- og -->
     {% include opengraph.html %}
     
   <!-- CSS  -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link rel='stylesheet prefetch' href='http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css'>
+  <link rel="stylesheet prefetch" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
   <link href="/css/main.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 </head>
