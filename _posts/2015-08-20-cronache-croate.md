@@ -4,6 +4,7 @@ categories: blog
 title:  "Cronache Croate"
 date:   2015-08-20 19:39
 author: Giovanni Tricella
+thumbnail: /img/photos/2015-ICPS/group01.jpg
 ---
 
 ## Sette giorni a ICPS 2015 - Zagreb
