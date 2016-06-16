@@ -14,7 +14,7 @@ title: "Blog"
     {% if post.author %}<div class="chip"><span class="post-meta">{{ post.author }}</span></div>{% endif %}
     {% if post.categories %}{% for category in post.categories %}{% if category == 'blog' %}{% else %}<div class="chip"><span class="post-meta">{{ category }}</span></div>{% endif %}{% endfor %}{% endif %}
     </h2>
-    <div class="entry-content">{{ post.excerpt }}</div>
+    <div class="entry-content">{{ post.excerpt | strip_html }}</div>
   </li>
   <div class="divider"></div>
   {% endfor %}
