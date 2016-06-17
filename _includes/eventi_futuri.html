@@ -1,14 +1,14 @@
 {% if nfuturi==0 %}
-    <ul class="collection">
-      {% for event in site.events offset:npassati %}
-          <a class="collection-item modal-trigger aisf-text text-darken-2" href="#{{ event.id | remove: "/" }}-modal">
-            <div class="row" style="margin:0">
-              <div class="col s12 m8">{{ event.title }}</div>
-              <div class="col s12 m4">	  <div class="right grey-text darken-3">{{ event.place }}, {{ event.date | date: '%d %b %Y' }}</div></div>
-            </div>
-          </a>
-      {% endfor %}
-    </ul>
-{% else %}
     <blockquote>Non ci sono eventi in programma. Stay tuned!</blockquote>
+{% else %}
+<ul class="collection">
+  {% for event in site.events offset:npassati %}
+      <a class="collection-item modal-trigger aisf-text text-darken-2" href="#{{ event.id | remove: "/" }}-modal">
+        <div class="row" style="margin:0">
+          <div class="col s12 m8">{{ event.title }}</div>
+          <div class="col s12 m4">	  <div class="right grey-text darken-3">{{ event.place }}, {{ event.date | date: '%d %b %Y' }}</div></div>
+        </div>
+      </a>
+  {% endfor %}
+</ul>
 {% endif %}
