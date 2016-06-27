@@ -6,7 +6,7 @@
       <a class="collection-item modal-trigger aisf-text text-darken-2" href="#{{ event.id | remove: "/" }}-modal">
         <div class="row" style="margin:0">
           <div class="col s12 m8">{{ event.title }}</div>
-          <div class="col s12 m4">	  <div class="right grey-text darken-3">{{ event.place }}, {{ event.date | date: '%d %b %Y' }}</div></div>
+          <div class="col s12 m4">	  <div class="right grey-text darken-3">{% if event.place %}{{ event.place }}{% endif %}{% if event.place and event.date %}, {% endif %}{% if event.date %}{{ event.date | date: '%d %b %Y' }}{% endif %}</div></div>
         </div>
       </a>
   {% endfor %}
