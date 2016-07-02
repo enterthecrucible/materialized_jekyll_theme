@@ -4,7 +4,7 @@ title: Comitati Locali
 permalink: /comitatilocali/
 ---
 
-L'AISF conta al momento 9 comitati locali in altrettante università:
+L'AISF conta al momento 11 comitati locali in altrettante università:
 
 <ul class="collection">
   <li class="collection-item avatar">
@@ -15,6 +15,15 @@ L'AISF conta al momento 9 comitati locali in altrettante università:
     </p>
     <div class="secondary-content"><a href="https://www.facebook.com/AISF-Bari-419162114940421/"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>
     <a href="mailto:bari@ai-sf.it"><i class="fa fa-lg fa-envelope"></i></a></div>
+
+  </li>
+  <li class="collection-item avatar">
+    <img src="/img/presidenti/bologna_alessandra-lorenzo.jpg" alt="" class="circle">
+    <span class="title">Comitato Locale di Bologna</span>
+    <p>Presidente Alessandra Lorenzo <br>
+      Fondazione 06/2016
+    </p>
+    <div class="secondary-content"><a href="mailto:bologna@ai-sf.it"><i class="fa fa-lg fa-envelope"></i></a></div>
 
   </li>
   <li class="collection-item avatar">
@@ -64,6 +73,16 @@ L'AISF conta al momento 9 comitati locali in altrettante università:
     </p>
     <div class="secondary-content"><a href="https://www.facebook.com/ComitatoLocalePisa/"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>
     <a href="mailto:pisa@ai-sf.it"><i class="fa fa-lg fa-envelope"></i></a></div>
+
+  </li>
+    <li class="collection-item avatar">
+    <img src="/img/presidenti/roma-torvergata_manuela-tulli.jpg" alt="" class="circle">
+    <span class="title">Comitato Locale di Roma Tor Vergata</span>
+    <p>Presidente Manuela Tulli <br>
+      Fondazione 05/2016
+    </p>
+    <div class="secondary-content"><a href="https://www.facebook.com/AISF-Comitato-Locale-Roma-Tor-Vergata-1116282045100631"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>
+	<a href="mailto:roma.torvergata@ai-sf.it"><i class="fa fa-lg fa-envelope"></i></a></div>
 
   </li>
   <li class="collection-item avatar">
