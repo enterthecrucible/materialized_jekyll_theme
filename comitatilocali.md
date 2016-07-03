@@ -13,8 +13,9 @@ L'AISF conta al momento 11 comitati locali in altrettante università:
     <p>Presidente Simona Rossini <br>
       Fondazione 05/2015
     </p>
-    <div class="secondary-content"><a href="https://www.facebook.com/AISF-Bari-419162114940421/"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>
-    <a href="mailto:bari@ai-sf.it"><i class="fa fa-lg fa-envelope"></i></a></div>
+    <div class="secondary-content"><a href="https://www.facebook.com/AISF-Bari-419162114940421/" title="Pagina Facebook"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>
+      <a href="http://www.ai-sf.it/owncloud/index.php/s/7yShtEE0ySxrgEA" title="Regolamento Interno"><i class="fa fa-lg fa-file-text"></i></a>
+    <a href="mailto:bari@ai-sf.it" title="Indirizzo email"><i class="fa fa-lg fa-envelope"></i></a></div>
 
   </li>
   <li class="collection-item avatar">
@@ -23,7 +24,7 @@ L'AISF conta al momento 11 comitati locali in altrettante università:
     <p>Presidente Alessandra Lorenzo <br>
       Fondazione 06/2016
     </p>
-    <div class="secondary-content"><a href="mailto:bologna@ai-sf.it"><i class="fa fa-lg fa-envelope"></i></a></div>
+    <div class="secondary-content"><a href="mailto:bologna@ai-sf.it" title="Indirizzo email"><i class="fa fa-lg fa-envelope"></i></a></div>
 
   </li>
   <li class="collection-item avatar">
@@ -32,7 +33,7 @@ L'AISF conta al momento 11 comitati locali in altrettante università:
     <p>Presidente Lorenzo Ferrari Barusso <br>
       Fondazione 08/2015
     </p>
-    <div class="secondary-content"><a href="mailto:genova@ai-sf.it"><i class="fa fa-lg fa-envelope"></i></a></div>
+    <div class="secondary-content"><a href="mailto:genova@ai-sf.it" title="Indirizzo email"><i class="fa fa-lg fa-envelope"></i></a></div>
 
   </li>
   <li class="collection-item avatar">
@@ -41,8 +42,9 @@ L'AISF conta al momento 11 comitati locali in altrettante università:
     <p>Presidente Valerio Peri <br>
       Fondazione 05/2015
     </p>
-    <div class="secondary-content"><a href="https://www.facebook.com/aisfunimi/"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>
-    <a href="mailto:milano@ai-sf.it"><i class="fa fa-lg fa-envelope"></i></a></div>
+    <div class="secondary-content"><a href="https://www.facebook.com/aisfunimi/" title="Pagina Facebook"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>
+      <a href="http://www.ai-sf.it/owncloud/index.php/s/ahVSprdQaNmzXe2" title="Regolamento Interno"><i class="fa fa-lg fa-file-text"></i></a>
+    <a href="mailto:milano@ai-sf.it" title="Indirizzo email"><i class="fa fa-lg fa-envelope"></i></a></div>
 
   </li>
   <li class="collection-item avatar">
@@ -51,8 +53,8 @@ L'AISF conta al momento 11 comitati locali in altrettante università:
     <p>Presidente Enrico Catalano <br>
       Fondazione 04/2016
     </p>
-    <div class="secondary-content"><a href="https://www.facebook.com/groups/929555897125683/"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>
-    <a href="mailto:milano.bicocca@ai-sf.it"><i class="fa fa-lg fa-envelope"></i></a></div>
+    <div class="secondary-content"><a href="https://www.facebook.com/groups/929555897125683/" title="Pagina Facebook"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>
+    <a href="mailto:milano.bicocca@ai-sf.it" title="Indirizzo email"><i class="fa fa-lg fa-envelope"></i></a></div>
 
   </li>
   <li class="collection-item avatar">
@@ -61,8 +63,8 @@ L'AISF conta al momento 11 comitati locali in altrettante università:
     <p>Presidente Leonardo Pacciani <br>
       Fondazione 05/2016
     </p>
-    <div class="secondary-content"><a href="https://www.facebook.com/AISFPadova"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>
-    <a href="mailto:padova@ai-sf.it"><i class="fa fa-lg fa-envelope"></i></a></div>
+    <div class="secondary-content"><a href="https://www.facebook.com/AISFPadova" title="Pagina Facebook"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>
+    <a href="mailto:padova@ai-sf.it" title="Indirizzo email"><i class="fa fa-lg fa-envelope"></i></a></div>
 
   </li>
   <li class="collection-item avatar">
@@ -71,8 +73,9 @@ L'AISF conta al momento 11 comitati locali in altrettante università:
     <p>Presidente Marco Morrone <br>
       Fondazione 07/2015
     </p>
-    <div class="secondary-content"><a href="https://www.facebook.com/ComitatoLocalePisa/"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>
-    <a href="mailto:pisa@ai-sf.it"><i class="fa fa-lg fa-envelope"></i></a></div>
+    <div class="secondary-content"><a href="https://www.facebook.com/ComitatoLocalePisa/" title="Pagina Facebook"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>
+      <a href="http://www.ai-sf.it/owncloud/index.php/s/EFmPUkaywNZhTT3" title="Regolamento Interno"><i class="fa fa-lg fa-file-text"></i></a>
+    <a href="mailto:pisa@ai-sf.it" title="Indirizzo email"><i class="fa fa-lg fa-envelope"></i></a></div>
 
   </li>
     <li class="collection-item avatar">
@@ -81,8 +84,8 @@ L'AISF conta al momento 11 comitati locali in altrettante università:
     <p>Presidente Manuela Tulli <br>
       Fondazione 05/2016
     </p>
-    <div class="secondary-content"><a href="https://www.facebook.com/AISF-Comitato-Locale-Roma-Tor-Vergata-1116282045100631"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>
-	<a href="mailto:roma.torvergata@ai-sf.it"><i class="fa fa-lg fa-envelope"></i></a></div>
+    <div class="secondary-content"><a href="https://www.facebook.com/AISF-Comitato-Locale-Roma-Tor-Vergata-1116282045100631" title="Pagina Facebook"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>
+	<a href="mailto:roma.torvergata@ai-sf.it" title="Indirizzo email"><i class="fa fa-lg fa-envelope"></i></a></div>
 
   </li>
   <li class="collection-item avatar">
@@ -91,7 +94,7 @@ L'AISF conta al momento 11 comitati locali in altrettante università:
     <p>Presidente Luca Buoninfante <br>
       Fondazione 05/2015
     </p>
-    <div class="secondary-content"><a href="mailto:salerno@ai-sf.it"><i class="fa fa-lg fa-envelope"></i></a></div>
+    <div class="secondary-content"><a href="mailto:salerno@ai-sf.it" title="Indirizzo email"><i class="fa fa-lg fa-envelope"></i></a></div>
 
   </li>
   <li class="collection-item avatar">
@@ -100,8 +103,8 @@ L'AISF conta al momento 11 comitati locali in altrettante università:
     <p>Presidente Riccardo Longo <br>
       Fondazione 06/2015
     </p>
-    <div class="secondary-content"><a href="https://www.facebook.com/AISF-Torino-1642147402727081/"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>
-      <a href="mailto:torino@ai-sf.it"><i class="fa fa-lg fa-envelope"></i></a></div>
+    <div class="secondary-content"><a href="https://www.facebook.com/AISF-Torino-1642147402727081/" title="Pagina Facebook"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>
+      <a href="mailto:torino@ai-sf.it" title="Indirizzo email"><i class="fa fa-lg fa-envelope"></i></a></div>
     
   </li>
   <li class="collection-item avatar">
@@ -110,9 +113,10 @@ L'AISF conta al momento 11 comitati locali in altrettante università:
     <p>Presidente Emily Damiani <br>
       Fondazione 12/2015
     </p>
-    <div class="secondary-content"><a href="https://www.facebook.com/AISF-Trento-958208697625956/"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>
-      <a href="mailto:trento@ai-sf.it"><i class="fa fa-lg fa-envelope"></i></a></div>
-    
+    <div class="secondary-content"><a href="https://www.facebook.com/AISF-Trento-958208697625956/" title="Pagina Facebook"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>
+      <a href="http://www.ai-sf.it/owncloud/index.php/s/gj2CmZ7NrZTkOWD" title="Regolamento Interno"><i class="fa fa-lg fa-file-text"></i></a>
+      <a href="mailto:trento@ai-sf.it" title="Indirizzo email"><i class="fa fa-lg fa-envelope"></i></a></div>
+
   </li>
 </ul>
 
