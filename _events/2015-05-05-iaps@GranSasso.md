@@ -11,4 +11,4 @@ site: http://www.iaps.info/event/gran-sasso-labs-tour-2015
 
 ---
 
-iaps@GranSasso bla bla bla
+iaps@GranSasso è un evento internazionale organizzato in collaborazione tra AISF e IAPS. Il Coordianatore Eventi caricherà presto materiale aggiuntivo.

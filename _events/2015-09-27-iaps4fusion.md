@@ -11,4 +11,4 @@ site: http://www.iaps.info/tag/iaps4fusion
 
 ---
 
-iaps4fusion bla bla bla
+Maggiori informazioni su iaps4fusion saranno presto caricate dal nostro Coordinatore Eventi.
