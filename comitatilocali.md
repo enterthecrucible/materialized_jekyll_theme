@@ -33,7 +33,8 @@ L'AISF conta al momento 11 comitati locali in altrettante università:
     <p>Presidente Lorenzo Ferrari Barusso <br>
       Fondazione 08/2015
     </p>
-    <div class="secondary-content"><a href="mailto:genova@ai-sf.it" title="Indirizzo email"><i class="fa fa-lg fa-envelope"></i></a></div>
+    <div class="secondary-content"><a href="https://www.facebook.com/geAISF/" title="Pagina Facebook"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>
+    <a href="mailto:genova@ai-sf.it" title="Indirizzo email"><i class="fa fa-lg fa-envelope"></i></a></div>
 
   </li>
   <li class="collection-item avatar">
