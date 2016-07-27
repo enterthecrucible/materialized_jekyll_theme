@@ -3,7 +3,7 @@ layout: page
 title: "Blog"
 ---
 
-<div class="row"><div class="col s12 aisf darken-2 white-text" style="border-radius: 4px;"><p>Stiamo importando i post dalla vecchia piattaforma. Al momento i post più vecchi non sono ancora accessibili, ci scusiamo per il disagio.</p></div></div>
+<!-- <div class="row"><div class="col s12 aisf darken-2 white-text" style="border-radius: 4px;"><p>Stiamo importando i post dalla vecchia piattaforma. Al momento i post più vecchi non sono ancora accessibili, ci scusiamo per il disagio.</p></div></div> -->
 
 <ul class="post-list">
   {% for post in site.posts %}
