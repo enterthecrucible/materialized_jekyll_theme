@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog
+categories: blog iaps@GranSasso
 title:  "Conclusione del primo Particle & Astroparticle Physics Spring Programme"
 date:   2015-05-16 06:57
 author: Francesco Sciortino

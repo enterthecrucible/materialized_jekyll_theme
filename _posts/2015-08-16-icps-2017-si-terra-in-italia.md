@@ -1,9 +1,9 @@
 ---
 layout: post
-categories: blog
+categories: blog ICPS2017
 title:  "ICPS 2017 si terrà in Italia!"
 date:   2015-08-16 15:01
-author:
+author: Giulio Pasqualetti
 thumbnail: 
 ---
 

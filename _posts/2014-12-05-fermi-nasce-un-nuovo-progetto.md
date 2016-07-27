@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog fermi
+categories: blog FERMI
 title:  "FERMI! Nasce un nuovo progetto"
 date:   2014-12-05 14:21
 author: Lucio Maria Milanese

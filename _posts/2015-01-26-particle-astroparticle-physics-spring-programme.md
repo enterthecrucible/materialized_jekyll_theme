@@ -1,9 +1,9 @@
 ---
 layout: post
-categories: blog 
+categories: blog iaps@GranSasso
 title:  "Particle & Astroparticle Physics Spring Programme "
 date:   2015-01-26 22:30
-author: 
+author: Francesco Sciortino
 ---
 
 **Aggiornamento:** l'apertura delle iscrizioni è stata ritardata di una settimana. Qui è possibile trovare maggiori dettagli.

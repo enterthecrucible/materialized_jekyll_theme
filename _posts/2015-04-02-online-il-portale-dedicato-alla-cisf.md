@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog
+categories: blog CISF
 title:  "Online il portale dedicato alla CISF"
 date:   2015-04-02 11:23
 author: Giulio Pasqualetti

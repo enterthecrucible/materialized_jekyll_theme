@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog CISF2015
+categories: blog CISF
 title:  "1a Conferenza Italiana Studenti di Fisica: aperte le registrazioni"
 date:   2015-03-30 09:32
 author: Michele Re Fiorentin

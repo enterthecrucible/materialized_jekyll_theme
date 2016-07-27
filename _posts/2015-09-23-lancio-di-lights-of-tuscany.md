@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog Pisa
+categories: blog Pisa LoT IYL
 title:  "Lancio di Lights of Tuscany"
 date:   2015-09-23 20:05
 author: Giulio Pasqualetti

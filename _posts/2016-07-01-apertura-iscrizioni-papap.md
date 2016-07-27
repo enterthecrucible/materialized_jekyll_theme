@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog
+categories: blog iaps@GranSasso
 title:  "Apertura iscrizioni PAPAP"
 date:   2016-07-01 13:20
 author: Giulio Pasqualetti

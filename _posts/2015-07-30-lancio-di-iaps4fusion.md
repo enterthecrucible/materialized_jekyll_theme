@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog
+categories: blog iaps4fusion
 title:  "Lancio di iaps4fusion"
 date:   2015-07-30 21:26
 author: Francesco Sciortino

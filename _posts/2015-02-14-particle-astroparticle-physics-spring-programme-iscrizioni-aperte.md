@@ -3,7 +3,7 @@ layout: post
 categories: blog iaps@GranSasso
 title:  "Particle & Astroparticle Physics Spring Programme: iscrizioni aperte"
 date:   2015-02-14 10:46
-author:
+author: Michele Re Fiorentin
 ---
 
 IAPS e AISF sono orgogliose di annunciare che la prima edizione dell'iaps@GranSasso- Particle & Astroparticle Physics Spring Programme si terrà in Italia nel maggio 2015!

@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog
+categories: blog ICPS
 title:  "Cronache Croate"
 date:   2015-08-20 19:39
 author: Giovanni Tricella

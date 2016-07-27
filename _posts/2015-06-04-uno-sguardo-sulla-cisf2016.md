@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog
+categories: blog CISF
 title:  "Uno sguardo sulla CISF2015"
 date:   2015-06-04 08:22
 author: Michele Re Fiorentin

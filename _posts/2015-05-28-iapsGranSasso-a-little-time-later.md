@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog
+categories: blog iaps@GranSasso
 title:  "iaps@GranSasso: a little time later..."
 date:   2015-06-04 08:22
 author: Jacopo Mazza

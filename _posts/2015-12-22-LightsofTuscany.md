@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog Pisa
+categories: blog Pisa LoT IYL
 title:  "Lights of Tuscany 2015"
 date:   2015-12-22 10:25
 author: Marco Morrone, Giulio Pasqualetti, Francesco Sciortino
