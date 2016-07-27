@@ -26,3 +26,13 @@ L'AISF si organizza in Comitati Locali, ciascuno con un Presidente. La lista dei
 
 La provenienza geografica dei membri AISF è si può trovare a <a href="/geo/">questa pagina</a>.
 
+## Sede legale
+
+La sede legale dell'Associazione è presso
+
+    Istituto di Fisica dell'Università di Torino
+    via P. Giuria 1
+    10125 Torino - ITALIA
+    
+    C.F. 97787600010
+    P.IVA. 11237480014
