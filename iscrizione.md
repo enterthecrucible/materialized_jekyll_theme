@@ -33,7 +33,9 @@ Per diventare membri AISF è necessario:
     </div>
   </div>
 </div>
-      
+
+<script type="text/javascript" src="https://form.jotform.com/jsform/61562917217963"></script>
+
 Le quote associative per l'anno 2016 sono:
 <ul class="collection">
   <li class="collection-item">5€ se studente di laurea triennale o magistrale.<br>
