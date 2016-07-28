@@ -19,3 +19,6 @@ collections:
   events:
     output: true
     permalink: /:categories/:year/:month/:day/:title/
+
+gems:
+ - jekyll-redirect-from
