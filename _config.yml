@@ -9,6 +9,7 @@ locale: "it"
 # Build settings
 markdown: kramdown
 future: true
+permalink: /blog/:year/:month/:day/:title/
 
 #facebook
 fb_admins: 
