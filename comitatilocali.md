@@ -38,9 +38,9 @@ L'AISF conta al momento 11 comitati locali in altrettante università:
 
   </li>
   <li class="collection-item avatar">
-    <img src="/img/presidenti/milano_valerio-peri.jpg" alt="" class="circle">
+    <img src="/img/presidenti/milano_daniele-oriani.jpg" alt="" class="circle">
     <span class="title">Comitato Locale di Milano</span>
-    <p>Presidente Valerio Peri <br>
+    <p>Presidente Daniele Oriani<br>
       Fondazione 05/2015
     </p>
     <div class="secondary-content"><a href="https://www.facebook.com/aisfunimi/" title="Pagina Facebook"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>
