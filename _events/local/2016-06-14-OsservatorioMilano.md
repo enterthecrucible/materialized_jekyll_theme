@@ -4,7 +4,7 @@ categories: eventolocale
 title: "Visita Osservatorio Astronomico"
 CL: Milano
 locandina:
-gallery:
+gallery: /img/osservatorio/
 report:
 facebook: 
 link:
