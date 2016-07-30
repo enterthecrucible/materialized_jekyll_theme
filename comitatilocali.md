@@ -80,7 +80,7 @@ L'AISF conta al momento 11 comitati locali in altrettante università:
 
   </li>
     <li class="collection-item avatar">
-    <img src="/img/presidenti/roma-torvergata_manuela-tulli.jpg" alt="" class="circle">
+    <img src="/img/presidenti/roma-tor_manuela-tulli.jpg" alt="" class="circle">
     <span class="title">Comitato Locale di Roma Tor Vergata</span>
     <p>Presidente Manuela Tulli <br>
       Fondazione 05/2016
@@ -99,9 +99,9 @@ L'AISF conta al momento 11 comitati locali in altrettante università:
 
   </li>
   <li class="collection-item avatar">
-    <img src="/img/presidenti/torino_riccardo-longo.jpg" alt="" class="circle">
+    <img src="/img/presidenti/torino_mattia-ivaldi.jpg" alt="" class="circle">
     <span class="title">Comitato Locale di Torino</span>
-    <p>Presidente Riccardo Longo <br>
+    <p>Presidente Mattia Ivaldi <br>
       Fondazione 06/2015
     </p>
     <div class="secondary-content"><a href="https://www.facebook.com/AISF-Torino-1642147402727081/" title="Pagina Facebook"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>
