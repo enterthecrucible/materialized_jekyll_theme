@@ -20,7 +20,7 @@ L'AISF conta al momento 11 comitati locali in altrettante università:
     <a href="mailto:bari@ai-sf.it" title="Indirizzo email"><i class="fa fa-lg fa-envelope"></i></a></div>
 
   </li>
-  <li class="collection-item avatar">
+  <li class="collection-item avatar" id="bologna">
     <img src="/img/presidenti/bologna_alessandra-lorenzo.jpg" alt="" class="circle">
     <span class="title">Comitato Locale di Bologna</span>
     <p>Presidente Alessandra Lorenzo <br>
@@ -29,7 +29,7 @@ L'AISF conta al momento 11 comitati locali in altrettante università:
     <div class="secondary-content"><a href="mailto:bologna@ai-sf.it" title="Indirizzo email"><i class="fa fa-lg fa-envelope"></i></a></div>
 
   </li>
-  <li class="collection-item avatar">
+  <li class="collection-item avatar" id="genova">
     <img src="/img/presidenti/genova_lorenzo-ferrari-barusso.jpg" alt="" class="circle">
     <span class="title">Comitato Locale di Genova</span>
     <p>Presidente Lorenzo Ferrari Barusso <br>
@@ -39,7 +39,7 @@ L'AISF conta al momento 11 comitati locali in altrettante università:
     <a href="mailto:genova@ai-sf.it" title="Indirizzo email"><i class="fa fa-lg fa-envelope"></i></a></div>
 
   </li>
-  <li class="collection-item avatar">
+  <li class="collection-item avatar" id="milano">
     <img src="/img/presidenti/milano_daniele-oriani.jpg" alt="" class="circle">
     <span class="title">Comitato Locale di Milano</span>
     <p>Presidente Daniele Oriani<br>
@@ -50,7 +50,7 @@ L'AISF conta al momento 11 comitati locali in altrettante università:
     <a href="mailto:milano@ai-sf.it" title="Indirizzo email"><i class="fa fa-lg fa-envelope"></i></a></div>
 
   </li>
-  <li class="collection-item avatar">
+  <li class="collection-item avatar" id="bicocca">
     <img src="/img/presidenti/milanobicocca_enrico-catalano.jpg" alt="" class="circle">
     <span class="title">Comitato Locale di Milano Bicocca</span>
     <p>Presidente Enrico Catalano <br>
@@ -60,7 +60,7 @@ L'AISF conta al momento 11 comitati locali in altrettante università:
     <a href="mailto:milano.bicocca@ai-sf.it" title="Indirizzo email"><i class="fa fa-lg fa-envelope"></i></a></div>
 
   </li>
-  <li class="collection-item avatar">
+  <li class="collection-item avatar" id="padova">
     <img src="/img/presidenti/padova_leonardo-pacciani.jpg" alt="" class="circle">
     <span class="title">Comitato Locale di Padova</span>
     <p>Presidente Leonardo Pacciani <br>
@@ -70,7 +70,7 @@ L'AISF conta al momento 11 comitati locali in altrettante università:
     <a href="mailto:padova@ai-sf.it" title="Indirizzo email"><i class="fa fa-lg fa-envelope"></i></a></div>
 
   </li>
-  <li class="collection-item avatar">
+  <li class="collection-item avatar" id="pisa">
     <img src="/img/presidenti/pisa_marco-morrone.jpg" alt="" class="circle">
     <span class="title">Comitato Locale di Pisa</span>
     <p>Presidente Marco Morrone <br>
@@ -81,7 +81,7 @@ L'AISF conta al momento 11 comitati locali in altrettante università:
     <a href="mailto:pisa@ai-sf.it" title="Indirizzo email"><i class="fa fa-lg fa-envelope"></i></a></div>
 
   </li>
-    <li class="collection-item avatar">
+    <li class="collection-item avatar" id="torvergata">
     <img src="/img/presidenti/roma-tor_manuela-tulli.jpg" alt="" class="circle">
     <span class="title">Comitato Locale di Roma Tor Vergata</span>
     <p>Presidente Manuela Tulli <br>
@@ -91,7 +91,7 @@ L'AISF conta al momento 11 comitati locali in altrettante università:
 	<a href="mailto:roma.torvergata@ai-sf.it" title="Indirizzo email"><i class="fa fa-lg fa-envelope"></i></a></div>
 
   </li>
-  <li class="collection-item avatar">
+  <li class="collection-item avatar" id="salerno">
     <img src="/img/presidenti/salerno_luca-buoninfante.jpg" alt="" class="circle">
     <span class="title">Comitato Locale di Salerno</span>
     <p>Presidente Luca Buoninfante <br>
@@ -100,7 +100,7 @@ L'AISF conta al momento 11 comitati locali in altrettante università:
     <div class="secondary-content"><a href="mailto:salerno@ai-sf.it" title="Indirizzo email"><i class="fa fa-lg fa-envelope"></i></a></div>
 
   </li>
-  <li class="collection-item avatar">
+  <li class="collection-item avatar" id="torino">
     <img src="/img/presidenti/torino_mattia-ivaldi.jpg" alt="" class="circle">
     <span class="title">Comitato Locale di Torino</span>
     <p>Presidente Mattia Ivaldi <br>
