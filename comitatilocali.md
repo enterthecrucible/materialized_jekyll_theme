@@ -2,6 +2,8 @@
 layout: page
 title: Comitati Locali
 permalink: /comitatilocali/
+redirect_from:
+  - /it/20-comitati-locali/
 ---
 
 L'AISF conta al momento 11 comitati locali in altrettante università:
