@@ -5,7 +5,8 @@ title:  "Visita al LASA"
 date:   2016-03-18 12:43
 author: Emilio Villa, Cesare Paulin
 redirect_from:
-  - /it/22-comitati-locali/milano/113-visita-al-lasa
+  - /it/22-comitati-locali/milano/113-visita-al-lasa/
+  - /iscrizione/22-comitati-locali/milano/113-visita-al-lasa/
 ---
 
  Il 2 marzo, in un gruppo di circa quaranta studenti, siamo andati a visitare il centro di ricerca LASA (Laboratorio Acceleratori e Superconduttività Applicata) a Segrate in provincia di Milano.
