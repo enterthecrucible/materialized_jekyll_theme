@@ -2,6 +2,8 @@
 layout: page
 title: Iscriviti
 permalink: /iscrizione/
+redirect_from:
+  - /eventi/25-membri-e-affiliazione/
 ---
 
 Per diventare membri AISF è necessario:
