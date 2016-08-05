@@ -4,6 +4,7 @@ title: Chi siamo
 permalink: /about/
 redirect_from:
   - /it/8-info-it-it/
+  - /documenti/8-info-it-it/
 ---
 
 <img class="materialboxed" data-caption="Foto di gruppo alla prima CISF, Torino 2015" width="100%" src="{{ site.url }}/img/photos/2015-CISF/group02.jpg">
