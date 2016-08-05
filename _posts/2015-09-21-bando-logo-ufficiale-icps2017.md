@@ -4,6 +4,8 @@ categories: blog ICPS2017
 title:  "Bando logo ufficiale ICPS2017"
 date:   2015-09-21 08:53
 author: Michele Re Fiorentin
+redirect_from:
+  - /blog/icps2017/2015/09/21/bando-logo-ufficiale-icps2017.html
 ---
 
 La corsa verso ICPS2017 è già cominciata, e abbiamo bisogno di voi! Un elemento essenziale della Conferenza è il **logo** ufficiale. Questo ci accompagnerà lungo tutti i preparativi e comparirà su ogni cosa relativa alla conferenza: documenti, magliette, booklet, ecc. La scelta del logo è quindi un processo decisamente importante ed il Comitato Organizzatore di ICPS2017 ha deciso di rivolgersi a voi ed aprire un bando per la selezione del logo.
