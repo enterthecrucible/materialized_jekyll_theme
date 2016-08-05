@@ -4,6 +4,8 @@ categories: blog Pisa LoT IYL
 title:  "Conclusione di Lights of Tuscany: un riepilogo, alcune impressioni"
 date:   2015-12-27 22:32
 author: Stefano Polla
+redirect_from:
+  - /blog/pisa/lot/iyl/2015/12/27/conclusione-di-lights-of-tuscany.html
 ---
 
 Lights of Tuscany 2015 è giunto al termine, e anche chi ha deciso di trascorrere qualche giorno in più in Italia è tornato a casa. Mentre ci godiamo le vacanze di Natale e studiamo per la sessione in arrivo, pensiamo a quei giorni in Toscana. Io ricordo questo viaggio così:
