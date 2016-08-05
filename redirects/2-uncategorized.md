@@ -2,5 +2,5 @@
 layout: redirected
 sitemap: false
 permalink: /it/2-uncategorised
-redirect_to:  /
+redirect_to:  /index.html
 ---
