@@ -4,6 +4,8 @@ categories: blog Pisa LoT IYL
 title:  "Lights of Tuscany 2015"
 date:   2015-12-22 10:25
 author: Marco Morrone, Giulio Pasqualetti, Francesco Sciortino
+redirect_from:
+  - /blog/pisa/lot/iyl/2015/12/22/LightsofTuscany.html
 ---
 
 E così, anche il nostro programma Lights of Tuscany 2015 è arrivato ad una conclusione, ed è esattamente quella in cui speravamo. 
