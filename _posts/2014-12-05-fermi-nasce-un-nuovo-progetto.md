@@ -4,6 +4,8 @@ categories: blog FERMI
 title:  "FERMI! Nasce un nuovo progetto"
 date:   2014-12-05 14:21
 author: Lucio Maria Milanese
+redirect_from:
+  - /blog/fermi/2014/12/05/fermi-nasce-un-nuovo-progetto.html
 ---
 
 L'AISF è lieta di annunciare la partenza del progetto **FERMI** (Formazione E Ricerca Menti Italiane).
