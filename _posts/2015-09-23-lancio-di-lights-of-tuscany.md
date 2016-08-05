@@ -4,6 +4,8 @@ categories: blog Pisa LoT IYL
 title:  "Lancio di Lights of Tuscany"
 date:   2015-09-23 20:05
 author: Giulio Pasqualetti
+redirect_from:
+  - /blog/pisa/lot/iyl/2015/09/23/lancio-di-lights-of-tuscany.html
 ---
 
 IAPS, l'AISF e il suo Comitato Locale di Pisa sono lieti di annunciare un nuovo evento per la fine di quest'anno!
