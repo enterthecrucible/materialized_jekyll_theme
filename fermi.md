@@ -5,6 +5,7 @@ permalink: /fermi/
 redirect_from:
   - /fermi/details/2/32?format=html
   - /it/component/mailto/?tmpl=component&template=smartone&link=1c9ec49a93a11e251cab997bf3612f73483235d1
+  - /fermi.html
 ---
 
 
