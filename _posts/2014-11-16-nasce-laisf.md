@@ -4,6 +4,8 @@ categories: blog
 title:  "Nasce l'AISF"
 date:   2014-11-16 00:00
 author: Michele Re Fiorentin
+redirect_from:
+  - /blog/2014/11/16/nasce-laisf.html
 ---
 
 Il [XXIX ICPS](http://www.icps2014.com/location/heidelberg/) ([International Conference of Physics Students](http://en.wikipedia.org/wiki/International_Conference_of_Physics_Students)) in Heidelberg ha segnato una tappa importante per l'Italia. Gruppi ben nutriti di studenti italiani hanno sempre preso parte alla più giovane e colorata conferenza di fisica, ma a differenza di molti colleghi e amici di altre nazioni, sono sempre stati costretti a farlo a "titolo personale". La compagine italiana, in altre parole, è sempre stata composta da *Individual Members*: frammenti che da tutt'Italia prendevano parte all'ICPS senza un vero e proprio legame in comune, eccetto la voglia di nuove amicizie e la passione per la fisica. 
