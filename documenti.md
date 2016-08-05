@@ -2,6 +2,8 @@
 layout: page
 title: Documenti
 permalink: /documenti/
+redirect_from:
+  - /it/documents?catid=0&id=27
 ---
 
 ## Materiale informativo
