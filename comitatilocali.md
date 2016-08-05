@@ -9,7 +9,7 @@ redirect_from:
 L'AISF conta al momento 11 comitati locali in altrettante università:
 
 <ul class="collection">
-  <li class="collection-item avatar">
+  <li class="collection-item avatar" id="bari">
     <img src="/img/presidenti/bari_simona-rossini.jpg" alt="" class="circle">
     <span class="title">Comitato Locale di Bari</span>
     <p>Presidente Simona Rossini <br>
