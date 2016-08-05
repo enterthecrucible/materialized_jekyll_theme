@@ -4,6 +4,9 @@ categories: blog
 title:  "AISF nuovo IAPS National Committee"
 date:   2015-01-28 16:28
 author: Michele Re Fiorentin
+redirect_from:
+  - /blog/2015/01/28/aisf-nuovo-iaps-nationa-committee.html
+  - /blog/2015/01/28/aisf-nuovo-iaps-nationa-committee/
 ---
 
 **Il processo di affiliazione all'IAPS si è finalmente concluso e l'AISF è a tutti gli effetti National Committee.**
