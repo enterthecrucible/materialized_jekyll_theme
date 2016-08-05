@@ -7,6 +7,7 @@ author: Giulio Pasqualetti
 thumbnail: 
 redirect_from:
   - /it/54-online-il-portale-dedicato-alla-cisf/
+  - /blog/cisf/2015/04/02/online-il-portale-dedicato-alla-cisf.html
 ---
 
 ![](/img/blog/cisf-portale.png)
