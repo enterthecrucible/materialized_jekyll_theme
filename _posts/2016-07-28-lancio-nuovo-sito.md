@@ -4,6 +4,8 @@ categories: blog
 title:  "Lancio nuovo sito"
 date:   2016-07-28 00:02
 author: Giulio Pasqualetti
+redirect_from:
+  - /blog/2016/07/28/lancio-nuovo-sito.html
 ---
 
 Il sito dell'AISF si rinnova! Nuova veste grafica e suddivisione dei contenuti.
