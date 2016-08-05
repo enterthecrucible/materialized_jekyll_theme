@@ -7,6 +7,7 @@ author: Giovanni Tricella
 thumbnail: /img/photos/2015-ICPS/group01.jpg
 redirect_from:
   - /blog/icps/2015/08/20/cronache-croate.html
+  - /it/84-cronache-croate/
 ---
 
 ## Sette giorni a ICPS 2015 - Zagreb
