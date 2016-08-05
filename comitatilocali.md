@@ -110,7 +110,7 @@ L'AISF conta al momento 11 comitati locali in altrettante università:
       <a href="mailto:torino@ai-sf.it" title="Indirizzo email"><i class="fa fa-lg fa-envelope"></i></a></div>
     
   </li>
-  <li class="collection-item avatar">
+  <li class="collection-item avatar" id="trento">
     <img src="/img/presidenti/trento_emily-damiani.jpg" alt="" class="circle">
     <span class="title">Comitato Locale di Trento</span>
     <p>Presidente Emily Damiani <br>
