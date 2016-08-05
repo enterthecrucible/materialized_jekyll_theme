@@ -4,6 +4,8 @@ categories: blog iaps@GranSasso
 title:  "Particle & Astroparticle Physics Spring Programme "
 date:   2015-01-26 22:30
 author: Francesco Sciortino
+redirect_from:
+  - /blog/cisf/2015/06/04/uno-sguardo-sulla-cisf2016.html
 ---
 
 **Aggiornamento:** l'apertura delle iscrizioni è stata ritardata di una settimana. Qui è possibile trovare maggiori dettagli.
