@@ -6,7 +6,7 @@ date:   2015-08-20 19:39
 author: Giovanni Tricella
 thumbnail: /img/photos/2015-ICPS/group01.jpg
 redirect_from:
-  - http://ai-sf.it/blog/icps/2015/08/20/cronache-croate.html
+  - /blog/icps/2015/08/20/cronache-croate.html
 ---
 
 ## Sette giorni a ICPS 2015 - Zagreb
