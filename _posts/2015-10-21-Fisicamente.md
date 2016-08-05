@@ -18,7 +18,7 @@ Nel corso della prima edizione bambini e ragazzi sono stati coinvolti nella real
 
 Un programma girato nelle scuole, dalle elementari alle superiori, adatto anche ai non esperti in materia, ha come scopo la divulgazione di principi della fisica in un modo alternativo. Niente formule né equazioni, solo tanta fantasia ed entusiasmo ed è fatta!
 
-Dopo il successo della prima edizione sono in corso le registrazioni delle nuove puntate di “Fisicamente” che saranno trasmesse dall’emittente televisiva RTC Quarta Rete, canale 654 D.T. in Campania e in live streaming su [www.rtcquartarete.tv](www.rtcquartarete.tv). Potete seguire gli aggiornamenti cliccando “Mi Piace” alla pagina Facebook “Fisicamente”.
+Dopo il successo della prima edizione sono in corso le registrazioni delle nuove puntate di “Fisicamente” che saranno trasmesse dall’emittente televisiva RTC Quarta Rete, canale 654 D.T. in Campania e in live streaming su [www.rtcquartarete.tv](http://www.rtcquartarete.tv). Potete seguire gli aggiornamenti cliccando “Mi Piace” alla pagina Facebook “Fisicamente”.
 
 Vi aspettiamo!
 
