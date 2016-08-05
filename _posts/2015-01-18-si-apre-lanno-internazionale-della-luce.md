@@ -4,6 +4,8 @@ categories: blog IYL
 title:  "Si apre l'anno internazionale della luce"
 date:   2015-01-18 22:15
 author: Giulio Pasqualetti
+redirect_from:
+  - /it/35-si-apre-l-anno-internazionale-della-luce/
 ---
 
 ![](/img/blog/IYL.jpg)
