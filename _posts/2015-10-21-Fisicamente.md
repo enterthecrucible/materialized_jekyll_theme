@@ -6,6 +6,7 @@ date:   2015-10-21 15:03
 author: Ilenia Apicella
 redirect_from:
   - /blog/2015/10/21/Fisicamente.html
+  - /blog/2015/10/21/www.rtcquartarete.tv
 ---
 
 ## Su RTC Quarta Rete il programma di intrattenimento scientifico alla portata di tutti
