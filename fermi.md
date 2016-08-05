@@ -2,6 +2,8 @@
 layout: page
 title: FERMI
 permalink: /fermi/
+redirect_from:
+  - /fermi/details/2/32?format=html
 ---
 
 
