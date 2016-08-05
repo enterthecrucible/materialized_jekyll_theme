@@ -5,6 +5,8 @@ title:  "Conclusione del primo Particle & Astroparticle Physics Spring Programme
 date:   2015-05-16 06:57
 author: Francesco Sciortino
 thumbnail: 
+redirect_from:
+  - /blog/iaps@gransasso/2015/05/16/Conclusione-del-primo-Particle-Astroparticle-Physics-Spring-Programme.html
 ---
 
 Ed è così che finisce il primo Particle & Astroparticle Physics Spring Programme: con l’entusiasmo di 40 studenti, molti dei quali per la prima volta in Italia, una grande passione per la fisica e spiccato interesse per conoscere partecipanti di origini diverse. 
