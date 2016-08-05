@@ -5,6 +5,7 @@ permalink: /about/
 redirect_from:
   - /it/8-info-it-it/
   - /documenti/8-info-it-it/
+  - /it/contacts?catid=0&id=27/
 ---
 
 <img class="materialboxed" data-caption="Foto di gruppo alla prima CISF, Torino 2015" width="100%" src="{{ site.url }}/img/photos/2015-CISF/group02.jpg">
