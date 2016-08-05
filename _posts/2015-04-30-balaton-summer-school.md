@@ -5,6 +5,8 @@ title:  "Balaton Summer School"
 date:   2015-04-30 12:55
 author: Giulio Pasqualetti
 thumbnail: /img/blog/Balaton_Summer_School.png
+redirect_from:
+  - /blog/2015/04/30/balaton-summer-school.html
 ---
 
 ![](/img/blog/Balaton_Summer_School.png)
