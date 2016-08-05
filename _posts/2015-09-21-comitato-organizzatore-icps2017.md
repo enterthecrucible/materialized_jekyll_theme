@@ -4,6 +4,8 @@ categories: blog ICPS2017
 title:  "Comitato Organizzatore ICPS2017"
 date:   2015-09-21 08:36
 author: Michele Re Fiorentin
+redirect_from:
+  - /blog/icps2017/2015/09/21/comitato-organizzatore-icps2017.html
 ---
 
 Durante l'Annual General Meeting dell'International Association of Physics Students, l'AISF ha vinto l'organizzazione del XXXII ICPS, Torino 2017. Pertanto, al Comitato Esecutivo è stato assegnato l'incarico di nominare un Comitato Organizzatore della conferenza. Questo dovrà occuparsi, fin da ora, di preparare la conferenza del 2017 nel migliore dei modi, curando ogni dettaglio in modo da proporre agli studenti di tutto il mondo un'esperienza unica.
