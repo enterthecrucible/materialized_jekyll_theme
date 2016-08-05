@@ -5,6 +5,8 @@ title:  "Uno sguardo sulla CISF2015"
 date:   2015-06-04 08:22
 author: Michele Re Fiorentin
 thumbnail: 
+redirect_from:
+  - /blog/iaps@gransasso/2015/06/04/iapsGranSasso-a-little-time-later.html
 ---
 
 La CISF 2015 si è ormai conclusa da qualche settimana. È il momento di voltarsi un attimo indietro e fare un bilancio (il più possibile critico) di quanto è avvenuto a Torino, il 16 e 17 maggio 2015.
