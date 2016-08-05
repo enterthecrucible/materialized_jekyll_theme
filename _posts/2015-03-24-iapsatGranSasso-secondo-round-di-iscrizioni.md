@@ -4,6 +4,8 @@ categories: blog iaps@GranSasso
 title:  "iaps@GranSasso: secondo round di iscrizioni"
 date:   2015-03-24 19:38
 author: Francesco Sciortino
+redirect_from:
+  - /blog/iaps@gransasso/2015/03/24/iapsatGranSasso-secondo-round-di-iscrizioni.html
 ---
 
 Un secondo turno di iscrizioni è ora aperto per il Particle & Astroparticle Physics Spring Programme, organizzato dall'AISF e l'IAPS a Maggio 2015!
