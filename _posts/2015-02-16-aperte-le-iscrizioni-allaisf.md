@@ -4,6 +4,8 @@ categories: blog
 title:  "Aperte le iscrizioni all'AISF!"
 date:   2015-02-16 09:41
 author: Michele Re Fiorentin
+redirect_from:
+  - /it/44-apertura-iscrizioni-aisf/
 ---
 
 *Le iscrizioni all'Associazione Italiana Studenti di Fisica sono ufficialmente aperte!*
