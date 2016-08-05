@@ -4,6 +4,8 @@ categories: blog
 title:  "AISF diventa Provisional Member"
 date:   2014-12-09 20:36
 author: Giulio Pasqualetti
+redirect_from:
+  - /blog/2014/12/09/aisf-diventa-provisional-member.html
 ---
 
 Oggi, martedì 7 dicembre 2014 ore 7:57 del mattino, l'AISF e' stato accettato come "Provisional Member" dall'International Association of Physics Students (IAPS).
