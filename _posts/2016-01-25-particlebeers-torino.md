@@ -4,6 +4,8 @@ categories: blog Torino
 title:  "ParticleBeers Torino"
 date:   2016-01-25 09:46
 author: Mattia Ivaldi, Raquel Gomez Ambrosio
+redirect_from:
+  - /iscrizione/24-comitati-locali/torino/106-particlebeers/
 ---
 
 Mercoledì 20 gennaio si è svolto il primo ParticleBeers, organizzato dal Comitato Locale di Torino.
