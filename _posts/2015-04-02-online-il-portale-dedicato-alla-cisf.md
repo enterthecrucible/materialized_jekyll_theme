@@ -5,6 +5,8 @@ title:  "Online il portale dedicato alla CISF"
 date:   2015-04-02 11:23
 author: Giulio Pasqualetti
 thumbnail: 
+redirect_from:
+  - /it/54-online-il-portale-dedicato-alla-cisf/
 ---
 
 ![](/img/blog/cisf-portale.png)
