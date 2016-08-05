@@ -7,7 +7,6 @@ redirect_from:
   - /it/component/mailto/?tmpl=component&template=smartone&link=1c9ec49a93a11e251cab997bf3612f73483235d1/
   - /fermi.html
   - /it/13-progetti-it/
-  - /fermi.pdf
 ---
 
 
