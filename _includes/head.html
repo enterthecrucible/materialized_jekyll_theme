@@ -2,7 +2,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"> 
-    <title>{{ site.title }}</title>
+    <title>{% if page.title %}AISF - {{ page.title }}{% else %}AISF - Associazione Italiana Studenti di Fisica{% endif %}</title>
     
 <!-- Standard html meta tags -->
     <meta name="description" content="{% for entry in site.data.meta %}{% if page.url == entry.id %}{% assign trovato = true %}{{ entry.description }}{% endif %}{% endfor %}{% if trovato != true %}{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ page.content | strip_html | strip_newlines | truncate:160 }}{% endif %}{% endif %}" />
