@@ -1,0 +1,8 @@
+- id: "/"
+  title: "AISF - Associazione Italiana Studenti di Fisica"
+  description: "L'Associazione Italiana Studenti di Fisica (AISF) è un'organizzazione con finalità educative e senza fine di lucro che ambisce a riunire tutti gli studenti di fisica d'Italia."
+  keywords: "aisf associazione italiana studenti di fisica iaps"
+- id: "/eventi/"
+  title: "AISF - Eventi"
+  description: "L'AISF organizza eventi di carattere locale, nazionale e internazionale per i suoi membri, comprendenti conferenze, visite a laboratori, talks di studenti, ricercatori e professori."
+  keywords: "aisf eventi conferenza icps cisf"

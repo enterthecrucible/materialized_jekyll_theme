@@ -5,8 +5,8 @@
     <title>{{ site.title }}</title>
     
 <!-- Standard html meta tags -->
-    <meta name="description"               content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ page.content | strip_html | strip_newlines | truncate:160 }}{% endif %}" />
-    <meta name="keywords"                  content="aisf associazione italiana studenti di fisica iaps {% if page.tags %}{{ page.tags }}{% endif %}" />
+    <meta name="description" content="{% for entry in site.data.meta %}{% if page.url == entry.id %}{% assign trovato = true %}{{ entry.description }}{% endif %}{% endfor %}{% if trovato != true %}{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ page.content | strip_html | strip_newlines | truncate:160 }}{% endif %}{% endif %}" />
+    <meta name="keywords" content="{% for entry in site.data.meta %}{% if page.url == entry.id %}{% assign trovato = true %}{{ entry.keywords }}{% endif %}{% endfor %}{% if trovato != true %}aisf associazione italiana studenti di fisica iaps{% if page.tags %} {{ page.tags }}{% endif %}{% endif %}" />
 
 <!-- og -->
     {% include opengraph.html %}
@@ -16,3 +16,4 @@
     <link rel="stylesheet prefetch" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
     <link href="/css/main.css" type="text/css" rel="stylesheet" media="screen"/>
 </head>
+
