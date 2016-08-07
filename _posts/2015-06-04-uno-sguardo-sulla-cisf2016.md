@@ -6,7 +6,6 @@ date:   2015-06-04 08:22
 author: Michele Re Fiorentin
 thumbnail: 
 redirect_from:
-  - /blog/iaps@gransasso/2015/06/04/iapsGranSasso-a-little-time-later.html
   - /blog/cisf/2015/06/04/uno-sguardo-sulla-cisf2016.html
 ---
 
