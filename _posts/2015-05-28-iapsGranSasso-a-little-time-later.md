@@ -5,6 +5,8 @@ title:  "iaps@GranSasso: a little time later..."
 date:   2015-06-04 08:22
 author: Jacopo Mazza
 thumbnail: 
+redirect_from:
+  - /blog/iaps@gransasso/2015/06/04/iapsGranSasso-a-little-time-later.html
 ---
 
 _Jacopo Mazza, studente di laurea triennale dell'Università di Pisa, ha partecipato al [primo Particle & Astroparticle Physics Spring Programme](http://www.ai-sf.it/joomla/it/60-iaps-gransasso2015), e ci riporta qui le sue impressioni e un commento personale su questa iniziativa:_
