@@ -5,7 +5,7 @@ title:  "Banchetto AISF a Milano"
 date:   2015-10-14 21:50
 author: Valerio Peri
 redirect_from:
-  - /blog/iaps@gransasso/2015/02/14/particle-astroparticle-physics-spring-programme-iscrizioni-aperte.html
+  - /blog/milano/2015/10/14/banchetto-aisf-a-milano.html
 ---
 Il giorno 14 Ottobre il Comitato Locale di Milano ha allestito presso la propria Università un semplice banchetto per promuovere AISF.  L'intento era quello di far conoscere l'Associazione al più grande numero possibile di persone, promuovere l'evento Lights of Tuscany e ovviamente cercare di iscrivere nuovi studenti.
 
