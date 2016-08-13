@@ -1,6 +1,6 @@
 {% assign neventi = 0 %}
-<ul class="collection with-header">
-    <li class="collection-header"><h5>Prossimi eventi</h5></li>
+<ul class="collection with-header" id="index-collection-eventi">
+    <li class="collection-header"><span>Prossimi eventi</span></li>
     {% for event in site.events %}
         {% if neventi < 6 %}
             {% if event.date > site.time %}
