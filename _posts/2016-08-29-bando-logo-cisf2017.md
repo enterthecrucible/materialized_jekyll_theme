@@ -26,3 +26,5 @@ Il Comitato Organizzatore CISF 2017
 <hr>
 
 [Bando originario](/img/blog/bandologocisf2017.jpg)
+
+*Questo e altri annunci relativi alla CISF2017 sono pubblicati direttamente sulla [pagina Facebook](https://www.facebook.com/AISF-Bari-419162114940421/) del Comitato Locale di Bari.*
