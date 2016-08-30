@@ -108,7 +108,7 @@ L'AISF conta al momento 11 comitati locali in altrettante università:
     </p>
     <div class="secondary-content"><a href="https://www.facebook.com/AISF-Torino-1642147402727081/" title="Pagina Facebook"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>
       <a href="mailto:torino@ai-sf.it" title="Indirizzo email"><i class="fa fa-lg fa-envelope"></i></a></div>
-    
+    <a href="https://www.dropbox.com/sh/ijs6tpzpmee05b5/AACGcC8sUSSrFig3A0RbMheaa/Statuto_CL_TO.pdf?dl=0" title="Regolamento Interno"><i class="fa fa-lg fa-file-text"></i></a>
   </li>
   <li class="collection-item avatar" id="trento">
     <img src="/img/presidenti/trento_emily-damiani.jpg" alt="" class="circle">
