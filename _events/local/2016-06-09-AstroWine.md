@@ -3,7 +3,7 @@ layout: event
 categories: eventolocale
 title: "AstroWine"
 CL: Torino
-locandina: /img/eventilocali/2016_AstroWine/locandina.jpg
+locandina: /img/eventilocali/2016_AstroWine/astrowine-locandina.png
 gallery:
 articolo: "AstroWine"
 report:
