@@ -1,11 +1,10 @@
----
+--
 layout: event
 categories: eventolocale
-title: "Banchetto AISF"
+title: "Banchetto AISF Firenze"
 CL: Firenze
 locandina:
-gallery:
-articolo: "banchetto-aisf-a-firenze"
+gallery: 
 report:
 facebook: 
 link:
