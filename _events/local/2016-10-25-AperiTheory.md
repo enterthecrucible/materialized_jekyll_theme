@@ -7,5 +7,9 @@ locandina: /img/eventilocali/2016_AperiTheory/locandina.jpg
 gallery:
 report:
 facebook: 
-link: 
+link: https://www.eventbrite.it/e/biglietti-aperitheory-27415687058
 ---
+
+Vuoi scoprire qualcosa sulla teoria delle stringhe o sugli ultimi sviluppi della fisica delle particelle? Hai svolto o ti piacerebbe svolgere la tesi di laurea in ambito teorico? Ti sono piaciuti il ParticleBeers e l'AstroWine? Ti piaciono il vino e la birra? Vuoi condividere un apericena ricco di scienza con i tuoi amici e compagni?
+
+Il Comitato Locale di Torino dell'Associazione Italiana Studenti di Fisica è felice di annunciare il primo AperiTheory!
