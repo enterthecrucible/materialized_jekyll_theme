@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: eventolocale
-title:  "International School Day"
+title:  "Banchetto AISF Milano"
 CL: Milano
 locandina:
 gallery:
