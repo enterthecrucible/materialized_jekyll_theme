@@ -11,15 +11,13 @@ permalink: /esecutivo/
   <div class="col s12 m8">
 <p>Organo amministrativo ed esecutivo dell'Associazione è il Comitato Esecutivo, attualmente composto da 7 membri eletti durante le Assemblee Generali.</p>
 
-<p>L'attuale Comitato Esecutivo è stato eletto in parte nella prima Assemblea Generale dell'AISF, il 15 agosto 2014 ad Heidelberg, e in parte nella Assemblea Generale Annuale del 16 maggio 2015, durante la CISF a Torino.</p>
-
-<p>Durante la seconda Assemblea Generale Annuale, in data 24 aprile 2016, sono stati eletti quattro nuovi membri che andranno a sostituire i precedenti allo scadere dell'anno finanziario.</p>
+<p>L'attuale Comitato Esecutivo è stato eletto in parte nella prima Assemblea Generale Annuale dell'AISF, il 16 maggio 2015 alla CISF Torino, e in parte nella seconda Assemblea Generale Annuale del 24 aprile 2016 alla CISF a Torino.</p>
   </div>
 </div>
 
 ## Comitato Esecutivo (2016-2017)
 
-Parte di questo CE è stato eletto in data 16 maggio 2015 e parte in data 24 aprile 2016. Entrerà nel pieno delle sue funzioni allo scadere dell'anno finanziario in data 31 dicembre 2016.
+Parte di questo CE è stato eletto in data 16 maggio 2015 e parte in data 24 aprile 2016. É entrato nel pieno delle sue funzioni in data 15 settembre 2016.
 
 <ul class="collection">
   <li class="collection-item avatar">
@@ -88,7 +86,7 @@ Parte di questo CE è stato eletto in data 16 maggio 2015 e parte in data 24 apr
 
 ## Comitato Esecutivo (2015-2016)
 
-Parte di questo CE è stato eletto in data 15 agosto 2014 e parte in data 16 maggio 2015. I suoi membri sono attualmente in carica e lo resteranno fino allo scadere dell'anno finanziario in data 31 dicembre 2016.
+Parte di questo CE è stato eletto in data 15 agosto 2014 e parte in data 16 maggio 2015. I suoi membri sono rimasti in carica e fino al 15 settembre 2016.
 
 <ul class="collection">
   <li class="collection-item avatar">
