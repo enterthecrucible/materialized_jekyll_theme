@@ -6,6 +6,6 @@ CL: Bari
 locandina:
 gallery:
 report:
-facebook:
+facebook: https://www.facebook.com/events/542936599230615/
 link: 
 ---
