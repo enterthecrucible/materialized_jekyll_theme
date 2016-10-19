@@ -1,9 +1,9 @@
 ---
 layout: event
 categories: eventolocale
-title:  "Aperitheory"
+title:  "AperiTheory"
 CL: Torino
-locandina: /img/eventilocali/2016_Aperitheory/locandina.pdf
+locandina: /img/eventilocali/2016_AperiTheory/locandina.pdf
 gallery:
 report:
 facebook: 
