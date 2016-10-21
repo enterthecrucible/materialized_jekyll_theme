@@ -3,7 +3,7 @@
     <li class="collection-header"><span>Prossimi eventi</span></li>
     {% for event in site.events %}
         {% if neventi < 6 %}
-            {% if event.date >= site.time %}
+            {% if event.date > site.time %}
                 <a class="collection-item modal-trigger aisf-text text-darken-2" href="#{{ event.id | remove: "/"}}-modal">
                     <div>
                         {{ event.title }}
