@@ -4,7 +4,7 @@ categories: eventolocale
 title:  "AperiTheory"
 CL: Torino
 locandina: /img/eventilocali/2016_AperiTheory/locandina.jpg
-gallery:
+gallery: https://www.facebook.com/aisftorino/photos/?tab=album&album_id=1786797148262105
 report:
 facebook: 
 link: https://www.eventbrite.it/e/biglietti-aperitheory-27415687058
