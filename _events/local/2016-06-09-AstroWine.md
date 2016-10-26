@@ -4,7 +4,7 @@ categories: eventolocale
 title: "AstroWine"
 CL: Torino
 locandina: /img/eventilocali/2016_AstroWine/astrowine-locandina.png
-gallery:
+gallery: https://www.facebook.com/aisftorino/photos/?tab=album&album_id=1725566991051788
 articolo: "AstroWine"
 report:
 facebook: https://www.facebook.com/events/1706953382893754/
