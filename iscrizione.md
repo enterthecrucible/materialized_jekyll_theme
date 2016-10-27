@@ -12,6 +12,8 @@ Per diventare membri AISF è necessario:
   <li class="collection-item">compilare il modulo di registrazione sotto indicato;</li>
   <li class="collection-item">versare la quota associativa tramite (selezionare l'opzione nel modulo):</li>
 </ul>
+Se dovete rinnovare solo l'iscrizione cliccate sul seguente link per proseguire col pagamento: http://bit.ly/2eJdwVx
+
 <div class="row">
   <div class="col s12 m6">
     <div class="card blue-grey darken-1">
