@@ -69,7 +69,7 @@ Parte di questo CE è stato eletto in data 16 maggio 2015 e parte in data 24 apr
     <img src="/img/esecutivo/gabriele.jpg" alt="" class="circle">
     <span class="title">Gabriele Di Ubaldo</span>
     <p>IT Manager<br>
-     Studente del corso laurea triennale in fisica all'Università di Pisa. Tra i suoi interessi ci sono la fisica teorica e la filosofia della scienza.  </p>
+     Studente del corso laurea triennale in fisica all'Università di Pisa. Tra i suoi interessi ci sono la fisica teorica, l'astrofisica e la filosofia della scienza.  </p>
     <div class="secondary-content"><a href="mailto:gabriele.diubaldo@ai-sf.it"><i class="fa fa-lg fa-envelope"></i></a></div>
   </li>
 
