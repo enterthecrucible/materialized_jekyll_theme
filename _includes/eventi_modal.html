@@ -5,8 +5,9 @@
     <div class="row">{% if event.CL %}<div class="chip">{{ event.CL }}</div>{% endif %}{% if event.date %}<div class="chip">{{ event.date | date: '%d %b %Y' }}</div>{% endif %}
       <div class="right">
       {% if event.facebook %}<a href="{{ event.facebook }}"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>{% endif %}
-      {% if event.locandina %}<a href="{{ event.locandina }}"><i class="fa fa-lg fa-picture-o"></i></a>{% endif %}
+      {% if event.locandina %}<a href="{{ event.locandina }}"><i class="fa fa-lg fa-file-image-o"></i></a>{% endif %}
       {% if event.link %}<a href="{{ event.link }}"><i class="fa fa-lg fa-link"></i></a>{% endif %}
+      {% if event.gallery %}<a href="{{ event.gallery }}"><i class="fa fa-lg fa-picture-o"></i></a>{% endif %}
       {% if event.report %}<a href="{{ event.report}}"><i class="fa fa-lg fa-file-text"></i></a>{% endif %}
     </div></div>
     {% if event.articolo %}{% for post in site.posts %}{% if post.url contains event.articolo %}{{ post.excerpt }}{% endif %}{% endfor %}
