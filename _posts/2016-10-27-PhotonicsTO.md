@@ -6,7 +6,7 @@ date:   2016-10-25 12:00
 author: Mattia Ivaldi
 ---
 
-## AISF e INRiM, una storia che continua.
+AISF e INRiM, una storia che continua.
 
 A soli due giorni dal successo dell’AperiTheory è già tempo di eventi per il Comitato Locale di Torino. 
 In occasione del Day of Photonics, evento biennale internazionale di promozione della fotonica, è stato possibile visitare alcuni laboratori dell’Istituto Nazionale di Ricerca Metrologica. 
