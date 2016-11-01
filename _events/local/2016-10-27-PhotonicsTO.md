@@ -5,7 +5,7 @@ title:  "Day of Photonics - Torino"
 CL: Torino
 locandina: /img/eventilocali/2016_PhotonicsTO/locandina.jpg
 gallery: https://www.facebook.com/aisftorino/photos/?tab=album&album_id=1787779488163871
-report: /_posts/2016-10-27-PhotonicsTO.md
+report: http://ai-sf.it/blog/2016/10/25/PhotonicsTO/
 facebook:
 link: 
 ---
