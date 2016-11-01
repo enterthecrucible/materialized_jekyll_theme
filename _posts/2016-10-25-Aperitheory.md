@@ -6,7 +6,7 @@ date:   2016-10-25 12:00
 author: Mattia Ivaldi
 ---
 
-## Fisica teorica e aperitivo non sono ortogonali.
+Fisica teorica e aperitivo non sono ortogonali!
 
 Dopo l’AstroWine, annunciato a sorpresa nel corso della CISF di aprile, martedì 25 ottobre si è svolto l’atteso AperiTheory, l’originale aperitivo scientifico, questa volta a tema fisica teorica. 
 Se Alberto Sordi fosse un post-doc dell’INFN e Nino Manfredi l’autore di una teoria di stringa bosonica, la serata potrebbe aver avuto, come sottotitolo, una pellicola del maestro Scola. 
