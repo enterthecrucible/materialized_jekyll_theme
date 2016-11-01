@@ -5,7 +5,7 @@ title:  "AperiTheory"
 CL: Torino
 locandina: /img/eventilocali/2016_AperiTheory/locandina.jpg
 gallery: https://www.facebook.com/aisftorino/photos/?tab=album&album_id=1786797148262105
-report: /_posts/2016-10-25-Aperitheory.md
+report: http://ai-sf.it/blog/2016/10/25/Aperitheory/
 facebook: 
 link: https://www.eventbrite.it/e/biglietti-aperitheory-27415687058
 ---
