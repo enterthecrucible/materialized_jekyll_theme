@@ -26,9 +26,12 @@ L'AISF conta al momento 11 comitati locali in altrettante università:
     <p>Presidente Alessandra Lorenzo <br>
       Fondazione 06/2016
     </p>
-    <div class="secondary-content"><a href="mailto:bologna@ai-sf.it" title="Indirizzo email"><i class="fa fa-lg fa-envelope"></i></a></div>
-
+    <div class="secondary-content">
+    <a href="https://www.facebook.com/aisflcbologna" title="Pagina Facebook"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>
+    <a href="mailto:bologna@ai-sf.it" title="Indirizzo email"><i class="fa fa-lg fa-envelope"></i></a>
+    </div>
   </li>
+  
   <li class="collection-item avatar" id="genova">
     <img src="/img/presidenti/genova_lorenzo-ferrari-barusso.jpg" alt="" class="circle">
     <span class="title">Comitato Locale di Genova</span>
