@@ -13,7 +13,7 @@ Stiamo facendo il possibile per creare un evento che sia entusiasmante siap er c
 
 Cerchiamo un logo che sia adatto alla situazione: DEVE QUINDI AVERE COME SOGGETTO BARI e LA FISICA. In sede di Assemblea sarà poi scelto, tramite votazione, il logo ufficiale della CISF 2017.
 
-Il Bando è aperto a tutti i membri dell'Associazione. Per partecipare è necessario inviare, all'indirizzo [bari@ai-sf.it](mailto:bari@ai-sf.it), entro il 30 ottobre:
+Il Bando è aperto a tutti i membri dell'Associazione. Per partecipare è necessario inviare, all'indirizzo [bari&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;](mailto:bari&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;), entro il 30 ottobre:
 
 1. il logo creato da voi (ovviamente!);
 2. il nome e cognome;

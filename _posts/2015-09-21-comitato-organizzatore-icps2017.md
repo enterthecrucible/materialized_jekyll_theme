@@ -40,4 +40,4 @@ Il Comitato Organizzatore di ICPS 2017 è stato, infine, costituito come segue
 
 Il _Board_ può essere in ogni momento modificato su decisione dei _Core members_ a seconda delle necessità. Il Comitato Organizzatore riferisce direttamente al Comitato Esecutivo dell'AISF e ad esso deve rendere conto del proprio operato.
 
-Per ogni domanda, informazione o chiarimento scrivere a [esecutivo](mailto:esecutivo@ai-sf.it).
+Per ogni domanda, informazione o chiarimento scrivere a [esecutivo](mailto:esecutivo&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;).

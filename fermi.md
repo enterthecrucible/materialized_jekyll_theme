@@ -26,4 +26,4 @@ Fare un’esperienza di lavoro estivo, in Italia o all’estero, può essere dav
 
 Buona consultazione a tutti!
 
-Nel caso vogliate suggerire l’aggiunta di un’opportunità di tirocinio non ancora qui elencata, potete scrivere a Lucio Milanese, responsabile del progetto FERMI, all’indirizzo di posta elettronica [lucio.milanese@ai-sf.it](mailto:lucio.milanese@ai-sf.it)
+Nel caso vogliate suggerire l’aggiunta di un’opportunità di tirocinio non ancora qui elencata, potete scrivere a Lucio Milanese, responsabile del progetto FERMI, all’indirizzo di posta elettronica [lucio.milanese&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;](mailto:lucio.milanese&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;)

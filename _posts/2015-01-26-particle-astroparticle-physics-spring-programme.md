@@ -22,4 +22,4 @@ Come descritto sul programma, i partecipanti a iaps@LNGS visiteranno i laborator
 
 **Sei (6) borse di studio**, comprendenti il costo completo di partecipazione, saranno offerte ai 6 studenti che presenteranno i loro progetti in forma orale. Premi per le migliori performance sono previsti sia per le talks che per i posters.
 
-Speriamo di ricevere grande interesse dai nostri compatrioti! Per qualunque domanda, [Francesco](mailto:francesco.sciortino@ai-sf.it) (Coordinatore dello Spring Programme) è sempre a disposizione.
+Speriamo di ricevere grande interesse dai nostri compatrioti! Per qualunque domanda, [Francesco](mailto:francesco.sciortino&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;) (Coordinatore dello Spring Programme) è sempre a disposizione.
