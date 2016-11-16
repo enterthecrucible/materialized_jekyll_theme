@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: eventolocale
-title: "Banchetto AISF"
+title: "Banchetto AISF Milano"
 CL: Milano
 locandina:
 gallery:
