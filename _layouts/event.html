@@ -14,7 +14,8 @@ layout: default
     <article class="post-content">
       {{ content }}
     </article>
-
+    
+    {% if page.gallery != nil %}
     <h4>Foto dell'evento</h4>
 
     <div class="carousel">
@@ -22,6 +23,7 @@ layout: default
       <a class="carousel-item" href="#{{ site.baseurl }}{{ image.path }}!"><img src="{{ site.baseurl }}{{ image.path }}"></a>
       {% endif %}{% endfor %}
     </div>
+    {% endif %}
 
     <!-- <h5>Tutte le immagini</h5> -->
     <!-- <div class="row"> -->
