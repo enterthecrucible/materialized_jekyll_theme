@@ -53,11 +53,13 @@ layout: default
                                 <a href="{{ event.site }}">
                     		    <img src="{{ event.cover }}" alt="{{ event.title }}"> </a>
                     		    <div class="caption left-align">
-                    		        <h4>{{ event.title }}</h4>
+                    		        <h4>
+                                        {{ event.title }}
+                                    </h4>
                     		        <p class="light grey-text text-lighten-3">
-                                              {{ event.place }}
-                                              <br> 
-                                              {{ event.startingdate | date: '%b %Y' }}
+                                        {{ event.place }}
+                                        <br> 
+                                        {{ event.startingdate | date: '%b %Y' }}  
                                     </p>
                     		    </div>
                             </li>
