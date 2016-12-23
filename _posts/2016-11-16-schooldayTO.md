@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "IAPS International School Day, Torino."
+title:  "IAPS International School Day, Torino"
 date:   2016-11-16 14:00:00
 author: Mattia Ivaldi
 categories: blog 
