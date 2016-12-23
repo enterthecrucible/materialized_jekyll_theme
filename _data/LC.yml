@@ -1,0 +1,117 @@
+- nome: "Bari"
+  img: "/img/presidenti/bari_simona-rossini.jpg"
+  mail: "bari"
+  presidente: "Simona Andrea Rossini"
+  fondazione: "05/2015"
+  fb: "https://www.facebook.com/AISF-Bari-419162114940421/"
+  regolamento: "http://www.ai-sf.it/owncloud/index.php/s/7yShtEE0ySxrgEA"
+  ex: 
+  
+- nome: "Bologna"
+  img: "/img/presidenti/bologna_alessandra-lorenzo.jpg"
+  mail: "bologna"
+  presidente: "Alessandra Lorenzo"
+  fondazione: "06/2016"
+  fb: "https://www.facebook.com/aisflcbologna"
+  regolamento: 
+  ex:
+    
+- nome: "Firenze"
+  img: "/img/presidenti/firenze_nicolo-antolini.jpg"
+  mail: "firenze"
+  presidente: "Nicolò Antolini"
+  fondazione: "11/2016"
+  fb: "https://www.facebook.com/groups/1722492761404813/?fref=ts"
+  regolamento: 
+  ex:    
+    
+- nome: "Genova"
+  img: "/img/presidenti/genova_lorenzo-ferrari-barusso.jpg"
+  mail: "genova"
+  presidente: "Lorenzo Ferrari Barusso"
+  fondazione: "08/2015"
+  fb: "https://www.facebook.com/geAISF"
+  regolamento:
+  ex:
+    
+- nome: "Milano Statale"
+  img: "/img/presidenti/milano_daniele-oriani.jpg"
+  mail: "milano"
+  presidente: "Daniele Oriani"
+  fondazione: "05/2015"
+  fb: "https://www.facebook.com/aisfunimi"
+  regolamento: "http://www.ai-sf.it/owncloud/index.php/s/ahVSprdQaNmzXe2"
+  ex: "Valerio Peri"
+  
+- nome: "Milano Bicocca"
+  img: "/img/presidenti/milanobicocca_enrico-catalano.jpg"
+  mail: "milano.bicocca"
+  presidente: "Enrico Catalano"
+  fondazione: "04/2016"
+  fb: "https://www.facebook.com/groups/929555897125683/"
+  regolamento: 
+  ex:
+    
+- nome: "Padova"
+  img: "/img/presidenti/padova_leonardo-pacciani.jpg"
+  mail: "padova"
+  presidente: "Leonardo Pacciani"
+  fondazione: "05/2016"
+  fb: "https://www.facebook.com/AISFPadova"
+  regolamento:
+  ex:
+    
+- nome: "Pavia"
+  img: "/img/presidenti/pavia_elisabetta-vesconi.jpg"
+  mail: "pavia"
+  presidente: "Elisabetta Vesconi"
+  fondazione: "11/2016"
+  fb: "https://www.facebook.com/groups/aisfpavia/?fref=ts"
+  regolamento:
+  ex:    
+    
+- nome: "Pisa"
+  img: "/img/presidenti/pisa_niccolo-baldelli.jpg"
+  mail: "padova"
+  presidente: "Niccolò Baldelli"
+  fondazione: "07/2015"
+  fb: "https://www.facebook.com/ComitatoLocalePisa"
+  regolamento: "http://www.ai-sf.it/owncloud/index.php/s/EFmPUkaywNZhTT3"
+  ex: "Marco Morrone"
+  
+- nome: "Roma Tor Vergata"
+  img: "/img/presidenti/roma-tor_manuela-tulli.jpg"
+  mail: "roma.torvergata"
+  presidente: "Manuela Tulli"
+  fondazione: "05/2016"
+  fb: "https://www.facebook.com/AISF-Comitato-Locale-Roma-Tor-Vergata-1116282045100631"
+  regolamento: 
+  ex:
+
+- nome: "Salerno"
+  img: "/img/presidenti/salerno_amedeo-ferrentino.jpg"
+  mail: "salerno"
+  presidente: "Amedeo Ferrentino"
+  fondazione: "05/2015"
+  fb:
+  regolamento: 
+  ex: "Luca Buoninfante"
+    
+- nome: "Torino"
+  img: "/img/presidenti/torino_mattia-ivaldi.jpg"
+  mail: "torino"
+  presidente: "Mattia Ivaldi"
+  fondazione: "06/2015"
+  fb: "https://www.facebook.com/AISF-Torino-1642147402727081/"
+  regolamento: "https://www.dropbox.com/sh/ijs6tpzpmee05b5/AACGcC8sUSSrFig3A0RbMheaa/Statuto_CL_TO.pdf?dl=0"
+  ex: "Riccardo Longo"
+
+- nome: "Trento"
+  img: "/img/presidenti/trento_emily-damiani.jpg"
+  mail: "trento"
+  presidente: "Emily Damiani"
+  fondazione: "12/2015"
+  fb: "https://www.facebook.com/AISF-Trento-958208697625956/"
+  regolamento: "http://www.ai-sf.it/owncloud/index.php/s/gj2CmZ7NrZTkOWD"
+  ex:  
+
