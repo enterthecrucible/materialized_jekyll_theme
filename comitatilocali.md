@@ -40,7 +40,7 @@ L'AISF conta al momento {{ n }} comitati locali in altrettante università:
 						<i class="fa fa-lg fa-file-text"></i>
 					</a>
 				{% endif %}
-	      		<a href="mailto:{{ item.mail }} &#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;" title="Indirizzo email">
+	      		<a href="mailto:{{ item.mail }}&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;" title="Indirizzo email">
 					<i class="fa fa-lg fa-envelope"></i>
 				</a>
 			</div>
