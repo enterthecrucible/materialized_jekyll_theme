@@ -43,14 +43,14 @@
   regolamento: "http://www.ai-sf.it/owncloud/index.php/s/ahVSprdQaNmzXe2"
   ex: "Valerio Peri"
   
-- nome: "Milano Bicocca"
-  img: "/img/presidenti/milanobicocca_enrico-catalano.jpg"
-  mail: "milano.bicocca"
-  presidente: "Enrico Catalano"
-  fondazione: "04/2016"
-  fb: "https://www.facebook.com/groups/929555897125683/"
-  regolamento: 
-  ex:
+# - nome: "Milano Bicocca"
+#   img: "/img/presidenti/milanobicocca_enrico-catalano.jpg"
+#   mail: "milano.bicocca"
+#   presidente: "Enrico Catalano"
+#   fondazione: "04/2016"
+#   fb: "https://www.facebook.com/groups/929555897125683/"
+#   regolamento:
+#   ex:
     
 - nome: "Padova"
   img: "/img/presidenti/padova_leonardo-pacciani.jpg"
