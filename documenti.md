@@ -24,11 +24,20 @@ Se per scopi pubblicitari produci del materiale ulteriore, invialo all'<a href="
 Lo Statuto è il documento fondamentale dell'AISF. Ad esso fanno riferimento tutti i regolamenti, le decisioni e le azioni dell'Associazione.
 
 <div class="collection">
-  <a href="http://www.ai-sf.it/owncloud/public.php?service=files&t=4a4fb9f6209612adcfa7eda850c33726" class="collection-item">Statuto</a>
-  <a href="http://www.ai-sf.it/owncloud/public.php?service=files&t=d56eac31c10382f49ce951b03c4e98ff" class="collection-item">Regolamento interno</a>
+  <a href="https://drive.google.com/file/d/0B068-lyoiUlxdUpPeHJCTUVkZTA/view?usp=sharing" class="collection-item">Statuto</a>
+  <a href="https://drive.google.com/file/d/0B068-lyoiUlxY1dDXzgzbUtxSzA/view?usp=sharing" class="collection-item">Regolamento Interno</a>
   <a href="http://www.ai-sf.it/joomla/images/documents/atto2.pdf" class="collection-item">Atto costitutivo</a>
 </div>
 
 ## Verbali
 
 {% include verbali.html verbali=site.data.verbali %}
+
+## Documenti ufficiali passati
+
+### 2016
+
+<div class="collection">
+  <a href="https://drive.google.com/file/d/0BzGkQdYyAM4qdWNVQmZ1ZFRLSFk/view?usp=sharing" class="collection-item">Statuto 2016</a>
+  <a href="https://drive.google.com/file/d/0BzGkQdYyAM4qZVptN2ZySFZ4aDg/view?usp=sharing" class="collection-item">Regolamento Interno 2016</a>
+</div>
