@@ -5,7 +5,7 @@ title: "PLANCKS Preliminaries"
 startingdate: 2017-02-24
 endingdate: 2017-02-24
 place: 
-cover: /img/photos/2017-PLANCKSpreliminaries/PLANCKS.jpg
+cover: 
 gallery: 
 site: http://international.plancks.at
 ---
