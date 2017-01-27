@@ -8,7 +8,7 @@ Il sito dell'AISF e i vari portali degli eventi sono curati dalla sottocommissio
 
 <ul class="collection">
  <li class="collection-item avatar">
-    <img src="/img/esecutivo/marcocanteri.jpg" alt="" class="circle">
+    <img src="/img/esecutivo/canteri.jpg" alt="" class="circle">
     <span class="title">Marco Canteri</span>
     <p>Università degli Studi di Trento</p>
     <a href="mailto:marco.canteri@ai-sf.it" class="secondary-content"><i class="material-icons">email</i></a>
