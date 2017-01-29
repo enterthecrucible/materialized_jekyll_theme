@@ -22,7 +22,7 @@ Se dovete rinnovare solo l'iscrizione cliccate sul seguente link per proseguire 
 	<p>Beneficiario: Associazione Italiana Studenti di Fisica<br>
 	  IBAN: IT64N0335901600100000133131<br>
 	  BIC/SWIFT: BCITITMX<br>
-	  Causale: Iscrizione anno 2016 - NOME COGNOME</p>
+	  Causale: Iscrizione anno 2017 - NOME COGNOME</p>
       </div>
     </div>
   </div>
@@ -39,7 +39,7 @@ Se dovete rinnovare solo l'iscrizione cliccate sul seguente link per proseguire 
 
 <script type="text/javascript" src="https://form.jotform.com/jsform/61562917217963"></script>
 
-Le quote associative per l'anno 2016 sono:
+Le quote associative per l'anno 2017 sono:
 <ul class="collection">
   <li class="collection-item">5€ se studente di laurea triennale o magistrale.<br>
     L'importo è di 5.45€ se pagato tramite PayPal per via della tariffa applicata dall'operatore.</li>
