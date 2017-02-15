@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Articolo CL"
+title:  Articolo CL
 date:   2016-11-17 12:00:00
 author: 
 categories: articolicl 
