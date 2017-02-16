@@ -12,11 +12,11 @@ redirect_from:
   <li>
     <h2>
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ articolicl.title }}</a>
-    {% if articolicl.date %}<div class="chip"><span class="post-meta">{{ articolicl.date | date: "%-d %b %Y" }}</span></div>{% endif %}
-    {% if articolicl.author %}<div class="chip"><span class="post-meta">{{ articolicl.author }}</span></div>{% endif %}
-    {% if articolicl.categories %}{% for category in articolicl.categories %}{% if category == 'articolicl' %}{% else %}<div class="chip"><span class="post-meta">{{ category }}</span></div>{% endif %}{% endfor %}{% endif %}
+    {% if post.date %}<div class="chip"><span class="post-meta">{{ post.date | date: "%-d %b %Y" }}</span></div>{% endif %}
+    {% if post.author %}<div class="chip"><span class="post-meta">{{ post.author }}</span></div>{% endif %}
+    {% if post.categories %}{% for category in post.categories %}{% if category == 'articolicl' %}{% else %}<div class="chip"><span class="post-meta">{{ category }}</span></div>{% endif %}{% endfor %}{% endif %}
     </h2>
-    <div class="entry-content">{{ articolicl.excerpt | strip_html }}</div>
+    <div class="entry-content">{{ post.excerpt | strip_html }}</div>
   </li>
   <div class="divider"></div>
   {% endfor %}
