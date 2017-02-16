@@ -11,7 +11,7 @@ redirect_from:
   {% for post in site.articolicls %}
   <li>
     <h2>
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ articolicl.title }}</a>
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     {% if post.date %}<div class="chip"><span class="post-meta">{{ post.date | date: "%-d %b %Y" }}</span></div>{% endif %}
     {% if post.author %}<div class="chip"><span class="post-meta">{{ post.author }}</span></div>{% endif %}
     {% if post.categories %}{% for category in post.categories %}{% if category == 'articolicl' %}{% else %}<div class="chip"><span class="post-meta">{{ category }}</span></div>{% endif %}{% endfor %}{% endif %}
