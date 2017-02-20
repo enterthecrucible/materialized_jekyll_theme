@@ -7,5 +7,5 @@ locandina: /img/eventilocali/2017_ParticleBeers2/locandina.png
 gallery:
 report:
 facebook: 
-link: https://particlebeers2.eventbrite.it
+link: https://www.eventbrite.it/e/biglietti-particlebeers-2-31990776273
 ---
