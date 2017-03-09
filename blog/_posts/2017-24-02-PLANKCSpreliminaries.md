@@ -14,7 +14,7 @@ I sette team coinvolti, provenienti da quattro Comitati Locali diversi, si sono 
 
 La classifica finale recita:
 
-1. **Team Firenze: 53.25 punti**
+1. **Team Firenze: 53.25 punti** <i class="fa fa-trophy" aria-hidden="true"></i>
 2. **Team Torino 1: 17.25 punti**
 3. **Team Pavia 1:  16 punti**
 4. Team Torino 2: 15.5 punti
