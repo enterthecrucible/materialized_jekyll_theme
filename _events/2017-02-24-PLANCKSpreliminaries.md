@@ -6,7 +6,7 @@ startingdate: 2017-02-24
 endingdate: 2017-02-24
 place: 
 cover: /img/photos/2017-PLANCKS/graz.jpg
-gallery: 
+gallery: 2017-PLANCKSpreliminaries
 site: http://international.plancks.at
 ---
 
