@@ -26,4 +26,5 @@ La classifica finale recita:
 7. Bologna (Costa, Mantovani, Mazzarisi, Pomponio )
 
 Grazie alla partecipazione e il grande entusiasmo  dei comitati locali coinvolti il Comitato Organizzatore del PLANCKS ci ha garantito non due ma tre posti per la finale!
+
 Per questo motivo, i primi 3 gruppi classificati rappresenteranno AISF e l'Italia a Graz dove cercheranno di portare a casa i ricchi premi finali e dove avranno anche la possibilità di seguire diversi seminari tenuti da illustri ricercatori in temi della Fisica che spaziano dalle onda gravitazionali, all' ottica quantistica al mondo delle alte energie (una lista completa degli ospiti è presente sul [sito](http://international.plancks.at/what-is-plancks/ambassadors/) ufficiale).
