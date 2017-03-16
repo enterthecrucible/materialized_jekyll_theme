@@ -13,6 +13,10 @@ Per diventare membri AISF è necessario:
   <li class="collection-item">versare la quota associativa tramite (selezionare l'opzione nel modulo):</li>
 </ul>
 Se dovete rinnovare solo l'iscrizione cliccate sul seguente link per proseguire col pagamento: [Rinnovo iscrizione](http://www.ai-sf.it/dbaisf/payment_form.php)
+
+<a class="waves-effect waves-light btn-large", href="">NUOVA ISCRIZIONE</a>
+<a class="waves-effect waves-light btn-large", href="http://www.ai-sf.it/dbaisf/payment_form.php">RINNOVO</a>
+
 <div class="row">
   <div class="col s12 m6">
     <div class="card blue-grey darken-1">
