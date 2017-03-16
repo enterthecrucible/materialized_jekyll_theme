@@ -14,7 +14,7 @@ Per diventare membri AISF è necessario:
 </ul>
 
 <div class="row">
-	<div class="col s12 m6">
+	<div style="text-align:center;">
 		<a class="waves-effect waves-light btn-large" href="http://www.ai-sf.it/dbaisf/registration_form.php">NUOVA ISCRIZIONE</a>
 		<a class="waves-effect waves-light btn-large" href="http://www.ai-sf.it/dbaisf/payment_form.php">RINNOVO</a>
         </div>
