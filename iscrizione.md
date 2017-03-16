@@ -10,13 +10,13 @@ Per diventare membri AISF è necessario:
 <ul class="collection">
   <li class="collection-item">essere iscritti ad un corso di laurea triennale o magistrale oppure ad un dottorato di ricerca;</li>
   <li class="collection-item">compilare il modulo di registrazione sotto indicato;</li>
-  <li class="collection-item">versare la quota associativa tramite (selezionare l'opzione nel modulo):</li>
+  <li class="collection-item">versare la quota associativa tramite bonifico bancario o Paypal.</li>
 </ul>
 
 <div class="row">
 	<div style="text-align:center;">
 		<a class="waves-effect waves-light btn-large" href="http://www.ai-sf.it/dbaisf/registration_form.php">NUOVA ISCRIZIONE</a>
-		<a class="waves-effect waves-light btn-large" href="http://www.ai-sf.it/dbaisf/payment_form.php">RINNOVO</a>
+		<a class="waves-effect waves-light btn-large" href="http://www.ai-sf.it/dbaisf/payment_form.php">RINNOVO ISCRIZIONE</a>
         </div>
 </div>
 <div class="row">
