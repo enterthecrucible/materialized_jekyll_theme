@@ -14,6 +14,8 @@
     {% else %}{{ event.content }}{% endif %}
   </div>
   
+  <img class="responsive-img" style="width: 80%; display: block; margin-left: auto; margin-right: auto;" src="{{ event.locandina }}">
+  
   <div class="modal-footer">
     <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Chiudi</a>
     {% if event.articolo %}{% for post in site.posts %}{% if post.url contains event.articolo %}<a href="{{ post.url }}" class="waves-effect btn-flat">Vai all'articolo</a>{% endif %}{% endfor %}{% endif %}
