@@ -83,10 +83,23 @@ layout: default
         <div class="col s12 m12">
           <h3>Le ultime dal Blog</h3>
           <div class="blog-index">
-            {% for post in site.posts limit:3 %}	  
-            {% assign post = site.posts.first %}{% assign content = post.excerpt %}{% include post_detail.html %}
+            {% for post in site.categories['blog'] limit:3 %}	  
+                {% assign post = site.posts.first %}
+                {% assign content = post.excerpt %}
+                {% include post_detail.html %}
             {% endfor %}
-            <div class="divider"></div>
+            <!-- <div class="divider"></div> -->
+          </div>
+        </div>
+        <div class="col s12 m12">
+          <h3>Le ultime dagli LC</h3>
+          <div class="blog-index">
+            {% for post in site.categories['articoliLC'] limit:3 %}	  
+                {% assign post = site.posts.first %}
+                {% assign content = post.excerpt %}
+                {% include post_detail.html %}
+            {% endfor %}
+            <!-- <div class="divider"></div> -->
           </div>
         </div>
       </div>
