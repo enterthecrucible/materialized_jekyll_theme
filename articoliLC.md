@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Articoli Comitati Locali"
+title: 
 redirect_from:
   - /articolicl.html
 ---
