@@ -3,7 +3,8 @@ layout: post
 title:  HELLO WORLD!
 date:   2017-04-09 12:00:00
 author: 
-categories: articolicl 
+categories: articoliLC 
+permalink: /:categories/:year/:month/:day/:title/
 ---
 
 Con questo editoriale vogliamo presentare il nuovo progetto targato AISF, che vede come protagonisti i diversi Comitati Locali presenti sul territorio. Tutto è nato dalla voglia delle diverse realtà locali dell’Associazione di realizzare un progetto comune che permetta di riunirsi e confrontarsi durante tutto l’anno e non solo in occasione dei grandi eventi organizzati periodicamente.
