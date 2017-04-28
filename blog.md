@@ -2,7 +2,7 @@
 layout: page
 title: "Blog"
 redirect_from:
-  - /posts.html
+  - /blog.html
   - /blog/
 ---
 

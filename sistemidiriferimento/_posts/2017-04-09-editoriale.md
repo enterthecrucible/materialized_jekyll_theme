@@ -3,7 +3,7 @@ layout: post
 title:  HELLO WORLD!
 date:   2017-04-09 12:00:00
 author: 
-categories: articoliLC 
+categories:  
 permalink: /:categories/:year/:month/:day/:title/
 ---
 

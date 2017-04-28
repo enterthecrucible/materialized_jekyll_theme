@@ -2,7 +2,7 @@
 layout: page
 title: 
 redirect_from:
-  - /articoliLC.html
+  - /sistemidiriferimento.html
 ---
 
 <!-- <div class="row"><div class="col s12 aisf darken-2 white-text" style="border-radius: 4px;"><p>Stiamo importando i post dalla vecchia piattaforma. Al momento i post più vecchi non sono ancora accessibili, ci scusiamo per il disagio.</p></div></div> -->
@@ -23,7 +23,7 @@ redirect_from:
   </ul> -->
 
 <ul class="post-list">
-  {% for post in site.categories.articoliLC %}
+  {% for post in site.categories.sistemidiriferimento %}
   <li>
     <h2>
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
@@ -45,7 +45,7 @@ redirect_from:
     {% endif %}
     {% if post.categories %}
         {% for category in post.categories %}
-            {% if category == 'articoliLC' %}
+            {% if category == 'sistemidiriferimento' %}
             {% else %}
                 <div class="chip">
                     <span class="post-meta">

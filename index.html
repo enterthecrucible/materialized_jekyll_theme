@@ -94,7 +94,7 @@ layout: default
         <div class="col s12 m12">
           <h3>Le ultime dai Comitati Locali</h3>
           <div class="blog-index">
-            {% for post in site.categories['articoliLC'] limit:3 %}	  
+            {% for post in site.categories['sistemidiriferimento'] limit:3 %}	  
                 {% assign post = site.posts.first %}
                 {% assign content = post.excerpt %}
                 {% include post_detail.html %}
