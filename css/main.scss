@@ -53,3 +53,17 @@ $on-laptop:        800px;
         "custom"
 ;
 
+// Captions for images in markdown
+// USAGE:
+//
+// ![ALT-TEXT](URL)
+//
+// {:.image-caption}
+// *CAPTION*
+//
+.image-caption {
+  text-align: center;
+  font-size: .8rem;
+  color: light-grey;
+}
+
