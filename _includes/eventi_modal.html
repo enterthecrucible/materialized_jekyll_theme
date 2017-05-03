@@ -14,7 +14,9 @@
     {% else %}{{ event.content }}{% endif %}
   </div>
   
+  {% if event.locandina %}
   <img class="responsive-img" style="width: 80%; display: block; margin-left: auto; margin-right: auto;" src="{{ event.locandina }}">
+  {% endif %}
   
   <div class="modal-footer">
     <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Chiudi</a>
