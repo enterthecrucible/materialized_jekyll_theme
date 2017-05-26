@@ -15,7 +15,7 @@ Il fine ultimo di tale progetto, inoltre, è che in futuro questo spazio possa e
 
 Il lavoro è coordinato e gestito da un gruppo di membri AISF che collaborano con gli autori degli articoli al fine di garantire il raggiungimento degli obiettivi del progetto. La pubblicazione degli elaborati avverrà, di norma, ogni mese. Per proporre un articolo puoi contattare la redazione o il Presidente del tuo Comitato Locale: saremo lieti di leggerlo e discutere della pubblicazione.
 
-Il progetto appartiene a tutti i membri dell’Associazione e, per questo, intendiamo darti da subito la possibilità di contribuire al suo sviluppo. Puoi proporre un nome per questa rubrica inviandolo a [redazionelc&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;](mailto: edazionelc&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;) entro il 15 aprile 2017. I fisici sono famosi per la loro creatività e siamo sicuri che le proposte saranno numerose e la scelta finale per nulla facile.
+Il progetto appartiene a tutti i membri dell’Associazione e, per questo, intendiamo darti da subito la possibilità di contribuire al suo sviluppo. Puoi proporre un nome per questa rubrica inviandolo a [redazionelc&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;](mailto: edazionesdr&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;) entro il 15 aprile 2017. I fisici sono famosi per la loro creatività e siamo sicuri che le proposte saranno numerose e la scelta finale per nulla facile.
 
 Speriamo, infine, che l’idea piaccia e possa essere condivisa da un numero sempre maggiore di studenti!
 
