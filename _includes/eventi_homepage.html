@@ -9,7 +9,13 @@
                         {{ event.title }}
                         <br>
                         <div class="crimson-text">
-                           {{ event.date | date: '%d %b' }} - {{ event.place }}
+                           {{ event.date | date: '%d %b' }}
+                           {% if event.categories contains "eventolocale" %}
+                           - {{ event.CL }}
+                           {% endif %}
+                           {% if event.categories contains "eventolocale" %}
+                           - {{ event.place }}
+                           {% endif %}
                         </div> 
                     </div>
                 </a>
