@@ -8,7 +8,7 @@ locale: "it"
 
 # Build settings
 markdown: kramdown
-future: true
+future: false
 permalink: /blog/:year/:month/:day/:title/
 
 #facebook
