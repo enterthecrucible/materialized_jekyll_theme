@@ -3,7 +3,7 @@ layout: post
 categories: blog 
 title:  "Sei Spritz Facili: Risposta Negativa"
 date:   2017-05-23 12:00
-author: Leonardo Pacciani, Federica Lorenzi
+author: Leonardo Pacciani
 redirect_from:
 ---
 
