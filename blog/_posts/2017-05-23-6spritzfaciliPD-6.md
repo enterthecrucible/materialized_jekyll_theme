@@ -1,8 +1,8 @@
 ---
 layout: post
 categories: blog 
-title:  "Sei Spritz Facili: PhD"
-date:   2017-04-26 12:00
+title:  "Sei Spritz Facili: Risposta Negativa"
+date:   2017-05-23 12:00
 author: Leonardo Pacciani, Federica Lorenzi
 redirect_from:
 ---
