@@ -84,10 +84,15 @@ layout: default
         <div class="col s12 m12">
           <h3>Le ultime dal Blog</h3>
           <div class="blog-index">
-            {% for post in site.categories['blog'] limit:3 %}	  
+            {% assign maxCountBlog = 3 %}
+            {% assign countBlog = 0 %}
+            {% for post in site.categories['blog'] %}	
+            {% if post.hidden != true and countBlog < maxCountBlog %}
+                {% assign countBlog = countBlog | plus: 1 %}  
                 {% assign post = site.posts.first %}
                 {% assign content = post.excerpt %}
                 {% include post_detail.html %}
+            {% endif %}
             {% endfor %}
             <!-- <div class="divider"></div> -->
           </div>
@@ -95,10 +100,15 @@ layout: default
         <div class="col s12 m12">
           <h3>Le ultime dai Comitati Locali</h3>
           <div class="blog-index">
-            {% for post in site.categories['sistemidiriferimento'] limit:3 %}	  
+            {% assign maxCountSdr = 3 %}
+            {% assign countSdr = 0 %}
+            {% for post in site.categories['sistemidiriferimento'] %}	
+            {% if post.hidden != true and countSdr < maxCountSdr %}
+                {% assign countSdr = countSdr | plus: 1 %}  
                 {% assign post = site.posts.first %}
                 {% assign content = post.excerpt %}
                 {% include post_detail.html %}
+            {% endif %}
             {% endfor %}
             <!-- <div class="divider"></div> -->
           </div>

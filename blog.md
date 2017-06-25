@@ -9,6 +9,7 @@ redirect_from:
 
 <ul class="post-list">
   {% for post in site.categories.blog %}
+  {% if post.hidden != true %}
   <li>
     <h2>
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
@@ -46,5 +47,6 @@ redirect_from:
     </div>
   </li>
   <div class="divider"></div>
+  {% endif %}
   {% endfor %}
   </ul>
