@@ -50,7 +50,7 @@ layout: default
                     {% assign array = site.events | reverse %}
                     {% for event in array %}
                         {% if event.categories contains "eventonazionale" %}
-                            <li>
+                            <li href="{{ event.site }}">
                                 <a href="{{ event.site }}">
                                 <img src="{{ event.cover }}" alt="{{ event.title }}"> </a>                               
                     		    <div class="caption left-align">
