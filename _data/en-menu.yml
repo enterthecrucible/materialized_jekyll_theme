@@ -1,0 +1,16 @@
+- text: About us
+  url: /en/about/
+  slug: about
+  subitems:
+    - text: Executive Committee
+      url: /en/executive/
+    - text: Comitati Locali
+      url: /en/comitatilocali/
+    - text: Documenti
+      url: /en/documenti/
+# - text: IAPS
+#   url: /iaps
+- text: ICPS2017
+  url: http://www.icps2017.it
+- text: Italian version
+  url: /
