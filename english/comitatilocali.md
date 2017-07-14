@@ -16,15 +16,15 @@ L'AISF conta al momento {{ n }} comitati locali in altrettante università:
 	    <li class="collection-item avatar" id="{{ item.nome }}">
 	      	<img src="{{ item.img }}" alt="" class="circle">
 	      	<span class="title">
-				Comitato Locale di {{ item.nome }}
+				Local Committee of {{ item.nome }}
 			</span>
 	      	<p>
-				Presidente: {{ item.presidente }} 
+				President: {{ item.presidente }} 
 				<br>
-	        	Fondazione: {{ item.fondazione }}
+	        	Since: {{ item.fondazione }}
 				<br>
 				{% if item.ex != nil %}
-					Ex presidenti: {{ item.ex }}
+					Ex presidents: {{ item.ex }}
 				{% endif %} 				
 	      	</p>
 	      	<div class="secondary-content">
@@ -46,11 +46,3 @@ L'AISF conta al momento {{ n }} comitati locali in altrettante università:
 	{% endfor %}
 </ul>
 
-
-## Provenienza geografica
-
-<a href="/geo/">Qui</a> è possibile trovare ulteriori informazioni sullo storico della provenienza geografica dei membri AISF.
-
-## Formare un nuovo comitato locale
-
-Si faccia riferimento a [questa](/nuovocomitatolocale/) pagina.
