@@ -4,12 +4,13 @@
   subitems:
     - text: Executive Committee
       url: /en/executive/
-    - text: Comitati Locali
+    - text: Local Committees
       url: /en/comitatilocali/
-    - text: Documenti
-      url: /en/documenti/
+    
 # - text: IAPS
 #   url: /iaps
+- text: FERMI
+  url: http://www.ai-sf.it/fermi
 - text: ICPS2017
   url: http://www.icps2017.it
 - text: Italian version
