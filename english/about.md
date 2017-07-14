@@ -4,31 +4,21 @@ title: About us
 permalink: /en/about/
 ---
 
-<img class="materialboxed" data-caption="Foto di gruppo alla prima CISF, Torino 2015" width="100%" src="{{ site.url }}/img/photos/2015-CISF/group02.jpg">
+<img class="materialboxed" data-caption="Group picture at the first CISF, Torino 2015" width="100%" src="{{ site.url }}/img/photos/2015-CISF/group02.jpg">
+AISF is the Italian Association of Physics Students. It is a non-profit association with educational purposes. Its members are all the students, enrolled in a graduate or undergraduate physics course, who request it and pay the associative quota. The purpose and intent of AISF are the promotion of sciences and in particular of physics among students and the development of relationships between students from different parts of the country.
 
-L'AISF è l'Associazione Italiana degli Studenti di Fisica. È un'associazione con finalità educative e senza fine di lucro. Suoi membri sono tutti gli studenti, iscritti ad un corso di laurea o un dottorato in fisica, che ne facciano richiesta e siano in regola con la quota associativa. Le finalità e gli scopi dell'AISF sono la promozione delle scienze e in particolare della fisica fra gli studenti e lo sviluppo di relazioni fra studenti delle diverse parti del paese.
+## Executive Committee
 
-Per ulteriori dettagli circa l'AISF si rimanda allo Statuto e agli altri <a href="/documenti/">documenti ufficiali</a>.
+The administrative and executive organ of the association is its Executive Committee (EC), currently composed of 7 members elected during the General Assemblies held every year in the Italian Conference of Physics Students (CISF).
+The current Executive Committee has been elected during the second and third General Assemblies held respectively in Turin (2016) and Bari (2017).
+You can find more info about it in the Executive Committee page.
 
-## Comitato Esecutivo
+## Local Committees
+AISF is organized in Local Committees, each with its own president. You can find more about them in the Local Committees page.
 
-Organo amministrativo ed esecutivo dell'Associazione è il Comitato Esecutivo, attualmente composto da 7 membri eletti durante le Assemblee Generali.
+## Legal Address
 
-L'attuale Comitato Esecutivo è stato eletto in parte nella prima Assemblea Generale dell'AISF, il 15 agosto 2014 ad Heidelberg, e in parte nella Assemblea Generale Annuale del 16 maggio 2015, durante la CISF a Torino.
-
-<a href="/esecutivo/">Qui</a> maggiori informazioni sul Comitato Esecutivo.
-
-## Comitati Locali
-
-L'AISF si organizza in Comitati Locali, ciascuno con un Presidente. La lista dei Comitati Locali si trova <a href="/comitatilocali/">qui</a>.
-
-## Provenienza geografica
-
-La provenienza geografica dei membri AISF è si può trovare a <a href="/geo/">questa pagina</a>.
-
-## Sede legale
-
-La sede legale dell'Associazione è presso
+The legal address of the Association is in:
 
     Istituto di Fisica dell'Università di Torino
     via P. Giuria 1
