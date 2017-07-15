@@ -1,0 +1,19 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"> 
+    <title>{% if page.title %}AISF - {{ page.title }}{% else %}AISF - Associazione Italiana Studenti di Fisica{% endif %}</title>
+    
+<!-- Standard html meta tags -->
+    <meta name="description" content="{% for entry in site.data.meta %}{% if page.url == entry.id %}{% assign trovato = true %}{{ entry.description }}{% endif %}{% endfor %}{% if trovato != true %}{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ page.content | strip_html | strip_newlines | truncate:160 }}{% endif %}{% endif %}" />
+    <meta name="keywords" content="{% for entry in site.data.meta %}{% if page.url == entry.id %}{% assign trovato = true %}{{ entry.keywords }}{% endif %}{% endfor %}{% if trovato != true %}aisf associazione italiana studenti di fisica iaps{% if page.tags %} {{ page.tags }}{% endif %}{% endif %}" />
+
+<!-- og -->
+    {% include opengraph.html %}
+    
+<!-- CSS  -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet prefetch" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+    <link href="/css/main.css" type="text/css" rel="stylesheet" media="screen"/>
+</head>
+

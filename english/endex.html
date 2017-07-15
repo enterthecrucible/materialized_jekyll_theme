@@ -1,0 +1,140 @@
+---
+layout: en-default
+title: Home
+permalink: /en/
+redirect_from:
+---
+{% include en-banner.html %}
+
+<div class="no-pad-top" id="index-page">
+  <div class="container">
+    <div class="section">
+      <!--   Icon Section   -->
+      <div class="row">
+        <div class="col s12 m6">
+          <div class="icon-block">
+            <h2 class="center">AISF</h2>
+
+            <p class="light">The Italian Association of Physics Students promotes collaborations between Italian physica students in an international and global context. Its members are organized into Local Committees and individual members, they meet up periodically in conferences and local, national and international events.</p>
+          </div>
+        </div>
+
+        <div class="col s12 m6">
+          <div class="icon-block">
+            <h2 class="center">IAPS</h2>
+            <p class="light">L'International Association of Physics Students is an <i>umbrella organization</i> which, since 1987 promotes collaboration between students and physics associations all over the world. Its members are represented by National and Local Committees. IAPS represents approximately 50000 students and AISF is Italy's National COmmittee.</p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col s12 m6">
+          <div class="row center">
+            <a href="{{ site.url }}/about/" id="about-button" class="btn-large waves-effect waves-light">Who we are</a>
+          </div>
+        </div>
+        <div class="col s12 m6">
+          <div class="row center">
+            <a href="http://www.iaps.info" id="iaps-button" class="btn-large waves-effect waves-light">IAPS webssite</a>
+            <!-- <a href="/iaps.html" id="iaps-button" class="btn-large waves-effect waves-light">Pagina IAPS</a> -->
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="section"> <!-- eventi -->
+      <h3>Gli eventi</h3>
+      <p>AISF organizes activities for both italian students and for the IAPS community. In addition to the great national and international events, the local committees organize frequently other activities in their respective universities.</p>
+      
+      <div class="row">
+        <div class="col s12 m7">
+            <ul class="slider" id="foto-eventi">
+                <ul class="slides">
+                    {% assign loopindex = 0 %}
+                    {% assign array = site.events | reverse %}
+                    {% for event in array %}
+                        {% if event.categories contains "eventonazionale" %}
+                            <li href="{{ event.site }}">
+                                <a href="{{ event.site }}">
+                                <img src="{{ event.cover }}" alt="{{ event.title }}"> </a>                               
+                    		    <div class="caption left-align">
+                    		        <h4>
+                                        {{ event.title }}
+                                    </h4>
+                    		        <p class="light grey-text text-lighten-3">
+                                        {{ event.place }},
+                                        <br>
+                                        {{ event.startingdate | date: '%b %Y' }}  
+                                    </p>
+                    		    </div>
+                            </li>
+                            {% assign loopindex = loopindex | plus: 1%}
+                        {% endif %}
+                        {% if loopindex == 4 %}
+                            {% break %}
+                        {% endif %}
+                    {% endfor %}                  
+                </ul>
+            </ul>
+        </div>
+        <div class="col s12 m5">
+		{% include eventi_homepage.html %}
+        </div>
+      </div>
+    </div>
+
+    <div class="section"> <!-- blog -->
+      <div class="row">
+        <div class="col s12 m12">
+          <h3>Le ultime dal Blog</h3>
+          <div class="blog-index">
+            {% assign maxCountBlog = 3 %}
+            {% assign countBlog = 0 %}
+            {% for post in site.categories['blog'] %}	
+            {% if post.hidden != true and countBlog < maxCountBlog %}
+                {% assign countBlog = countBlog | plus: 1 %}  
+                {% assign post = site.posts.first %}
+                {% assign content = post.excerpt %}
+                {% include post_detail.html %}
+            {% endif %}
+            {% endfor %}
+            <!-- <div class="divider"></div> -->
+          </div>
+        </div>
+        <div class="col s12 m12">
+          <h3>Le ultime dai Comitati Locali</h3>
+          <div class="blog-index">
+            {% assign maxCountSdr = 3 %}
+            {% assign countSdr = 0 %}
+            {% for post in site.categories['sistemidiriferimento'] %}	
+            {% if post.hidden != true and countSdr < maxCountSdr %}
+                {% assign countSdr = countSdr | plus: 1 %}  
+                {% assign post = site.posts.first %}
+                {% assign content = post.excerpt %}
+                {% include post_detail.html %}
+            {% endif %}
+            {% endfor %}
+            <!-- <div class="divider"></div> -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- Modal Structure -->
+<!-- <div id="modal1" class="modal"> -->
+<!--   <div class="modal-content"> -->
+<!--     <h4>PLANCKS 2016</h4> -->
+<!--     <div class="chip">Bucharest, Romania</div><div class="chip">20-23 Maggio 2016</div> -->
+<!--     <p>PLANCKS è una competizione di fisica teorica organizzata da IAPS, che bla bla bla</p> -->
+<!--   </div> -->
+
+<!--   <div class="modal-footer"> -->
+<!--     <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Chiudi</a> -->
+<!--     <a href="http://2016.plancks.org" class=" modal-action modal-close waves-effect waves-green btn-flat">Sito ufficiale</a> -->
+<!--   </div> -->
+<!-- </div> -->
+
+{% include eventi_homepage_modal.html %}
+{% include schema.html %}

@@ -1,0 +1,36 @@
+<!-- <div id="index-banner" style="background-image: url('img/banner.png');background-size: cover;background-position: center;position: relative;min-height: 450px;" class="no-pad-bot"> -->
+<!--     <br><br> -->
+<!-- <div class="container no-pad-bot"> -->
+<!--     <div class="card z-depth-1" style="background-color: rgba(255, 255,255, 0.90);"> -->
+<!--       <h1 class="header center aisf-text">{{ site.title }}</h1> -->
+<!--       <div class="row center"> -->
+<!--         <h5 class="header col s12 light aisf-text text-accent-2">{{ site.description }}</h5> -->
+<!--       </div> -->
+<!--     </div> -->
+<!-- </div> -->
+<!-- </div> -->
+<div id="index-banner">
+  <div class="row">
+    <!-- <div class="row center"> -->
+      <!-- <div class="col s4"></div> -->
+      <div class="col l4 offset-l4 s8 offset-s2">
+	<h1>
+	  <img id="index-top-logo" src="/img/banner.png" alt="AISF Logo">
+	</h1>
+      </div>
+      <!-- <div class="col s4"></div> -->
+    <!-- </div> -->
+<!--
+      <div class="col l3 s3 eventshome">
+        <ul class="events-banner">
+           <li class="eventstitle">Prossimi eventi</li>
+           {% for item in site.events %}
+                {% if item.date > site.time %}
+                    <a class="" href="#{{ item.title }}-modal"><div class="eventsitem"><span class="aisf-text" style="font-weight: bold">{{ item.date | date: '%d %b %Y' }}</span><br>{{ item.title }}</div></a>
+                {% endif %}
+           {% endfor %}
+        </ul>
+      </div>
+-->
+  </div>
+</div>

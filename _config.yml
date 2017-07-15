@@ -1,0 +1,26 @@
+# Site settings
+title: "AISF - Associazione Italiana Studenti di Fisica"
+description: "L'Associazione Italiana Studenti di Fisica (AISF) è un'organizzazione con finalità educative e senza fine di lucro che ambisce a riunire tutti gli studenti di fisica d'Italia."
+banner: img/banner.png
+# url: "http://yourdomain.com" # the base hostname & protocol for your site
+destination: ../site/
+locale: "it"
+
+# Build settings
+markdown: kramdown
+future: true
+permalink: /blog/:year/:month/:day/:title/
+
+#facebook
+fb_admins: 
+fb_appid:
+
+#Collections
+collections:
+  events:
+    output: true
+    permalink: /:categories/:year/:month/:day/:title/
+
+gems:
+ - jekyll-redirect-from
+ - jekyll-sitemap

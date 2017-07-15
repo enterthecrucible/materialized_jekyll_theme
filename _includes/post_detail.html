@@ -1,0 +1,18 @@
+<div class="divider"></div>
+<h5 class="entry-title">
+{% if page.title %}
+    <a href="{{ root_url }}{{ page.url }}" style="color: {{ aisf }}"><h5>{{ page.title }}</h5></a>
+{% endif %}
+{% if post.title %}
+    <div class="chip">{{ post.date | date: '%d %b %Y' }}</div> <a href="{{ root_url }}{{ post.url }}" style="color: {{ aisf }}">{{ post.title }}</a>
+{% endif %}
+</h5>
+<div class="entry-content">{{ content }}</div>
+<div class="row">
+  <div class="right">
+  <a class="btn waves-effect waves-light" href="{{ root_url }}{{ post.url }}" name="action">Continua
+    <i class="material-icons right">send</i>
+  </a>
+  </div>
+</div>
+

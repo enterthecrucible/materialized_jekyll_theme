@@ -1,0 +1,53 @@
+img .fullwidth { /* non funziona, perché? */
+    width: 100%;
+}
+
+.chip {
+  display: inline-block;
+  height: 32px;
+  font-size: 13px;
+  font-weight: 500;
+  color: rgba(0, 0, 0, 0.6);
+  line-height: 32px;
+  padding: 0 12px;
+  border-radius: 16px;
+  background-color: #e4e4e4;
+}
+
+
+span {
+    text-align: justify;
+}
+
+//sets color for font-awesome icons
+.fa {
+    color: $secondary-color
+}
+
+.carousel {
+    height: 500px;
+    .carousel-item {
+	width: 500px;
+	img {
+	    width:100%;
+	}
+    }
+}
+
+@import "custom_c/events";
+@import "custom_c/article";
+
+#index-top-logo {
+width: 100%;
+padding: 20px 0 0 0;
+}
+
+#index-page h2 { font-size: $h5-fontsize; line-height: 110%; margin: ($h5-fontsize / 2) 0 ($h5-fontsize / 2.5) 0;}
+
+#index-page h3 { font-size: $h4-fontsize; line-height: 110%; margin: ($h4-fontsize / 2) 0 ($h4-fontsize / 2.5) 0;}
+
+#index-page h4 { font-size: $h3-fontsize; line-height: 110%; margin: ($h3-fontsize / 2) 0 ($h3-fontsize / 2.5) 0;}
+
+#foto-eventi { font-size: $h5-fontsize; line-height: 110%; margin: ($h5-fontsize / 2) 0 ($h5-fontsize / 2.5) 0;}
+
+#index-collection-eventi span { font-size: $h5-fontsize; line-height: 110%; margin: ($h5-fontsize / 2) 0 ($h5-fontsize / 2.5) 0;}

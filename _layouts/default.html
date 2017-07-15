@@ -1,0 +1,12 @@
+{% assign aisf = "#28008c" %}
+{% assign crimson = "#d60430" %}
+<!DOCTYPE html>
+<html lang="it">
+  {% include head.html %}
+  <body>
+    {% include nav.html nav=site.data.menu %}
+        {{ content }}
+    {% include footer.html %}
+  </body>
+  {% include scripts.html %}
+</html>

@@ -1,0 +1,17 @@
+L'atto fondativo, i verbali delle Assemblee Generali e dei meeting del comitato esecutivo sono di pubblico dominio e liberamente consultabili.
+
+{% for anno in include.verbali %}
+<h3>{{ anno.text }}</h3>
+
+<div class="collection">
+  {% for verbali in anno.verbali %}
+  <a href="{{ verbali.link }}" class="collection-item">
+    <div class="row" style="margin:0">
+      <div class="col s12 m8">{{ verbali.text }}</div>
+      <div class="col s12 m4"><div class="right grey-text darken-3">{{ verbali.data }}</div></div>
+    </div>
+  </a>
+  {% endfor %}
+</div>
+{% endfor %}
+

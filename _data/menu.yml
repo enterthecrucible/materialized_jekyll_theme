@@ -1,0 +1,26 @@
+- text: Chi siamo
+  url: /about/
+  slug: about
+  subitems:
+    - text: Comitato Esecutivo
+      url: /esecutivo/
+    - text: Comitati Locali
+      url: /comitatilocali/
+    - text: Documenti
+      url: /documenti/
+- text: Eventi
+  url: /eventi/
+- text: Iscriviti
+  url: /iscrizione/
+- text: FERMI
+  url: /fermi/
+- text: Blog
+  url: /blog
+- text: SdR
+  url: /sistemidiriferimento/
+# - text: IAPS
+#   url: /iaps
+- text: ICPS2017
+  url: http://www.icps2017.it
+- text: English version
+  url: /en/

@@ -1,0 +1,70 @@
+{% assign navurl = page.url | remove: 'index.html' %}
+{% for item in include.nav %}
+    {% if item.subitems %}
+    <ul id="dropdown-{{ item.slug }}" class="dropdown-content">
+      <li><a href="{{ item.url }}">{{ item.text }}</a></li>
+      {% for subitem in item.subitems %}
+      <li><a href="{{ subitem.url }}">{{ subitem.text }}</a></li>
+      {% endfor %}
+    </ul>
+{% endif %}
+{% endfor %}
+
+<nav class="aisf" role="navigation">
+    <div class="nav-wrapper container">
+        <a href="#" data-activates="nav-mobile" class="button-collapse hide-on-large-only"><i class="material-icons">menu</i></a>
+        <a id="logo-container" href="/index.html" class="brand-logo">AISF</a>
+    
+        <ul class="right hide-on-med-and-down">
+          {% for item in include.nav %}
+          {% if item.subitems %}
+          <li>
+            <a class="dropdown-button" href="{{ item.url }}" data-activates="dropdown-{{ item.slug }}">{{ item.text }}<i class="material-icons right">arrow_drop_down</i></a>
+          </li>
+          {% else %}
+            <li>
+                <a href="{{ item.url }}">
+                    {% if item.url == navurl %}
+                        <b>{{ item.text }}</b>
+                    {% else %}
+                        {{ item.text }}
+                    {% endif %}
+                </a>
+            </li>
+            {% endif %}
+        {% endfor %}
+        </ul>
+        
+        <ul id="nav-mobile" class="side-nav">
+            <li class="logo"><a id="mobile-logo-container" href="/"><object id="front-page-logo" type="image/png" style="width:100%" data="/img/logo.png">Your browser does not support PNG</object></a></li>
+            {% for item in include.nav %}
+                {% if item.subitems %}
+                <li class="no-padding">
+                <ul class="collapsible collapsible-accordion">
+                  <li>
+                      <a class="collapsible-header">{{ item.text }}</a>
+                    <div class="collapsible-body">
+                      <ul>
+                        <li><a href="{{ item.url }}">{{ item.text }}</a></li>
+                    {% for subitem in item.subitems %}
+                        <li><a href="{{ subitem.url }}">{{ subitem.text }}</a></li>
+                    {% endfor %}
+                      </ul>
+                    </div>
+                  </li>
+                </ul>
+                </li>
+                {% else %}
+                <li><a href="{{ item.url }}">
+                  {% if item.url == navurl %}
+                  {{ item.text }}
+                  {% else %}
+                  {{ item.text }}
+                  {% endif %}
+                </a></li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+</nav>
+      
